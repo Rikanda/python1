@@ -4,7 +4,7 @@ import csv
 def parseCSV(csv_file):
     data_list=[]
     with open(csv_file,'r', encoding="utf-8") as csvfile:
-        reader = csv.reader(csvfile)
+        reader = csv.reader(csvfile, delimiter='\t')
         line_count = 0
         for row in reader:
             if line_count==0:
@@ -14,3 +14,4 @@ def parseCSV(csv_file):
                 data_list.append(str_data)
                 line_count+=1
     return(data_list)
+
