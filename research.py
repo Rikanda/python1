@@ -9,9 +9,15 @@ from sklearn.metrics import mean_absolute_error
 MY_DATASET = 'model.csv'
 df = pd.read_csv(MY_DATASET)
 #print(df.head())
-x = df[['DSI_ukwac', 'DSI_subtitle', 'DSI_baroni', 'DSI_glove', "DSI_TASA", 'LSE','dat']]
+x = df[['ukwac', 'subtitle', 'baroni', 'glove', "tasa", 'lse','dat']]
 y = df['originality']
 lr = LinearRegression()
 lr.fit(x, y)
 pred = lr.predict(x)
 print(mean_absolute_error(y, pred), np.mean(y))
+
+#sns.histplot(data = df['originality'], kde = True)
+#plt.savefig("scatterplot.jpg")
+
+sns.histplot(data = df['dat'], kde = True)
+plt.savefig("scatterplot1.jpg")

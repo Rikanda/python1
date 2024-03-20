@@ -7,11 +7,11 @@ def parseCSV(csv_file):
         reader = csv.reader(csvfile, delimiter='\t')
         line_count = 0
         for row in reader:
-            if line_count==0:
-                line_count+=1
-            else:
-                str_data = tuple(row)
-                data_list.append(str_data)
-                line_count+=1
+          #  if line_count==0:
+          #      line_count+=1
+          #  else:
+            str_data = tuple(row)
+            data_list.append(str_data)
+            line_count+=1
     return(data_list)
 
