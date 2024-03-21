@@ -9,7 +9,7 @@ def import_data(d):
 
 
 
-
+# подготовка файла для загрузки в semidis
 def table(i_data):
     dataset = []
     for i in i_data:
@@ -18,7 +18,7 @@ def table(i_data):
   #  pprint(dataset)
     return dataset
 
-data = 'testdata.csv'
+data = 'source/testdata.csv'
 dset = table(import_data(data))
 
 def table2(i_data):
@@ -28,12 +28,6 @@ def table2(i_data):
         dataset.append(row)
     #set1 = list(set(dataset))
     return dataset
-
-data1 = 'study24.csv'
-ctrs = table2(import_data(data1))
-#pprint(ctrs)
-export_csv.transform(ctrs)
-
 
 
 def export_data(ds):

@@ -1,0 +1,28 @@
+import export_scatterplot
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import csv
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error
+import export_scatterplot
+import import_csv
+
+
+# вывод на печать графика - передать датафрейм, атрибут, порядковый номер файла с графиком
+def print_scatter(df, attrib, count):
+    v = df[attrib]
+    pf = str(count)
+    export_scatterplot.export_scpl(v, pf)
+
+
+# формирование датафрейма по пути к файлу и разделителю столбцов
+def declare_dataframe(path, separ):
+    MY_DATASET = path
+    df = pd.read_csv(MY_DATASET, sep=separ)
+    #    print(df.head())
+    return df
+
+def import_data(d):
+    datalist = import_csv.parseCSV(d)
+    return datalist
