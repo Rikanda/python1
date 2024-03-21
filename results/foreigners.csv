@@ -1,0 +1,472 @@
+id,age,gender,country,multilingual,aut.originality.1,aut.originality.2,aut.originality,dat,problems.questions.1,problems.questions.2,problems.questions,problems.cra,problems.combined,word.1,word.2,word.3,word.4,word.5,word.6,word.7,word.8,word.9,word.10
+R_OdMfsIAAB43D7PP,26,Male,Fiji,FALSE,NA,NA,NA,83.7582187815791,NA,NA,NA,0,NA,tyer,block,tin,leaver,idea,sleepers,shoe,gear,roof,kaleidoscope 
+R_3CTrw42twmUzSOL,26,Female,Israel,TRUE,NA,NA,NA,84.3675815566842,NA,NA,NA,2,NA,Dinosaur,Tablecloth,Idea,Sand,Polygamy,Notice,Sadness,Atom,Funnel,Curve
+R_Z33ZtRwlUuIYOZP,35,Male,Denmark,TRUE,NA,NA,NA,70.5205572857743,NA,NA,NA,0,NA,Water,Sun,shirt,car,vacuum,sand,life,thought,numbers,physics
+R_2YnxjS3rNEjLmKS,35,Male,France,TRUE,NA,NA,NA,84.5696535704303,NA,NA,NA,2,NA,plate,tooth,submarine,schedule,rotisserie,broom,tube,ice,book,chili
+R_2Ezb9S538oIIqte,35,Male,Yemen,TRUE,NA,NA,NA,78.5701499276218,NA,NA,NA,0,NA,House,Flower,Pencil,Anemone,Silk,Star,Dice,Pepper,Number,Air
+R_2zbC6fFgAtse9ff,55,Female,Argentina,TRUE,NA,NA,NA,82.3800197492043,NA,NA,NA,0,NA,Woman,Snail,Pier,Moss,Road,Button,Pot,Air,Music,Dirt
+R_u7KjPWhfOWKSg93,35,Male,Switzerland,TRUE,NA,NA,NA,79.5167382629145,NA,NA,NA,0,NA,paper,Moon,Road,horn,cow,panel,laptop,tea,SHOE,snake
+R_3E9VtTNTxqSAlGk,35,Male,Fiji,TRUE,NA,NA,NA,77.4003772153741,NA,NA,NA,0,NA,paper,bolt,step,sponge,chair,wheels,rubbish,truck,pie,engine
+R_3D7LSPWVi9riRm2,65,Male,Netherlands,TRUE,NA,NA,NA,89.9139475742621,NA,NA,NA,1,NA,zebra,string,fork,chair,spectrograph,ether,aether,soul,Uranus,mountain
+R_3oHj18uYwY5Tl3K,55,Male,Austria,FALSE,NA,NA,NA,70.9506493948755,NA,NA,NA,1,NA,Chair,Fence,Wall,Fireplace,Shop,Fork,Shoe,Horse,Ocean,Pencil
+R_2ALlPGyMifynlbk,26,Female,China,TRUE,NA,NA,NA,86.8878202324378,NA,NA,NA,2,NA,Dumplings,Travel,Space,Extinguishers ,Academics ,Ceiling,Pollution ,Family,Insignificance ,Alienation 
+R_3NXoL7uR7ZRJbqi,70,Male,Czech Republic,TRUE,NA,NA,NA,86.5562431514263,NA,NA,NA,1,NA,horse,hammer,battery,love,sky,blowfly,puzzle,penis,bag,hell
+R_1Ojbfq0cBqpLLxm,55,Male,Switzerland,TRUE,NA,NA,NA,78.7934637672845,NA,NA,NA,1,NA,smile,car,broccoli,fish,planet,sound,metal,sleep,night,oxygen
+R_3e8Co9AGyb3D8nT,55,Female,Austria,FALSE,NA,NA,NA,75.0538325735501,NA,NA,NA,1,NA,Rug,Picture,Stick,Sweater ,Ball,Plant,Grape,Umbrella,Pig,Iron
+R_1gFoZMytyGK5UdV,70,Male,Austria,FALSE,NA,NA,NA,72.5466704794339,NA,NA,NA,1,NA,car,horse,house,butter,tape,bed,window,bath,hallow,light
+R_2qyYHX5QUEgHLjZ,70,Male,Poland,TRUE,NA,NA,NA,81.472945346364,NA,NA,NA,1,NA,car,sheep,work,highway,grass,skates,ruler,keyboard,globe,pole
+R_3stqs6220i4uG7I,55,Female,Spain,TRUE,NA,NA,NA,72.6885377651169,NA,NA,NA,0,NA,water air stone cat tree  book tent black sun volcano,air,stone,cat,car,sun,black,volcano,tree,book
+R_2VsV4bXuF5g5qrb,26,Male,Chile,TRUE,NA,NA,NA,76.6998223250821,NA,NA,NA,2,NA,Computer,Tree,Window,Car,Shoe,Guitar,Needle,Dog,Rifle,tray
+R_3EnAGIHd6FFPc01,70,Female,Netherlands,TRUE,NA,NA,NA,87.271980080931,NA,NA,NA,2,NA,Shoes,Flowers,Pencil,Stapler,Radio,Horse,Singlet,Hair,Sky,Nose
+R_WuHiJytrJJ90o9z,65,Male,Germany,TRUE,NA,NA,NA,70.6859300179141,NA,NA,NA,1,NA,coffee,chair,floor,sky,mountain,lake,song,painting,country,crime
+R_5gmVRlHKG5R0yYx,55,Female,Uruguay,TRUE,NA,NA,NA,73.0151258054234,NA,NA,NA,0,NA,flower,car,house,dog,pencil,gun,sea,tree,ceiling,rough
+R_2YmGDnyQeeNfrWV,55,Female,Malaysia,TRUE,NA,NA,NA,76.3093117447126,NA,NA,NA,1,NA,Paper ,Pillow,Tablet,Vase,Flowers ,Graphics,Food,Makeup,Toothbrush ,Mobile phone 
+R_2YkT6dJmFETcbBj,35,Male,Germany,TRUE,NA,NA,NA,79.2195280548185,NA,NA,NA,1,NA,Weather,Job,Feeling,Helicopter ,Bed,Son,Cupboard,Country ,Eagle,Road
+R_2WHacQ76URQelyN,26,Male,France,TRUE,NA,NA,NA,76.3866803830578,NA,NA,NA,1,NA,Paper,Chair,Nail,Glass,Sun,Summit,Car,Message,Camera,Sculpture
+R_1JCRMn1ZkLQG2M3,65,Female,Switzerland,TRUE,NA,NA,NA,72.4006024854524,NA,NA,NA,0,NA,Dog,Apple,Flower,Car,Book,Smile,Eye,Fire,Head,Radio
+R_12myfDERyo2IXUM,70,Female,Hungary,TRUE,NA,NA,NA,86.1671917794627,NA,NA,NA,1,NA,Music,Brick,Schnitzel,Petunia,Mountain,Meditation,Ocean,Walkway,Fashion,Yoga
+R_1XF4Az7UCLdjwoV,26,Female,Philippines,FALSE,NA,NA,NA,82.9917622075993,NA,NA,NA,1,NA,Sun,Dog,Floor,Window,Cake,Book,Jump rope,Texter,Gyroscope,Thumb tack
+R_vNBdKt9pJP2Tc5P,35,Male,Netherlands,TRUE,NA,NA,NA,76.7992047326905,NA,NA,NA,1,NA,Plank,Chair,Water,Planet,House,Car,Book,Surfboard,Laser,Dog
+R_3lDGkcWBM5aP7hO,70,Male,Netherlands,TRUE,NA,NA,NA,72.2438765601033,NA,NA,NA,2,NA,concrete,button,elastic,sky,water,coat,sun,soap,wheel,wood
+R_2P11H6Ys65oQgkW,55,Male,Russian Federation,TRUE,NA,NA,NA,75.310686993457,NA,NA,NA,1,NA,ball,sky,love,science,address,behaivior,computer,brain,fish,mark
+R_SGHthQlcXPhJs7T,13,Female,China,TRUE,NA,NA,NA,80.393762400906,NA,NA,NA,1,NA,Computer,Shoe,Pen,Fish tank,Badge,Paper,Ink,Sky,Light,Folder
+R_z2zLBNh1cbGgtYB,70,Male,Hungary,TRUE,NA,NA,NA,75.5770378879138,NA,NA,NA,0,NA,Rain,Wood,Sky,Computer,Steering wheel,Battery,Potato,Camera,Holiday,Map
+R_2a8PfywMbUI5gFE,55,Male,Sri Lanka,TRUE,NA,NA,NA,69.9107464935098,NA,NA,NA,0,NA,paper,hand,book,wall,sky,hammer,chair,key,tounge,water
+R_ANExC96B6mbQDuN,65,Female,Germany,TRUE,NA,NA,NA,76.9801816559352,NA,NA,NA,1,NA,apple,watering can,fridge,car,lamp,cauliflower,chair,basement,pan,grass
+R_2rqjqkq3SQ6SPet,13,Female,Italy,TRUE,NA,NA,NA,66.1837147105308,NA,NA,NA,1,NA,ability,anxiety,student,trust,wisdom,health,classroom,dog,spider,frog
+R_1q55r6Iht2E085e,13,Female,Philippines,TRUE,NA,NA,NA,74.3235204901014,NA,NA,NA,0,NA,City,Table,Computer,Bridge,Science,Book,Beauty,Philippines ,Ocean,Phone
+R_2dQicrUMAbfAZTh,35,Male,Brazil,TRUE,NA,NA,NA,78.1098437451181,NA,NA,NA,1,NA,Chair,Mobile,Brain,Bottle,garage,Sandwich,Oven,Book,Balcony,Park
+R_3rsostnY9qV9qE1,55,Male,Viet Nam,TRUE,NA,NA,NA,84.6531303067293,NA,NA,NA,0,NA,Differ,Deference ,Fire,Ten,Terrence ,Refer ,Dent,Riff,Trend ,Ten
+R_9yGPJ7NSIwu0wZX,35,Male,Finland,TRUE,NA,NA,NA,80.3676095746812,NA,NA,NA,1,NA,apple,car,kite,cow,rifle,painting,chest,ring,grass,moon
+R_PLHxNfAogK50xyh,26,Male,Papua New Guinea,FALSE,1,1,1,71.5785238714445,1,1,1,1,2,Chair,Hat,Scissors,Hook,Door,Iron,Clock,paint,weights,desk
+R_1jUqhQ160e8fyUt,70,Female,Poland,TRUE,NA,NA,NA,69.8323952300208,NA,NA,NA,2,NA,book,door,computer,head,hand,dress,shoes,scarf,coat,wardrobe
+R_3ESRQy8EiQN8tkv,7,Female,Chile,TRUE,1.5,1.5,1.5,75.7875552134854,1,1,1,0,1,cake,person,beetle,paper,chicken,blood,hair,flute,elephant,underpants
+R_1CI4fxfbrr6IeCN,65,Male,Italy,TRUE,NA,NA,NA,83.869647616077,NA,NA,NA,1,NA,Weight,Fire,Plastic,Platypus,Moon,Coffee,Gearbox,Pesticide,Guilt,Ceiling
+R_AL1Ry8pmnIsi1wJ,65,Female,Ghana,FALSE,NA,NA,NA,76.1301934364296,NA,NA,NA,2,NA,Religion ,Brick,Glue,Sun,Ice,Steam,Sponge,Lung,Anger,Compassion 
+R_29nLO7FTWv92YS2,35,Female,Serbia,TRUE,NA,NA,NA,75.8771390432403,NA,NA,NA,0,NA,blanket,rose,cup,idea,sunshine,pleasure,seven,infinity,sky,fingers
+R_4Pb3dgZ1KTPpP0d,55,Male,Cyprus,TRUE,NA,NA,NA,85.1651614797967,NA,NA,NA,2,NA,Wine,Book ,Vase,Mirror,Bulldozer,Yacht ,Cushion,Hospital,Desert,Tree
+R_1Ed42qK0mBirb2g,65,Female,Germany,TRUE,NA,NA,NA,80.4619842164573,NA,NA,NA,1,NA,fence,child,animal,asphalt,leaf,couch,modem,lid,page,pit
+R_3KIUIFmOXBVhEhI,35,Female,Papua New Guinea,TRUE,NA,NA,NA,79.0764484554529,NA,NA,NA,1,NA,Tree,Silo,Cat,Human being,Car,Sky,Dress,Fan,Paper,Softball 
+R_wNxL9SriARfigmd,18,Female,Viet Nam,TRUE,NA,NA,NA,70.6580151404653,NA,NA,NA,0,NA,Head,Box,Pillow,Bear,Bun,Lamp,Rug,Tear,Farm,Sofa
+R_1DVguhdyEkXIzYK,18,Female,Turkey,TRUE,NA,NA,NA,79.8078162773025,NA,NA,NA,0,NA,Phone,Waste,Emission,Programming,Car,Relationship ,Plant,Thorn,Business,Chocolate 
+R_1ojypBMShhK7z3Z,26,Male,Sri Lanka,TRUE,NA,NA,NA,82.4963434466294,NA,NA,NA,1,NA,book,lion,orange,bacteria,plane,stick,astronaut,goldfish,balloon,grid
+R_3CIrku1XcP50Rjr,35,Female,Kenya,FALSE,NA,NA,NA,80.9719102900653,NA,NA,NA,0,NA,Rat,Tree,Cup,Finger,Lawyer,Australia,Olympics,Shoe,River,Can
+R_3elB5BKMZIAtN1F,55,Female,Uruguay,TRUE,NA,NA,NA,78.2189016186056,NA,NA,NA,2,NA,Dog,Cup,Skirt,Car,Injection,Flower,Camera,Bin,Brush,Toothpick
+R_2R8EQE3dWVLXocs,55,Male,Venezuela, Bolivarian Republic of...,FALSE,NA,NA,NA,94.096301746599,NA,NA,NA,2,NA,Towtruck,Bakedbeans,Chainsaw,Flour,Satellite,Seaweed,Grumpiness,Torture,Elegance
+R_2oaDPps0LN10R3z,35,Female,Netherlands,TRUE,NA,NA,NA,74.9752764190946,NA,NA,NA,1,NA,kettle,hammer,tie,pen,heater,freezer,eraser,curtain,roof,car
+R_1l06l4nuh0PIe63,35,Female,Greece,TRUE,NA,NA,NA,78.146975815651,NA,NA,NA,1,NA,Shoe,Spaghettu,Tampon,Pea,Flower,Map,Soap,Grass,Golf,Steps
+R_qVr23PJbTWe3EVH,35,Female,Germany,TRUE,NA,NA,NA,76.8772366146246,NA,NA,NA,0,NA,Hat,Car,Sky,Chair,Dog,Photo,Cereal,Boot,Kettle,Moon
+R_2DZUsDzt9xwRj5I,65,Male,Malaysia,TRUE,NA,NA,NA,82.6655341400987,NA,NA,NA,1,NA,Car,Mule,Holves,Chain,String,Elevator,Rocket,Singer,Wine,Stew
+R_3FUxJ00pK3pxfHi,55,Female,Finland,TRUE,NA,NA,NA,81.6863285466319,NA,NA,NA,1,NA,orange,cat,shops,spade,chalk,accountant,herb,party,gingervread,teaspoon
+R_1rB0mwjqSaNff5a,26,Female,Guatemala,TRUE,NA,NA,NA,76.4863035153775,NA,NA,NA,0,NA,Wind,Arrow,Cheese,Computer,Clothes,Tree,Mountain,Bank,Song,Ant
+R_1Cf60Adc4Z9SZ07,26,Male,Lebanon,TRUE,NA,NA,NA,45.0486126400176,NA,NA,NA,0,NA,Apple,Orange,Potato,Broccoli ,Strawberry ,Banana,Chicken,Beef,Salmon,Tea
+R_31SMqPLoCPEml3k,55,Male,Denmark,FALSE,NA,NA,NA,78.1856248066539,NA,NA,NA,1,NA,banana,black,car,enlightenment,rubber ,head,wine,spaceship,goose,egg
+R_1DSdEIQCdxQD4ru,26,Female,France,TRUE,NA,NA,NA,81.4726475437748,NA,NA,NA,0,NA,Grass,Pen,Car,Hi,Beautiful ,Certainly ,Impolite,Report,Harassment ,Brun 
+R_3033O5geiOAloD4,18,Female,Austria,TRUE,NA,NA,NA,87.8310537852702,NA,NA,NA,1,NA,cloud ,laptop,butterfly ,book,cash register,lettuce ,high heel shoe,clipboard ,lolly ,phone
+R_3gL2SK9r1dvRPbz,65,Female,Germany,TRUE,NA,NA,NA,77.7029029670216,NA,NA,NA,0,NA,Pillow,Bird,Tractor,Curtain,Painting ,Sunrise ,Grandchild,Haircut,Cough,iPad 
+R_2SwQ62I5HMdRjXk,65,Female,Germany,TRUE,NA,NA,NA,73.2469354357038,NA,NA,NA,2,NA,Door ,Wind,Yellow,Cat,Newspaper,Bed,Car,Cold,Ringing,Tv
+R_1IDUhQOSyvPHmIl,35,Female,Malaysia,FALSE,NA,NA,NA,85.4473371125225,NA,NA,NA,0,NA,Desk,Bannana,Clock,Dog,Eye glasses,Crucifix ,Sky,Emoji,Shoe cleaner,Cage
+R_2WNHkQnyybf0qi4,35,Male,Israel,TRUE,NA,NA,NA,81.8425424108725,NA,NA,NA,1,NA,dart,tongue,dolphin,earplug,shampoo,car,feather,accordion,computer bug,spec of dust
+R_2BmM20XzvhWOtN3,70,Male,Netherlands,TRUE,NA,NA,NA,68.4696061270578,NA,NA,NA,1,NA,bread,stone,wind,water,tree,house,child,wool,blanket,light
+R_e8KlzLjGlnHl185,26,Female,Indonesia,TRUE,NA,NA,NA,74.3114853189105,NA,NA,NA,0,NA,car,bottle,handphone,book,paper,glasses,shoe,computer,wallet,key
+R_sUzhz1vlVJ96eQh,35,Male,Fiji,FALSE,NA,NA,NA,77.4234917990509,NA,NA,NA,0,NA,car,tree,bottle,knife,refrigerator,footpath,powerline,gravel,kite,peach
+R_1DYJmUMM6277WwY,35,Male,Austria,TRUE,1.5,2,1.75,84.477014879563,2,2,2,1,3,bean,rocket,crystal,note,cable,book,lava,concept,protron,whisp
+R_3qaOlvePLVu4UXF,35,Female,Argentina,TRUE,NA,NA,NA,85.6195509217547,NA,NA,NA,0,NA,elephant,spinach,clock,mountain,colander,cloud,transporter,train,seed,electric plug
+R_2rC1w2eN4VkcfOD,35,Female,Israel,TRUE,NA,NA,NA,89.4901194920143,NA,NA,NA,0,NA,painkiller,luna park,astronomy,parrot,anchor,ice cream,screwdriver,family,chip,paw
+R_21yVmyPADmwrRM2,55,Female,Germany,TRUE,NA,NA,NA,63.3926159569195,NA,NA,NA,1,NA,Water,Fire,Cold,Heat,Ice,Fire,Water,Solid,Softness,HARDSHIP
+R_3QVsNI66kXrQ9uP,65,Female,Netherlands,TRUE,NA,NA,NA,69.4250836613632,NA,NA,NA,0,NA,fish,palm,truck,water,seed,bird,hook,hair,boot,fence
+R_2qzc2B7LZ17YYgi,70,Female,Netherlands,TRUE,NA,NA,NA,65.114566045148,NA,NA,NA,0,NA,Clay,Glass,Sand,Folage,Rug,Stone,Charcoal,Scissors,Tin,Bag
+R_3iPAObMW2at15Tf,55,Female,Austria,TRUE,NA,NA,NA,77.2226139548279,NA,NA,NA,0,NA,bat,butter,coat,car,glass,book,ring,cow,toothbrush,nail
+R_PI2ihWBw6RyTUGd,26,Male,China,TRUE,NA,NA,NA,80.6399917762194,NA,NA,NA,1,NA,tree,fish,house,cloud,cornea,electricity,shoe,wheel,fire,time
+R_2Y3LZFb02S0DZIn,55,Female,Austria,TRUE,NA,NA,NA,77.7874123127688,NA,NA,NA,2,NA,tree,basin,apple,car,love,building,pleasure,pain,space,time
+R_2yghaV30bIthdqa,13,Female,China,TRUE,NA,NA,NA,91.4074468492929,NA,NA,NA,1,NA,Nuclei,Parcel,Dessert,Hallucination,Mother,Dividend,Cantonese,Space shuttle,Seaweed,Gravity
+R_3JqHYUlNw8srlVs,55,Male,Zambia,FALSE,1,1,1,74.1027376126675,1,1,1,1,2,Car,Horse,House,Flower,Donut,Hair,Tool,Rain,Chair,Windows 
+R_3fUBTkFwL7OkLwS,35,Male,Malaysia,TRUE,NA,NA,NA,83.0682530289605,NA,NA,NA,1,NA,spaceship,coffee,eyes,puppy,theatre,blueberries,pirate,football,napkin,book
+R_2czrOQbgGY4cvof,26,Female,Zimbabwe,FALSE,NA,NA,NA,80.7751018066137,NA,NA,NA,2,NA,red,cat,building,blender,shoe lace,silk,water,girl,photograph,toilet paper
+R_1H5YZuVxQTV6q7p,55,Male,Sri Lanka,TRUE,NA,NA,NA,84.3096588339124,NA,NA,NA,2,NA,Begger,Stalker,Anatomy,Serpant,Ambulance,Flag,Door stopper,Broom,Breast,Sock
+R_3ES9d7x7VvDgmvS,70,Male,Netherlands,TRUE,NA,NA,NA,55.802975949787,NA,NA,NA,1,NA,hard,soft,wet,dry,slimy,dusty,sticky,coloured,blank,invisible
+R_3dLcsSf1Z6eL5ps,35,Female,Finland,TRUE,NA,NA,NA,77.3542630885329,NA,NA,NA,0,NA,Rock,Airplane,Tree,Soap bar,Spoon,Comb,Ruler,Pencil,Pillow,Brick
+R_3M4CqyT68ctBN05,55,Male,Netherlands,TRUE,NA,NA,NA,79.2413949611641,NA,NA,NA,1,NA,Cloud,Frog,Sand,Screw,Spoon,Shoelace,Flower,Finger,Typewriter,Magazine
+R_1o1D4MnIF1On2JU,70,Male,Netherlands,TRUE,NA,NA,NA,80.0855013231436,NA,NA,NA,0,NA,Tree,Anxiety,Death,Shoe,Planet,Wealth,Atom,Shopping,Day,Track
+R_899GBRpXLMpXwwF,35,Male,Papua New Guinea,TRUE,NA,NA,NA,78.7645771966449,NA,NA,NA,2,NA,hope,Queensland,plants,seawater,moon,carpet,spring,music,plastic,light
+R_6gQdpmft5gNI7o5,55,Female,Netherlands,TRUE,NA,NA,NA,77.209847710938,NA,NA,NA,2,NA,Dog,Cooking pot,Plant,Water bowl,Fire,Door,Husband,Pillow,Doorstop,Magazine
+R_Y3orTDVeZZ6ayOd,35,Male,Colombia,TRUE,NA,NA,NA,75.8049776866322,NA,NA,NA,1,NA,Tree,Computer,Shoe,Steam,Hook,Sock,Rubber bands ,Mirror ,Wing,Rock
+R_Ce0rFFuYuPjL9CN,35,Female,Fiji,TRUE,NA,NA,NA,66.749534525332,NA,NA,NA,0,NA,water,air,space,fire,earth,element,molecule,plant,animal,god
+R_ysu63j6DeXGDJ6N,35,Male,Sri Lanka,TRUE,NA,NA,NA,80.2619030344344,NA,NA,NA,2,NA,Parrot,Grass,Hammer,Petrol,Toy,Clown,Drugs ,Blood,Spice,Table
+R_3Jz385R6YTgpJtN,35,Female,Brazil,TRUE,NA,NA,NA,78.9322085855972,NA,NA,NA,1,NA,Car,Table,Lizard,Lamb,Pen ,Phone,Computer,Desk,printer,Friendship 
+R_22V12cIEMshrEOO,35,Female,Papua New Guinea,FALSE,NA,NA,NA,80.2219821228867,NA,NA,NA,2,NA,table,mountain,sheep,seaweed,camera,brain,planet,wind,peg,paper
+R_2P4ZpoeHb2HtWgT,26,Female,Malaysia,FALSE,NA,NA,NA,83.5905233952438,NA,NA,NA,1,NA,Bowl,Needles,Hippo ,TV,Flower,Racket,Facebook ,Burger,Children,Roof
+R_DIb3MASVfkqCgZH,35,Male,Iran, Islamic Republic of...,TRUE,1.5,0,0.75,77.3934768424148,1,1,1,1,2,Pen,Carpet,Television ,Watch,Hat,Balcony ,Socks ,Car,Street
+R_2uEQp2cwRSiREtp,35,Male,Kenya,TRUE,NA,NA,NA,83.5902397121702,NA,NA,NA,1,NA,Kite ,Brick,Chocolate ,Dolphin,Shot ,Tree,Shuttlecock,Cigarette ,Ear ,Wheel
+R_2SIuORVmbZKWSfd,70,Female,Botswana,FALSE,NA,NA,NA,73.8279886543751,NA,NA,NA,1,NA,risk,breadth,strength,colour,feeling,idea,bench,flower,soil,rain
+R_2Cgq8mAWK4NbGDL,35,Female,Ethiopia,TRUE,NA,NA,NA,79.7211268295844,NA,NA,NA,1,NA,Car,Dog,Newspaper,Hair brush,Tea pot,Dress,Pillow,Curtain,Stereo,Microwave
+R_Dw3UZKcn8keGuhX,35,Female,Bosnia and Herzegovina,TRUE,NA,NA,NA,80.8164850232147,NA,NA,NA,1,NA,Hand body part,Door,Phone,Tooth brush ,Plate,Shoos,Toys,Nail clippers ,Hair shampoo ,Car
+R_1GDlPvii3iqMoOD,26,Male,Serbia,TRUE,NA,NA,NA,86.439310351298,NA,NA,NA,1,NA,Cigarette,Umbrella,Washcloth,Beef,Love,Masturbation,Socket,Tusk,Broadway,Javelin 
+R_2TpG55czxlMS129,65,Female,Malaysia,TRUE,NA,NA,NA,74.2299592920712,NA,NA,NA,0,NA,Cup,Wall ,Pencil,Carpet,Fan,Television,Box,Bath,Glass,Plant
+R_1pXWBH1Bu2EGO4n,55,Male,Cyprus,FALSE,NA,NA,NA,59.1010353394917,NA,NA,NA,0,NA,door,car,air,snow,rain,weather,fire,winter,sleep,drink
+R_TsXuNwldsrckP1n,35,Female,Hungary,TRUE,NA,NA,NA,80.406127355638,NA,NA,NA,1,NA,Volcano,Car,Pen,Spaceship,Boat,Spoon,Hose,Backpack,Violin,Dice
+R_3kO0cf499dI5R6q,70,Female,Switzerland,TRUE,NA,NA,NA,82.1501503388087,NA,NA,NA,0,NA,vision,orchids,astronomy,health,car,cat,walk,cream,arm,God
+R_2EE6ZEaMJCjcZDO,65,Female,Netherlands,TRUE,0,0,0,68.1159596358027,1,1,1,2,3,chair,ceiling,tree,fire,water,air,rock,organism,heat,cold
+R_2Ybuc2ia3SQVDzN,35,Male,Austria,TRUE,NA,NA,NA,93.1948710809506,NA,NA,NA,0,NA,florin,prickle,carabiner,neuroplasticity,gap,carburetor,felt,word,jigsaw,flashlight
+R_10OZ6iE5TJwz81b,55,Female,Malaysia,FALSE,NA,NA,NA,73.9454442191692,NA,NA,NA,2,NA,Cat,Fish,Rainbow,Cannon,Stars,Flowers,River,Motorbike ,Dress,Donut
+R_dd855rOcAZs3757,70,Male,Hungary,TRUE,NA,NA,NA,75.5463734269142,NA,NA,NA,0,NA,cloud,water,dog,pasta,table,grass,train,book,sausage,heater
+R_3lRoaVDjF9kmnzk,55,Male,Azerbaijan,FALSE,NA,NA,NA,76.9127264264084,NA,NA,NA,2,NA,pen, ,book,house,grass,brick,nose,ruler,phone,headphone
+R_1eDF3Q3DQSFJZGH,55,Male,Kenya,FALSE,NA,NA,NA,89.0942413465209,NA,NA,NA,1,NA,Bee,Jelly,Museum,Veranda,Cockerel ,Transistor ,Ocean,Coil,Map,Elevator 
+R_2pKc5TrhcQakAUH,65,Female,Portugal,FALSE,NA,NA,NA,81.1807938685108,NA,NA,NA,1,NA,cool,hypo,hyper,wedge,hedge,freak,beauty,bowl,pool,book
+R_vdicjE0xSXpqp2x,65,Female,Netherlands,FALSE,0,0,0,74.5348405270349,1,1,1,1,2,shovel,pan,sand,water,crayon,computer,car,aeroplane,book,wool
+R_10ow58E2oJoWdwL,65,Female,France,TRUE,NA,NA,NA,76.8223782025632,NA,NA,NA,1,NA,book,flower,stone ,dog,blanket,alphabet,sound,sea,mountain,car
+R_1dg0TCY3Qxx72t5,18,Male,Lebanon,TRUE,NA,NA,NA,76.4793590065979,NA,NA,NA,2,NA,Olive,Boat,Wind,Book,Face,Paint,Money,Glue,Digestion,Heat
+R_DcvYjGAjb2uGExP,35,Female,Sweden,TRUE,NA,NA,NA,66.2995257547924,NA,NA,NA,1,NA,door,wall,floor,tree,strawberry,computer,box,toy,car,bus
+R_vcOKDKIjev89zmF,13,Male,Afghanistan,FALSE,NA,NA,NA,84.0201492464292,NA,NA,NA,2,NA,esky,computer,banana,mountain,ocean,shoe,gate,ball,cup,vaccum cleaner
+R_3KN0Le7BmHkuOha,35,Male,Russian Federation,TRUE,NA,NA,NA,72.1540125707785,NA,NA,NA,2,NA,Car,Man,Sun,Hotel,Tree,Oil,Ice,Syringe,Bible,Pants
+R_1ddmQ7z2p0urPJw,13,Male,China,TRUE,NA,NA,NA,89.209847434956,NA,NA,NA,1,NA,Lightbulb,Ukulele,cornflour,silicon,mouse,happiness,paper,shoe,printer,reserve
+R_1FLgOzR6yqcRab9,55,Male,Italy,TRUE,NA,NA,NA,80.3487582575707,NA,NA,NA,1,NA,snow,meteor,xenon,vulcan,purple,iron,pi,magma,tomorrow,zero
+R_33xtmnurjShYLwM,55,Female,Hungary,TRUE,NA,NA,NA,84.828288404138,NA,NA,NA,0,NA,Apple,House,Mountain,Rubber,Wother,Calendar,Aeroplane,Eyelid,Show,Parking
+R_C9r1M3ytY9kTDsl,65,Male,Viet Nam,TRUE,NA,NA,NA,50.7347983973367,NA,NA,NA,2,NA,Wall,Floor,Ceiling,Door,Window,Lounge,Chair,Table,Bowl,Fan
+R_3h5yqQUoTMkGhXK,26,Female,Germany,TRUE,NA,NA,NA,69.8893493839673,NA,NA,NA,1,NA,Bed,Orange,Thought,Water,Literatur,Hair,Art,Dog,Heart,Schuh
+R_2VQh37hUclVehSx,35,Male,Germany,TRUE,NA,NA,NA,85.6561975997119,NA,NA,NA,0,NA,Koala,Airplane,Orchid,Drawer,Kidney,Laptop,Trimmer,Neopren,Shoes,Coal
+R_1ptikGLaKt32ioY,35,Female,United Arab Emirates,FALSE,NA,NA,NA,83.3485060548853,NA,NA,NA,2,NA,Tree,Flea,Bed,Sand,Stardust,Blanket,Amoebae ,Skeleton,Paintbrush,Egg
+R_29m2tWDi867AOck,55,Female,Finland,TRUE,NA,NA,NA,77.5656297802925,NA,NA,NA,1,NA,Tree,Boulder,Airplane ,Cat,Beef,Flower,Chair,Typewriter ,Sun,Dam
+R_3lRBfPj1ZD0JaE4,70,Female,Nigeria,TRUE,NA,NA,NA,63.0468058444205,NA,NA,NA,2,NA,good,bad,wicked,SAME,BLANK,COVERED,SIMPLE,COMPLEX,COLOURED,WHITE
+R_e9SYksCvQCHzjUJ,55,Male,Malaysia,FALSE,NA,NA,NA,80.3032443193453,NA,NA,NA,2,NA,animal,shoe,tree,sky,car,credit card,sauce pan,bread,finger,chalk
+R_2EiBMyawWGus9kV,26,Female,Malaysia,TRUE,NA,NA,NA,77.3332747675124,NA,NA,NA,2,NA,Cat,Star,Bridge,Lavendar,Jug,Mother,Sad,Gift,Flat,Hammer
+R_1gphXw7i9ZY4gEj,70,Female,France,TRUE,NA,NA,NA,66.6968872149785,NA,NA,NA,1,NA,book,pamphlet,leaflet,tome,encyclopaedia,volume,journal,review,magazine,diary
+R_1j9fHXcWk93kx11,26,Female,Malaysia,FALSE,NA,NA,NA,87.2939028732833,NA,NA,NA,1,NA,dog,cardboard box,cupcake,algae,plasticine,sunflower,philosophy,cello,calculator,marriage
+R_1EduAH7qNJTwVOa,55,Female,Italy,TRUE,NA,NA,NA,78.4759219913256,NA,NA,NA,1,NA,brick,paper,dog,apple,record,shoes,traffic lights,basket,money,stars
+R_SVJyHHPzPWdnjRD,35,Male,'Democratic People''s Republic of Korea',TRUE,NA,NA,NA,91.5326668406903,NA,NA,NA,0,NA,flour,explosion,termidity,colostomy,drubbing,hector,capture,quell,portend,alabaster
+R_vo5THo0oH9Fdzxf,35,Female,Angola,TRUE,NA,NA,NA,84.6267306320009,NA,NA,NA,2,NA,house,shoe,cuttlefish,branch,road,washing machine,typewriter,carpet,saxophone,liver
+R_1LIDUmiQWwhBNyS,13,Male,Bangladesh,TRUE,NA,NA,NA,72.4241859323922,NA,NA,NA,0,NA,gay,homo,skank,lgbbqt,virgin,anal,sport,swimming,aussie kiss ,french kiss
+R_3j2JV4U2TacgEfg,35,Female,Netherlands,TRUE,NA,NA,NA,89.308123725156,NA,NA,NA,2,NA,snow ,concrete,tardigrade,planet,broccoli,ballet barre,airplane,teacher,dust storm,dinosaur
+R_SJlNlhlApQDotHj,65,Female,Zambia,TRUE,NA,NA,NA,75.8546147229416,NA,NA,NA,2,NA,Fire,Earth,Carpet,Chair,Glass,Minerals,Music,Scarf,Toilet,Globe
+R_1jwVwq0AVpMVWJ4,35,Female,Netherlands,TRUE,NA,NA,NA,80.9724480534593,NA,NA,NA,2,NA,cow,motorcycle,garden,fish,book,hairdresser,lantern,dinner,road,cable
+R_2v6RwP1mLHg6BhU,18,Female,China,TRUE,NA,NA,NA,72.2066409531094,NA,NA,NA,1,NA,cat,window,hair,elevator,jacket,red,love,am,sculpture,screen
+R_yybEr1JMjDRpvHj,13,Female,Philippines,TRUE,NA,NA,NA,94.439343035975,NA,NA,NA,0,NA,mitochondria,cyclone,quasar,magazine,warehouse,laptop,sauerkraut,kilt,love,crossbow
+R_2xRdGDMo2LulaWL,13,Female,China,TRUE,NA,NA,NA,74.2419459635303,NA,NA,NA,2,NA,arrow,bottle,clip,blue,dog,magic,lies,mouth,sydney ,rudolf
+R_1LqBAYJRzNm1tYW,65,Female,Netherlands,TRUE,NA,NA,NA,81.877776270821,NA,NA,NA,2,NA,typewriter,orange ,skylight,nose ,footsole ,hangglider,hammer,earlobes,fountain,dust
+R_2CHeE0wsUcEcBXE,13,Female,China,FALSE,NA,NA,NA,72.7477219842729,NA,NA,NA,1,NA,table,wall,plant,chicken,towel,paper,clock,tap,wood,paint
+R_2CDEIloPvQfq3UG,65,Male,Netherlands,TRUE,NA,NA,NA,77.0215591149671,NA,NA,NA,0,NA,icecream,Crocodile,Ladder,Hat,Car,hose,tv, brush,flag,lawnmower
+R_1P1AGjr0EHOhjm8,65,Male,Denmark,TRUE,NA,NA,NA,70.4501408551421,NA,NA,NA,1,NA,Countdown,Clock,Timer,Subtraction.,Minus,Seconds,Numbers,Fewer,Less,Zero
+R_21bvk8YNvWOZdQe,35,Male,Fiji,TRUE,NA,NA,NA,81.3269629010132,NA,NA,NA,2,NA,Chair,Button,Pebble ,Spaghetti ,Charcoal,Hair,Mountain,Teeth,Almonds ,School
+R_2908LZ6kaq3l1qz,70,Female,Finland,TRUE,NA,NA,NA,82.7554302467477,NA,NA,NA,0,NA,listen,frost,skylark,flit,butterfly,delight,soup,drinking,reindeer,swimming
+R_2mdkumSis94XMCB,26,Female,'Lao People''s Democratic Republic',TRUE,NA,NA,NA,82.8869975837214,NA,NA,NA,1,NA,Dog,Table,Red,Hexagon ,Sky,Tuk tuk,Contingency,Jazz,Rugby,Crowne
+R_OHDKRQi8eAm5u2R,70,Male,Slovenia,TRUE,NA,NA,NA,89.6176688314881,NA,NA,NA,1,NA,Mould,Kite,Hit,Spawn,Jerrycan,Eyeful,Concrete,Bechamel,Fortitude,Sarsperilla
+R_ABSRkZ9vt51gBtn,26,Female,Thailand,FALSE,NA,NA,NA,87.3593730031557,NA,NA,NA,1,NA,ant,iceberg,coin,sausage,test tube,brick ,eyelet,motor,deck,grass
+R_1GO1n4CEImawZE9,55,Female,Kenya,TRUE,NA,NA,NA,79.6465597159806,NA,NA,NA,0,NA,Paper,Click,Cup,Banana,Tv remote,Crown,Frog,Car,Coins,Jumper
+R_qFrHtY30BK7zZn3,70,Male,Palau,FALSE,NA,NA,NA,79.0441984665536,NA,NA,NA,0,NA,dog,plant,house,trial,carpentry,conscious,happy,sight,travel,compost
+R_2aW5LOdRVQLWkZw,65,Male,Greece,TRUE,NA,NA,NA,82.2262454600561,NA,NA,NA,0,NA,island,bible,boulabaise,hard drive,utopia,beehive,playground,monolith,underwear,electric motor
+R_1Fl3f6Z3JBVCYRr,65,Female,Zimbabwe,FALSE,NA,NA,NA,84.4934980429354,NA,NA,NA,1,NA,Tooth,Ambulance,Banana,Elephant,Oblong,Mystery,Trousers,Keyboard,Fairy,Planet
+R_28Otpn4GCuBA881,55,Male,Papua New Guinea,FALSE,NA,NA,NA,76.4301636566719,NA,NA,NA,1,NA,basket,lemon,sword fish,pebble,cake,star,water,sister,dog,leaf
+R_2Y4wzIGmP7c2NT0,18,Male,Philippines,TRUE,NA,NA,NA,75.8750011301821,NA,NA,NA,1,NA,keyboard,cellphone,tissue,earphones,table,laptop,car,box,blackboard,bell
+R_3lLyTpxzjGFOV6B,35,Male,Nigeria,TRUE,NA,NA,NA,69.5296730313982,NA,NA,NA,1,NA,shoe,pen,tree,car,sand,plastic,glass,pin,hand,coin
+R_1QfTbjPg7OnGylC,65,Male,Germany,TRUE,NA,NA,NA,79.8483187177529,NA,NA,NA,0,NA,Animal,Mineral,Paper,Clay tablet,Gas,Solid,God,Satan,Bacterium,Human
+R_3PhpDEUzyvedhsj,26,Female,Germany,TRUE,NA,NA,NA,76.6652745771266,NA,NA,NA,1,NA,Hair,Sock,Artery,Wheel,Colour,Can,Plastic,Light,Handle ,Button
+R_3snOgdtt40H9eKN,55,Female,Germany,TRUE,NA,NA,NA,75.8772711668696,NA,NA,NA,1,NA,snail,bucket,screwdriver,mouse,key,spoon,fridge,heart,slipper,broom
+R_2AF4QniKnv9AybI,55,Female,Germany,FALSE,NA,NA,NA,75.5035295372918,NA,NA,NA,1,NA,horse,jumper,plane,tree,nail,apple,ice,moon,shed,sneeze
+R_3dKRFUwmSnMfo99,55,Female,Angola,FALSE,NA,NA,NA,81.538917443582,NA,NA,NA,0,NA,House,Cave,Balloon,Scuba gear,Pilot cap,Slippers,Hairnet,Razor,Wig,Mercan
+R_xEJygs3gDRd9KNz,35,Female,Poland,TRUE,NA,NA,NA,77.8132166536081,NA,NA,NA,1,NA,Cheese,Chalk,Cloud,Nose,Vest,Eye,Mat,Car,Nail,Salad
+R_2VxMT0JLSRNtjfM,55,Female,Zimbabwe,TRUE,NA,NA,NA,73.6083554015273,NA,NA,NA,1,NA,video,bird,bed,sky,pen,ocean,lantern,hospital,vehicle,book
+R_2aP2qvj0vSqurUA,70,Female,Germany,TRUE,NA,NA,NA,75.2632281609944,NA,NA,NA,1,NA,soap,brick,spoon,knives,garden,pavement,land,ocean,plant,animal
+R_AgMEC7d3pOgI78R,65,Male,Germany,TRUE,NA,NA,NA,76.7469050628798,NA,NA,NA,0,NA,pot,book,cupboard,bird,dog,ship,sky,brain,road,work
+R_3PXJEmVXrZ7xDXI,55,Female,Romania,TRUE,NA,NA,NA,81.5940200572922,NA,NA,NA,0,NA,Tree,Building,Book,Radio,Plate,Finger,Wardrobe ,Fireplace ,Sky,Rocket 
+R_27IIEcv2uuZdYIg,55,Female,Bahrain,FALSE,NA,NA,NA,75.2541126417262,NA,NA,NA,1,NA,book,cloth,hair dryer,pillow,pen,slipper,flower,river,plug,tea pot
+R_1hEwDhUJ81x29pk,35,Female,Germany,TRUE,NA,NA,NA,75.999939370723,NA,NA,NA,0,NA,Black ,Bridge,Fire,Computer,Blood,Cloud,Chair,Bus,Sun,Extra terrestrial 
+R_2OI5LaXl4gEgewl,13,Male,China,TRUE,NA,NA,NA,82.0226217376157,NA,NA,NA,0,NA,Paperclip,Platinum,Cotton,Poles,Beanies,Plastic,Rubedo,Laser,Heat,Black
+R_1hPWYiHzSBXDvVp,13,Male,Afghanistan,FALSE,NA,NA,NA,62.2494046886762,NA,NA,NA,0,NA,man,woman,alien,human,black,white,air,sea,water,dust
+R_1CqZIkK5lHeSENc,55,Male,Kenya,TRUE,NA,NA,NA,80.6592301421222,NA,NA,NA,2,NA,Dog,String ,Meteor,Joke,Relationship,Perfect,Steel,River,Brocade,Orange
+R_2qfqDJvivpG6sXD,13,Female,Philippines,FALSE,NA,NA,NA,83.4950811362692,NA,NA,NA,2,NA,tree,egg,falafel,statue,aeroplane,president,tower,nail,mermaid,money
+R_20SQJEdrll9oYBr,26,Female,China,TRUE,NA,NA,NA,72.094192533266,NA,NA,NA,1,NA,tree,fork,cloud,fish,castle,water,dragon,venison,shoe,lichen
+R_3P5oC1Qrbz2WuB8,13,Male,Slovenia,TRUE,NA,NA,NA,78.5588764009022,NA,NA,NA,2,NA,table,girl,egg,tree,computer,sticker,volcano,clock,textbook,poster
+R_2v2ZATnsRJ9zLiI,13,Female,China,TRUE,NA,NA,NA,78.6774821313364,NA,NA,NA,1,NA,Laptop,Apple,Car,Mail,Eyes,Earphones,Paper,Wood,Flag,Speaker
+R_3e4seb9rT8ynGJd,55,Female,Germany,TRUE,NA,NA,NA,76.1999424192168,NA,NA,NA,1,NA,House,Mouse,Lake,Carrot,Computer ,Person,Moon,Door handle ,Worm,Leaf
+R_3knCTbDVAHsmmlF,35,Female,Sweden,TRUE,NA,NA,NA,86.734424024776,NA,NA,NA,2,NA,Cat,Tractor,Wave,Tomato,Volcano,Paper clip,Hat,Road,Computer,Pyramid
+R_bvm70WyXP2MXNTz,35,NA,Russian Federation,TRUE,NA,NA,NA,76.4012248033569,NA,NA,NA,2,NA,sun,computer,cat,bed,love,literature,speed,reality,job,idiot
+R_4TOYUYQyPWpQdQB,55,Male,Bosnia and Herzegovina,TRUE,NA,NA,NA,80.2038260513828,NA,NA,NA,2,NA,fish,internet,light,monk,gene,holiday,thought,label,peer pressure,research
+R_12xnw8shy6kOSkn,65,Male,Netherlands,TRUE,NA,NA,NA,80.8445927820035,NA,NA,NA,1,NA,cup,car,planet,song,parent,bird,gold,cauliflower,fish,computer
+R_egnXtHhXWVVPyoN,55,Male,Germany,TRUE,NA,NA,NA,62.1831867666472,NA,NA,NA,0,NA,water,desert,sand,blue,hot,wind,camel,arab,africa,western australia
+R_3OlGnrQsrUDJ9Oy,18,Male,France,FALSE,NA,NA,NA,85.4470422402734,NA,NA,NA,0,NA,Beer,Town,Laughter,Cement,Biome,Penguin,Mark,Utilitarianism,Country,Void
+R_3MgoWLzR4QFFktW,35,Female,South Korea,TRUE,NA,NA,NA,69.9916134632769,NA,NA,NA,1,NA,wall,air,water,fire,book,building,cow,plane,country,ant
+R_1pLGNKXs8WvEN7r,65,Male,Malta,TRUE,NA,NA,NA,72.3204085514659,NA,NA,NA,1,NA,stars,water,fire,air,stones,love,respect,cabbage,bone,cat
+R_pbhDpH3hTEwQ8Yp,26,Female,Sri Lanka,TRUE,NA,NA,NA,74.5187501822199,NA,NA,NA,0,NA,Car,House ,Plant,Road,Book,Hat,Scarf,Carpet,Tyres,Spectacles  
+R_ZeHpn94Hh9tqk5X,70,Male,Netherlands,TRUE,1.5,1.5,1.5,62.672364286014,0,0,0,1,1,Apple,Rock,Tree,Sand,Grass,Fence,Brick,Pole,Football,Rubbish bin
+R_3DvFWNKuPvOAZVt,35,Male,Finland,FALSE,NA,NA,NA,81.7595322749444,NA,NA,NA,1,NA,Book,Clock,Cat,Houst,Fat,Bar,Electricity,Grate,Bus,Idol
+R_xbYJX6hbWZJCNaN,55,Female,Germany,TRUE,NA,NA,NA,77.7752499672629,NA,NA,NA,1,NA,shoe,potato,library,street,handbag,cat,bicycle,race car,race horse,tulip
+R_40c8F4x2hVhdx0l,35,Male,Lebanon,TRUE,NA,NA,NA,79.8031686849537,NA,NA,NA,0,NA,Tram,Rock,Tree,Water,Snail,Atom,Space,Air,Moisture ,People 
+R_1QJAHBHg9foXFea,65,Male,Netherlands,FALSE,NA,NA,NA,81.4796963884007,NA,NA,NA,2,NA,equation,car,moon,spouse,law,pencil,book,love,thought,thermometer
+R_2VORmg2n6BECOIQ,70,Female,France,TRUE,NA,NA,NA,78.2102169557696,NA,NA,NA,2,NA,Elephant,Ant,Table,Sky,Car,Toaster,Eye,Tack,Computer,Penis
+R_x9mDhHhAD2D9O81,70,Female,Hungary,TRUE,0,0.5,0.25,78.1208502306115,0,0,0,2,2,word,summer,music,book,cloud,sand,asphalt,tree,painting,sailboat
+R_3fCeyok7NDwQkmt,70,Male,Germany,TRUE,NA,NA,NA,75.3527502218882,NA,NA,NA,0,NA,Baker,Fisherman,Pilot,Diver,Skier ,optics,shark,Acriculture,Astronomy,Cars
+R_2trrybl7fG2RQgb,35,Female,Denmark,TRUE,NA,NA,NA,68.6995693615505,NA,NA,NA,2,NA,summer,frosty,Greenland,hawaii,dark,diamond,fluffy,misty,scary,deep
+R_3PhsBe1N2uHI2sc,35,Male,Denmark,TRUE,NA,NA,NA,77.3528237073194,NA,NA,NA,1,NA,kitchen,sky,toothbrush,foot,warmth,idea,level,timbre,son,justice
+R_3L784c286lHknyL,55,Female,Poland,TRUE,NA,NA,NA,76.3303282360236,NA,NA,NA,2,NA,House,Spoon,Car,Desk,Medicination ,Spanner,Grass,Finger,Machine,Cosmos
+R_3gTMz8decqx4pgl,18,Female,Indonesia,TRUE,NA,NA,NA,81.3813940045379,NA,NA,NA,0,NA,Book,Fan,Cloud,Water,Lighting,Comb,Lipstick,Key,Closet,Soap
+R_3PMIntB2GGssyWA,55,Female,Poland,TRUE,NA,NA,NA,75.3234518780595,NA,NA,NA,0,NA,Blinds,Glasses,Chair,Bin,Knife,Sink,Vase,Napkin,Soap,Scarf
+R_2tKnaOMB25sN3Eo,55,Male,Germany,TRUE,NA,NA,NA,72.1450505512101,NA,NA,NA,1,NA,Car,House,Road,Shoe,Glasses,Nose,Loo paper,Watch,Hair,Saddle
+R_0TGcbZqrZHTC8eZ,55,Female,Italy,TRUE,NA,NA,NA,81.3928375430849,NA,NA,NA,1,NA,Car,Rattle,Boots,Singlet,Lion,Blanket,CD player,Doorbell,Footpath,Drill bit
+R_2v5JtTNPHqEtk5J,35,Female,Chile,TRUE,NA,NA,NA,80.2575823540489,NA,NA,NA,1,NA,Book,Cat,Tree,Wardrobe,Banana,Telescope,Grass,Cement,Sky,Wool
+R_DoS1GyNQvSir9wR,35,Female,France,TRUE,NA,NA,NA,89.2162423580885,NA,NA,NA,0,NA,Rubbish,Helicopter,Fraternity,Justice,Dentistry,Tango,Helium,Gas,Unicorne,Fistule
+R_0NXEdlVg7klDwiJ,55,Male,Sweden,TRUE,NA,NA,NA,60.8227450932775,NA,NA,NA,0,NA,Black,White,Fun,Boring,Happy,Sad,Clever,Stupid,Large,Small
+R_d0AqG6Ztn7PwVZD,35,Male,Netherlands,FALSE,NA,NA,NA,87.4958264563853,NA,NA,NA,2,NA,town,referee,cruiseliner,galaxy,dentist,mountainbike,sand,coffee,highlighter,cloud
+R_2dLwQ5loCCm6jmL,35,Female,Indonesia,TRUE,NA,NA,NA,75.6900866116796,NA,NA,NA,1,NA,Iron,Television,Computer,Presentation,Gym,Kettle,Coffee,Jaffle,Table,Holiday
+R_5hdwMyZNXhozTwZ,35,Female,France,TRUE,NA,NA,NA,76.3491459545635,NA,NA,NA,2,NA,Train,Chair,Kite,Shoe,Jacket,Flower,Rocket,Carrot,Sun,Horse
+R_2TAvroaNmOsrGoH,13,Male,Iraq,TRUE,0,0,0,78.5071915459065,1,1,1,1,2,laptop,car,song,fart,shoe,tshirt,word,book,paper ,table
+R_1DpQnvpi68l68sL,9,Male,Brazil,TRUE,0,0,0,71.5967408957936,0,1,0,0,0,Laptop,Car,Phone,T-shirt,Case,table ,Paper,Mouse ,Seat,Television
+R_oXJJGKQDl5O7kJz,26,Female,China,TRUE,NA,NA,NA,77.6901339845998,NA,NA,NA,1,NA,sky,computer,grandma,grass,cigarette ,cartoon,color,memory,tomorrow,religion 
+R_28CYkEMtan57qI3,35,Male,Malaysia,TRUE,NA,NA,NA,78.6948140710592,NA,NA,NA,2,NA,cup,bird,sea,car,volcano,basketball,marshmallow,rocket,grass,sun
+R_1MTkAiXcC7YzVaU,13,Female,France,TRUE,NA,NA,NA,82.7349714668734,NA,NA,NA,0,NA,laptop,plate,dog,phone,pen,copybook,sweatshirt,chair,bed,bottle
+R_3lXNhUcH1UAhDS2,13,Male,South Korea,TRUE,NA,NA,NA,67.9868701668013,NA,NA,NA,1,NA,Pen,Ruler,Paper,Note,Pencil,Eraser,Bunsen Burner,Phone,Airpod,Laptop
+R_VVGpBF8MmOXtU1X,13,Female,Malaysia,TRUE,1.5,0.5,1,72.8800229373432,1,1,1,2,3,book,paper,pen,animals,school,park,car,phone,country,ball
+R_2qjHKi1NsFJXPUZ,70,Female,Latvia,TRUE,NA,NA,NA,72.0549550084841,NA,NA,NA,0,NA,Banana,Tree,Sky,Ship,Sun,Shirt,Cigarette,Clock,House,River
+R_3rVs8GhNwV2nu8j,35,Female,Austria,FALSE,NA,NA,NA,80.7042712257022,NA,NA,NA,2,NA,lamington,sofa,slide,dog,knife,toothbrush,curtain,brick,person,finger
+R_2DZwRZzeivdtgLO,35,Female,Netherlands,FALSE,NA,NA,NA,78.5619724009718,NA,NA,NA,2,NA,book,road,tree,mouse,pencil,hair,cloud,bird,fence,hand
+R_3qx6TJhwtCgZniJ,70,Female,Germany,TRUE,NA,NA,NA,83.4848436571303,NA,NA,NA,2,NA,leaf,metal,balloon,loyalty,mouse,engineering,rain,reward,glass,sign
+R_1qgGb3oqy44xero,70,Female,Netherlands,TRUE,NA,NA,NA,73.6784397846177,NA,NA,NA,1,NA,shoe,garden,swim,tree,table,computer,car,hair,yarn,book
+R_x4uQtgePzMR78AN,9,Female,China,TRUE,NA,NA,NA,73.1618087206568,NA,NA,NA,0,NA,shoe,cat,car,teenagers,garden,love,art,toys,shells,lantern
+R_1B8zHrh2o0yHa1P,35,Female,Germany,TRUE,NA,NA,NA,74.7748757402102,NA,NA,NA,1,NA,House,Apple,Cat,Sock,Mat,Toothbrush,Love,Bird,Sunshine ,Carpet
+R_tJMlgZtXbAC9XUd,70,Female,Belgium,TRUE,0,0.5,0.25,83.2587206070977,0,0,0,0,0,Nightie,paint,sweets,doorbell,carpet,pencils,trees,clouds,apple,telephone
+R_2wTU1qzmpoCwc0F,70,Male,Poland,TRUE,NA,NA,NA,72.7330621509325,NA,NA,NA,0,NA,glory,vision,catapult,heaven,beast,house,air,sun,horse,fly
+R_8kMf8Fybw73BQg9,55,Female,Greece,TRUE,1.5,1.5,1.5,79.490170947143,1,1,1,2,3,Gorilla ,Ocean,Flower,Ladder,Bike ,Coin,Planet,Radio,Eggshell ,Concert 
+R_1l45TLBR1yfmeVy,65,Male,Chile,TRUE,NA,NA,NA,74.0362078306221,NA,NA,NA,0,NA,car,flower,universe,water,bullet,sand,bucket,plate,star,sugar bowl
+R_1I5WpSCKNOYZeXa,35,Female,Mexico,TRUE,NA,NA,NA,77.0865253394558,NA,NA,NA,0,NA,House,Tree,Star,Clothing,Flag,Whale,Book,Hair,Insect,Disease
+R_w0iEmQrGInS8CPL,55,Female,Italy,TRUE,NA,NA,NA,82.3012236239655,NA,NA,NA,2,NA,Cup,Book,Car,Fork,Chainsaw,Knapp sack,Jumper,Hammer,Lawn mower,Drink
+R_1nYGj5dnE79wked,55,Male,Norway,TRUE,NA,NA,NA,84.4607901449005,NA,NA,NA,1,NA,pig,Atom,Wine,Tar,Plasma,Feather,Battleship,Dildo,Bible,Curtain
+R_1g1Fy321OM9ZMVK,55,Female,Zambia,TRUE,NA,NA,NA,88.4248763855014,NA,NA,NA,1,NA,Fish,Banana,Computer,Pluto,Autism,Coffee cup ,Couch,Pneumonia ,Bicycle,Feminism
+R_3IT2yy6gvigY4sC,35,Female,Chile,TRUE,NA,NA,NA,71.1748426159223,NA,NA,NA,1,NA,Shoe,Tree,Fork,Car,Mountain,Monkey,Flower,Wasp,Bicycle,Money
+R_24oqlC5p2Xu8M41,55,Female,Malta,FALSE,NA,NA,NA,73.6655880652723,NA,NA,NA,2,NA,donnut,dog,hair,vaccum cleaner,sky,train,dishes,ball,cow,daffadil
+R_2ZELseeU6LOWZKa,9,Male,Austria,TRUE,NA,NA,NA,81.1920957041106,NA,NA,NA,0,NA,number,outback,chair,Noah,glasses,black,book,devil,fart,trumpet
+R_1j6DvYmuNLZQMPd,55,Female,Russian Federation,TRUE,NA,NA,NA,82.6650431379676,NA,NA,NA,1,NA,WORLD,MAMA,CUCUMBER,COMPUTER,SHOE,GRIEF,ARM,CAR,TREE,STOP
+R_2zFPMGsu8cvFZhy,55,Male,Malta,FALSE,NA,NA,NA,58.8992059230804,NA,NA,NA,1,NA,Dog,cat,colour,man,woman,horse,animal,human,Birds,Cars
+R_1CwoH49iLONdwtp,35,Female,Viet Nam,TRUE,NA,NA,NA,70.8657550669852,NA,NA,NA,1,NA,Face,Moon,Ocean,Plant,Home,Kid,Food,Wind,Oxygen ,Fire
+R_1eK9M10m9V7WgOL,35,Male,Finland,TRUE,1.5,0.5,1,79.0318795790275,1,1,1,1,2,car,toothbrush,mountain,hair,atom,thing,ache,equation,orgasm,scuffle
+R_3QLgn8VV4xV1xO5,55,Female,Nigeria,FALSE,NA,NA,NA,88.646702814315,NA,NA,NA,1,NA,Apple,Chair,Bulldozer,Ship,Pencil,Waterfall,Test tube,Cat,Violin ,Microphone 
+R_2w65qIofqaB6tsU,55,Male,Poland,TRUE,0.5,0,0.25,74.4008953372637,1,2,1,1,2,cat,brick,oxygen,sun,fish,tree,bicycle,mobile phone,lightning,comet
+R_2rNSESj0EWLorKm,13,Female,Bhutan,TRUE,NA,NA,NA,77.3089205580098,NA,NA,NA,1,NA,Glacy,Dog,Brisbane,Cup,Laptop,School,Earth,Sea,Cloud,Sun
+R_OfzHduTTWe4AWFH,35,Female,Portugal,TRUE,NA,NA,NA,65.8031900014196,NA,NA,NA,1,NA,Hot,Cold,Free,Slave,Mind,Thought,Brain,Toe,Flower,Grass
+R_24eh8oNDld8R15p,6,Male,Romania,TRUE,NA,NA,NA,73.9418442050616,NA,NA,NA,NA,NA,shoe,computer,human,mouse,TIE,desk,bed,glasses,cup,eraser
+R_3fDD7z5JHHMObko,26,Female,Indonesia,TRUE,NA,NA,NA,81.4534796845345,NA,NA,NA,1,NA,shoes,books,planets,atoms,dinosaurs,water,calendar,clouds,intestine,school
+R_1gdoN1NLBS3pXRx,18,Female,France,TRUE,NA,NA,NA,68.1882660658587,NA,NA,NA,1,NA,sand,Rain,sun,fire,umbrella,dungeon,cave,fire,blender,sand
+R_3MKHadw6P5wnLhG,70,Female,United Arab Emirates,FALSE,NA,NA,NA,78.5569419818265,NA,NA,NA,0,NA,fish,car,plane,australia,pineapple,laptop,shirt,doorframe,pole,paper
+R_1JF2Qd8IDNjn2LA,13,Male,Bosnia and Herzegovina,TRUE,NA,NA,NA,77.9008984565735,NA,NA,NA,2,NA,hello,powerpoint,picture,rugby,draw,acting,sleep,fire,dog,carpet
+R_2QWmaJJ1D1mZMY0,18,Female,Egypt,TRUE,NA,NA,NA,85.7932602011022,NA,NA,NA,2,NA,pineapple,chicken,window,acer,numbers,ed sheeran,jeff,slang,jacket,boy
+R_1mPiarmAybUWosX,26,Male,China,FALSE,NA,NA,NA,79.7856108385271,NA,NA,NA,0,NA,people,animal,scultpture,artwork,books,whiteboard,laptop,bottle,pencilcase,house
+R_D7ttqlIuiklZ1F7,35,Female,Finland,TRUE,NA,NA,NA,74.990087605658,NA,NA,NA,1,NA,house,cat,car,finger,lamp,river,market,sky,satellite,curtain
+R_2qyh7Dwe12umVzV,13,Female,China,TRUE,NA,NA,NA,76.8706216521206,NA,NA,NA,0,NA,apple ,tree,computer,skirt,table,map,cable,food,bottle,family
+R_2YaCbQLDRGzzDlH,13,Female,South Korea,TRUE,NA,NA,NA,67.5755378745851,NA,NA,NA,0,NA,cost,control,issue,type,age,act,order,mind,church,bank
+R_3PYuuq9EiW8N38U,26,Female,China,TRUE,NA,NA,NA,69.6762010455132,NA,NA,NA,1,NA,hat,ice cream,cup,hammer,grass,fire,air,water,soul,god
+R_1Hi2hEMrlPo4O5G,55,Female,Netherlands,TRUE,NA,NA,NA,71.3081843796231,NA,NA,NA,1,NA,Soup,Brick,Doll,Egg,Vase,Table,Bedlinnen,Shoe,Cup,Hat
+R_3Hi5b4PSKeN93sg,13,Female,Ghana,TRUE,NA,NA,NA,78.8188475228491,NA,NA,NA,1,NA,Dogs,Plane,Shoes,Watch,Cards,Bank,Chair ,Glasses,Tree,Bird
+R_2f7lVVKwXCC42kH,35,Female,Philippines,TRUE,NA,NA,NA,77.2677279654003,NA,NA,NA,1,NA,tree,planet,calendar,bag,money,ninja,watch,painting,port,biscuit
+R_2zvZQAdW4YcZQ76,26,Female,Argentina,TRUE,NA,NA,NA,79.0725639356034,NA,NA,NA,0,NA,kite,dog,stove,mailbox,rain,computer,dirt,paper,flour,couch
+R_3eqOzUfUZNsLDpF,35,Male,Sweden,TRUE,NA,NA,NA,79.7215484260094,NA,NA,NA,1,NA,Book,Airplane,House,Zebra,Spaghetti,Leaf,Glue,Trousers,Bench,Gravel
+R_2qwMQsyo2N7HRuu,70,Female,China,TRUE,NA,NA,NA,83.7008573913148,NA,NA,NA,1,NA,apple,hat,chemical,cardigan,crayon,inch,dance,song,river,house
+R_3P7GzVvgyll9twD,35,Female,Croatia,TRUE,NA,NA,NA,77.8853570953721,NA,NA,NA,1,NA,Tree,Shoe,Propeller ,Fingernail ,Sofa,Tongue,Jelly ,Rubber eraser ,Kangaroo,Drum
+R_PMzvTLGvjtAm2lj,35,Female,Sri Lanka,FALSE,NA,NA,NA,79.0619080974942,NA,NA,NA,1,NA,bowl,car,bat ,pasta ,window ,sky,book,shop,building,rubbish 
+R_2rGRoT0s5eRHdWV,70,Female,Germany,FALSE,NA,NA,NA,74.1605749974648,NA,NA,NA,0,NA,design,nature,universe,people,education,trifecta,challenge,automotive,sunshield,phone
+R_OORsGHyjfwcn8kx,55,Male,Croatia,TRUE,NA,NA,NA,77.0888599966254,NA,NA,NA,2,NA,Water,Stone,Love,Death,Train,Universe,Ant,Geography,Placebo,Monday
+R_1ou9qgjNghUYBT2,70,Male,Germany,TRUE,NA,NA,NA,83.3956889719481,NA,NA,NA,1,NA,wheelbarrow ,battery,boat,sewing needle,wheat ear,catapult,tiger,aeroplane,bungee cord,lightbulb
+R_NUA8uF7yUUXr6ed,55,Female,Malaysia,FALSE,NA,NA,NA,82.1708637156657,NA,NA,NA,1,NA,Sock,Gas,Money,Brain,Table,Music,Apps,Bravery,Emotion,Light
+R_3kHwWIpYCO9PxXc,55,Male,Belgium,TRUE,NA,NA,NA,76.2669266511997,NA,NA,NA,2,NA,Horse,Chain,Book,House,Car,Garden,Screwdriver,Apple,Hose,Socks
+R_2TNMO66Ba7gIvie,65,Female,Italy,TRUE,NA,NA,NA,80.2229674089523,NA,NA,NA,2,NA,idea,plant,metaphysics,control,journey,satisfaction,puzzle,celebration,island,climate
+R_1LNcFGnvV1nW2ua,55,Male,Austria,FALSE,NA,NA,NA,79.3471243199227,NA,NA,NA,1,NA,Riding,Sleeping,Sexting,Working,Volunteering,Orienteering,Cooking,Smashing,Enveloping,Conversing
+R_1imKUMQQK4e7Mp7,35,Male,Viet Nam,TRUE,NA,NA,NA,75.3661241559755,NA,NA,NA,0,NA,bomb,tennis,sock,fire,hat,ice,falls,tree,ocean,space
+R_2rZyoXRRr8lkbMR,55,Female,Zimbabwe,FALSE,NA,NA,NA,79.1717055120638,NA,NA,NA,1,NA,Universe,Pebble,Vacuum ,Mud,Knife,String,Tree,Slime,Animal,Stone
+R_3qqWerOEqcuuCDo,35,Female,Malaysia,TRUE,NA,NA,NA,74.4952043252332,NA,NA,NA,1,NA,House,Hat,Tree,Moon,Father,Screwdriver,Shovel,Crime,Fingernail,Chalk
+R_Z8EOCJkwQk9XCU1,65,Female,Netherlands,TRUE,NA,NA,NA,84.3578249260429,NA,NA,NA,1,NA,Stick,Carburettor,Shower rose,Tooth,Spirit level,Screwdriver,Toenail,Statue,Star,Aniseed
+R_vrBXMfppr4OC8eJ,55,Female,Germany,TRUE,NA,NA,NA,78.0824117362499,NA,NA,NA,1,NA,Blanket,Bush,Car,Bird,Electricity,Finger,Earring,Golf,Child,Clouds
+R_2rZcDsOYZgDx30Q,55,Male,Myanmar,TRUE,NA,NA,NA,79.2665320448577,NA,NA,NA,1,NA,box,fish,fly,car,mountain,amoeba,lava,reindeer,uranium,sun
+R_241cyjeC1O9hgA9,35,Female,Poland,TRUE,NA,NA,NA,79.6918015749682,NA,NA,NA,1,NA,Bomb,Plate,Tree,Country,Fan,Book,Olive,Car,Space,Nail
+R_3I3coYRwDXdkEhj,70,Male,Germany,TRUE,0,0,0,69.9287160610159,0,0,0,2,2,Water,Sand,Air,Cornflakes,Bricks,Grease,Steel,Trees,Salt,Wasps
+R_2ayNcMUIuKnVTB1,70,Female,Egypt,FALSE,NA,NA,NA,92.0125993489776,NA,NA,NA,2,NA,jellyfish,butter,bassoon,carbuncle,ocelot,cancer,razorblade,velvet,cheese,acid
+R_2pKJOgLZT9JBnzO,18,Female,Austria,TRUE,NA,NA,NA,77.2693924428452,NA,NA,NA,1,NA,hat,bridge,skin,plane,dog,sign,disease,woman,shop,coffee
+R_1gec5RQyhYYRv28,35,Male,Uruguay,TRUE,NA,NA,NA,74.0849310975699,NA,NA,NA,1,NA,Care,Fly,Sit,Feel,High,Esteemed,Astounding ,Forrowed,Exact,Amazing 
+R_2c8FHmrcm4CrLOB,70,Male,Zimbabwe,FALSE,NA,NA,NA,56.9229580107189,NA,NA,NA,2,NA,eye,brain,nose,ear,chin,foot ,toe,finger,bicycle,pram
+R_29s3ZIyh2HQsRK9,70,Female,Germany,FALSE,NA,NA,NA,76.391046884514,NA,NA,NA,1,NA,rock,dog,tree,atmosphere,light,jealousy,pain,earthquake,magnetism,lifeform
+R_3e32KP5Rp2skynm,55,Male,Iran, Islamic Republic of...,TRUE,NA,NA,NA,80.8172839560679,NA,NA,NA,1,NA,Heaven,Disco,Children,Chemistry,Fame,Pants,Bicycle,Teeth,Book
+R_vZDVT6cjGrN44Mx,55,Female,Netherlands,TRUE,NA,NA,NA,81.3682904555684,NA,NA,NA,1,NA,Pipe,Clown,Cloud,Anger,Sleep,Wire,Oil,Blackboard,Shingels,Porcelain 
+R_1kIE04oeLvB4cQW,65,Male,Finland,TRUE,NA,NA,NA,77.0893521961712,NA,NA,NA,2,NA,tree,rock,star,fish,cloud,nail,car,shirt,steam,wool
+R_1jfHgLarTuDc5r5,55,Male,Togo,TRUE,NA,NA,NA,76.1821641453675,NA,NA,NA,0,NA,Printer,dog,foot,pen,camera,speaker,bus,nail,tree,river
+R_2PjsWozwQgtFxS2,35,Female,Malaysia,TRUE,NA,NA,NA,70.8377855164664,NA,NA,NA,2,NA,Dog,House ,Universe,Book,Bed,Eye,Child,Car,Pen,Doctor
+R_2AYIG2v1BC6HPN5,18,Female,Poland,TRUE,NA,NA,NA,80.0696359149047,NA,NA,NA,1,NA,Cat,Jumper,Hammer,Park,Button,Potato,Tower,Gun,Internet,Guitar
+R_2YlDy6s4JUw85ER,65,Male,The former Yugoslav Republic of Macedonia,TRUE,NA,NA,NA,65.1432673136393,NA,NA,NA,2,NA,soil,air,water,space,atom,gravity,planet,star,galaxy,meteorite
+R_51L3hhmVZ1qtgUV,55,Male,Sri Lanka,TRUE,NA,NA,NA,69.2360481336003,NA,NA,NA,2,NA,clouds,stick,towel,tv,paint,gloves,ring,shirt,tiles,car
+R_Z8equJ8yUKaeVkR,65,Female,Poland,TRUE,NA,NA,NA,78.5809524623411,NA,NA,NA,2,NA,snow,tree,zip,glass,camera,statue,sheep,desk,color,sky
+R_1MMvLtCrVSfIPuD,70,Female,Netherlands,TRUE,NA,NA,NA,74.9195165045205,NA,NA,NA,1,NA,Feet,Furniture,Dam,Ducks,Oven,Sink,Clothes,Hands,Phone,Wrist
+R_1n1RU6KFCQ7pO7K,26,Female,Serbia,TRUE,NA,NA,NA,76.2669776167188,NA,NA,NA,2,NA,Remote,Connection,Exile,Belong,Media,School,Absence,Here,New,Ancient
+R_WjTyGZLMLKZxjX3,35,Male,Germany,FALSE,NA,NA,NA,71.7094971842709,NA,NA,NA,2,NA,discombobulated ,clear,black,white,strong,weak,massive,tiny,mature,young
+R_2Cwv0GGcOHgj0VL,70,Female,El Salvador,TRUE,NA,NA,NA,74.3553763344174,NA,NA,NA,0,NA,Ugly,Beautiful,Bone? ,Male,Cut,Open,Music,Silence,Dark- ligth,Close far away
+R_3L8GEgwxN8yfHSV,55,Female,Denmark,TRUE,NA,NA,NA,71.4861432711283,NA,NA,NA,1,NA,Hat ,Tree,Gold,Water,Rock,Icecream,Fire,Pants,Paper,Smile
+R_1GyqnElX4Pg4VEz,65,Female,Germany,FALSE,NA,NA,NA,84.6797002745526,NA,NA,NA,0,NA,Bus,Spade,Ink,Heart,Purse,Book,Stethoscope ,Language app,Cheese,Petticoat
+R_2RPNmf8CZpcnULb,35,Female,Sri Lanka,TRUE,NA,NA,NA,78.9292821217151,NA,NA,NA,1,NA,Book,Dress,Radio,Sink,Bed, Car,Tree,Pumpkin ,Rock,Universe
+R_1Gv3NUPuLOfqZjC,55,Female,Poland,TRUE,NA,NA,NA,83.0303846725396,NA,NA,NA,1,NA,Book,Surf board,Car,Scissors ,Cup,Back pack ,Telescope,Scarf,Fridge ,Eye 
+R_Z3rorBPrUddP3tT,35,Female,Germany,TRUE,NA,NA,NA,71.6041778524717,NA,NA,NA,1,NA,Ice,Fire,Air,Rock,Seal,Brick,Color,Dance,Brain,Scent
+R_1Nggecn5W1xh4ok,70,Female,Netherlands,TRUE,NA,NA,NA,84.1386849149352,NA,NA,NA,2,NA,fish,rock,light bulb,slippers,sandpaper,toothpaste,road,rainbow,siren,ashphelt
+R_vICiL9lE8WmaXDP,70,Female,Kenya,FALSE,NA,NA,NA,74.4504585152581,NA,NA,NA,2,NA,Book,Film,Soccer,Horse,Garden,Vaccuum,Picture,Smile,Car,Dog
+R_3sstuPfWxbmkC9f,26,Male,Austria,TRUE,NA,NA,NA,80.1415289486093,NA,NA,NA,2,NA,Building,Blanket,Plane,Dumbbell,Train,Scissors,Paper,Monitor,Rock,Football
+R_21jLojTT2gJC3sp,55,Female,Chile,TRUE,NA,NA,NA,76.9799149816944,NA,NA,NA,1,NA,tree,plate,pencil,rope,airplane,mobile phone,violin,water,painting,serviette
+R_29aKNMRQmS5Ldmz,70,Female,Zimbabwe,TRUE,NA,NA,NA,87.0709712084915,NA,NA,NA,2,NA,Book,Saucepan,Shovel,Thermometer,Tricycle,Blotting paper,Cyclamen,Chocolate cake,Wheel,Screwdriver
+R_1rewTamQQubNVhz,70,Male,France,FALSE,1.5,0,0.75,78.7482620704742,1,1,1,2,3,pencil,shed,bird feeder,trees,bark,path,knob,paper bag,cable,wine
+R_3PBTIlvw6Rf61JJ,65,Female,Indonesia,TRUE,NA,NA,NA,78.8506457493419,NA,NA,NA,1,NA,Grass,Veranda,Licorice,Screw,Sponge,Glove,Gum,Rain,Pebbles,Oil
+R_eDPl7YnI2Qw9kOZ,35,Female,Papua New Guinea,FALSE,NA,NA,NA,75.1966090429397,NA,NA,NA,1,NA,cup,fence,pencil,basket,sunglasses,lamp,shoe,toy rabbit,sky,stomach
+R_3M9cT835rHsUy9N,35,Female,Spain,TRUE,NA,NA,NA,84.9549498941217,NA,NA,NA,1,NA,Sky,Socks,Brush,Pumpkin,Letterbox,Flippers ,Numbers,Gheisha,Flag,Iron
+R_bBEWyDdz8X84kvf,70,Female,Netherlands,TRUE,NA,NA,NA,76.5926963516644,NA,NA,NA,1,NA,dryer,tree,butter,sculpture,snow,toes,hat,paper,grass,car
+R_3lAcC1BOmkgNwCf,35,Male,Philippines,TRUE,1.5,0.5,1,73.8931494809332,1,1,1,1,2,Cat,Shark ,Snake ,Dinosaur ,Tablecloth ,Mop ,Car,Bicycle ,Pencil ,Shirt 
+R_u4D1q0apYpGJvlT,65,Female,Netherlands,TRUE,NA,NA,NA,74.5810063467139,NA,NA,NA,2,NA,Apple ,Cat,Bathtub,Planet,Tree,Prince,Pumpkin,Head,Jumper,Castle
+R_3QXYdcjFnBP80ol,55,Female,Croatia,TRUE,NA,NA,NA,69.4482439330646,NA,NA,NA,1,NA,tank,farm,boat,grass,fence,glass,hook,toilet,bed,pants
+R_3suZt8mJZs4ZF0o,35,Male,Malta,TRUE,NA,NA,NA,75.8712496785891,NA,NA,NA,1,NA,Tree,Building,Air,Water,Sun,Car engine,Medication,Saucepan,Sand,Laptop
+R_yVzpV77GdcFITeN,35,Female,Indonesia,TRUE,NA,NA,NA,76.0752171278,NA,NA,NA,1,NA,Tub,Jar,Broom,Clip,Watch,Wallet,Shoes ,Cup,Pen,Plant
+R_WdmSz6CYSaZbmCt,35,Female,Poland,TRUE,NA,NA,NA,77.2752869696844,NA,NA,NA,0,NA,Mum,Book,Garden,Teacher,Car,Nose,Rock,Water,Moon,Flour
+R_2EGZG5FehMw6TIi,55,Female,Italy,TRUE,NA,NA,NA,74.2437262620245,NA,NA,NA,0,NA,bed,pot,dress,cactus,rock,snow,lemon,cat,river,mountain
+R_3mabegy6mZ2x8PY,35,Female,Sweden,TRUE,NA,NA,NA,78.5748990784798,NA,NA,NA,1,NA,Bathtub,Meadow,Mountain,Space,Mat,Atom,Bird,Pot plant,Cat,Coffee
+R_1hEf0Wg9vNSOMFg,55,Male,Zambia,TRUE,NA,NA,NA,67.7662421904859,NA,NA,NA,2,NA,wall,Hammer,Grass,water,stone,people,limestone,tick,fungus,space
+R_2t9kASghCPN4Ly5,35,Male,Germany,TRUE,NA,NA,NA,79.6197890703167,NA,NA,NA,1,NA,Mouse,Courtyard,String,Car,Moon,Lake,Gas,Word,Science,Procreation 
+R_24k0xAdUIeYrqvx,35,Female,Viet Nam,TRUE,NA,NA,NA,72.1970238146328,NA,NA,NA,1,NA,Love,Ladder,Green,Baby,Cloud,Dog,Fence,Water,Running,Challenge
+R_1fcMyVvJ70t2HuG,55,Female,Zimbabwe,TRUE,NA,NA,NA,77.8432665126664,NA,NA,NA,0,NA,Fork,Shoe,Suitcase,Paintbrush,Car,Bed,Hairtie,Computer,Carpet,Sink
+R_3FOjuvcpZYlGfSe,26,Male,Philippines,TRUE,NA,NA,NA,76.1608399095989,NA,NA,NA,2,NA,Bucket,Shoes,Dictionary,Water,Coffee,Table,Speaker,Paper,Juice,Food
+R_BAoyTnayVYirFnz,35,Male,Romania,TRUE,NA,NA,NA,75.3826487986814,NA,NA,NA,2,NA,Mango,Car,Snake,Glass,Coal,Ocean,Sun,Compass,Pencil,Laptop
+R_sBCwbm5RVNm5GZr,55,Female,Uruguay,TRUE,NA,NA,NA,81.6312549990557,NA,NA,NA,2,NA,Car,Pencil,Radio,Binoculars,Telephone,Plane,Quilt,Book,Pasta,Shell
+R_2eOxfI6yvQZAdvG,70,Male,Brazil,TRUE,NA,NA,NA,89.2636085804995,NA,NA,NA,2,NA,Shield,Toad,Rage,Geranium,Reggae,Terracotta ,Toothpick,Egg,Maori ,Cadence
+R_2VF3rEP0JbUmq7T,65,Male,Malta,TRUE,NA,NA,NA,81.8438972390833,NA,NA,NA,1,NA,horses,ship,tree,brick,kite,pen,television,curtain,glass,cloud
+R_3MRqBgGzCeKA1KI,26,Female,China,TRUE,NA,NA,NA,77.1194192270438,NA,NA,NA,1,NA,Spoon,Truck,Bamboo,Nucleogenesis,Compost,Teeth,Gorilla,Stool,Stormwater,Parasol
+R_OlZc9xIFgkB04Jr,26,Female,Malaysia,TRUE,NA,NA,NA,83.2150913575398,NA,NA,NA,2,NA,wall,car,pool,library,beanie,succulent,pavement,sun,headphones,fish
+R_30bNffqsE5TgnW7,65,Male,Albania,TRUE,NA,NA,NA,80.4396771781501,NA,NA,NA,0,NA,House ,Toe,Flower,Scales,Wool,Antenna,Egg,Painting,Screen,Flag
+R_Um5uhWXBbtvgUXD,35,Male,China,TRUE,NA,NA,NA,81.780028094848,NA,NA,NA,2,NA,Tool,Room,Oscean,Cat,Spirit,Trainer,Soil,Wheels,Skin,Asteroid
+R_2wGHFbSgqtAQc5Q,55,Female,Turkey,TRUE,NA,NA,NA,74.9704230310661,NA,NA,NA,1,NA,Barcelona,People,Plants,Animals,Objects,House,Ruler,Ship,Garment,Fish
+R_3NDsFsT8TGVyqXC,55,Male,Zambia,FALSE,NA,NA,NA,69.6743139198848,NA,NA,NA,1,NA,wall,roof,home,cage,recipe,water,moisture,tiles,hose ,tap
+R_2YPmpYrqO0wVHnA,35,Male,Netherlands,TRUE,NA,NA,NA,75.0393893392313,NA,NA,NA,2,NA,rose,needle,square,sky,house,train,fish,footprint,submarine,lanyard
+R_3HvPQcJ5C5C3NX1,35,Female,Zimbabwe,TRUE,NA,NA,NA,66.9214487785385,NA,NA,NA,0,NA,Fridge,Oven,Tv,Clock,Phone ,Table,Chair,Sink,Wheelbarrow,Toaster
+R_2X5JZKYeLefjHhx,26,Female,France,TRUE,NA,NA,NA,83.4222333062263,NA,NA,NA,1,NA,fork,bird,sock,dildo,phone,guitar,satelite ,volleyball,tooth,moon
+R_2wudn0KvoQ9289X,35,Female,Germany,FALSE,NA,NA,NA,78.7472881021954,NA,NA,NA,1,NA,Banana,Wool,Diamond,Planet,Water,Ink,Toothpaste,Cat,Sleight,Breath
+R_271FXBuJMK9yuj2,55,Female,Germany,TRUE,NA,NA,NA,75.2807404313769,NA,NA,NA,2,NA,sugar,tree,sky,ant,table,Ear,car,atom,sand,whiskey
+R_ub1vBje0KgPvNwB,35,Male,Iran, Islamic Republic of...,TRUE,NA,NA,NA,71.9486318883442,NA,NA,NA,2,NA,Book,Computer,Phone,Bag,Pen,Money,Mouse,Vase,Plate
+R_1FFeR8VV9RUqDTP,9,Male,Sri Lanka,TRUE,NA,NA,NA,79.2289034241722,NA,NA,NA,0,NA,Bug,Coffee,Shoe,Cow,Computer,Child,Catcher,Chart,Table,Bottle
+R_tG9qnHqQow4pZoB,70,NA,North Korea,TRUE,NA,NA,NA,76.7571307363964,NA,NA,NA,1,NA,table,mug,scarf,cat,chameleon,poison ivy,person,sky,space shuttle,poster
+R_2Eh4OYfzNXrI19M,35,Female,Poland,TRUE,NA,NA,NA,84.5740707679873,NA,NA,NA,1,NA,table,sun,personality,fingertips,undertow,sandwich,discomfort,chicken,boilerplate,error
+R_2CKFinFxozx4qX5,26,Female,Brazil,TRUE,NA,NA,NA,78.5007402833019,NA,NA,NA,1,NA,Sky,Grass,Box,Jacket,Leopard,Eletricity,Conditioner,Tick,Anarchy,University
+R_8Hf9K96BajnXVWV,35,Female,Portugal,TRUE,NA,NA,NA,71.5290222849165,NA,NA,NA,1,NA,house,phone,toy,car,book,bag,water,allotment,paint,dress
+R_3hA7T4OJ2yB6ekW,9,Female,Hungary,TRUE,NA,NA,NA,84.0250261926225,NA,NA,NA,1,NA,Donkey,Time,Pencil Case,Jumper,Sunscreen,Town,Docter,Road,Ear muffs,Grass
+R_2wjGJiqgfjHS6tf,13,Female,Zimbabwe,FALSE,NA,NA,NA,65.1632744818926,NA,NA,NA,1,NA,Feet,Elbows,Fingers,Eyeballs,Nose,Hair,Eyelash,Fingernail,Vein,Eyebrow
+R_3kGoBMfFsmZJST2,26,Male,United Arab Emirates,TRUE,NA,NA,NA,73.8707605217184,NA,NA,NA,1,NA,Banana,Pear,Car,Brick,Acid,Sugar,Lollipop,School,Keyboard,Computer
+R_3KT28p2Hfshr6GV,35,Female,Belgium,TRUE,NA,NA,NA,76.8277387888659,NA,NA,NA,0,NA,sock,book,car,sky,chair,picture,laptop,nose,microphone,brain
+R_1GyxIo9LuHcohms,35,Female,Mongolia,TRUE,NA,NA,NA,75.57537066085,NA,NA,NA,0,NA,umbrella ,glue,computer,imagination,feeling,developmemt,art,country,river,filter
+R_28SxbXDMeexdPWb,18,Female,Thailand,TRUE,NA,NA,NA,79.3852115848235,NA,NA,NA,1,NA,computer,doctor,parsley,floor,brick,shoe,mother,car,crown,wig
+R_1mlTUSxbVpQwIVL,13,Male,South Korea,TRUE,NA,NA,NA,81.5755731027041,NA,NA,NA,0,NA,Ninja,Grass,Coconut,Chair,Quarks,Black holes,Chocolate,Spit,Donkey,Dry ice
+R_2qyBCzZuIUmBI2h,18,Female,China,TRUE,NA,NA,NA,75.4553640527385,NA,NA,NA,1,NA,cow,bridge,clock,grass,chair,window,shoe,pen,wiper,ruler
+R_3lVNYtTvx4s3PAW,13,Male,Azerbaijan,FALSE,NA,NA,NA,72.2037986985275,NA,NA,NA,1,NA,Brain,Feelings,Fish,Imagination,Art,Music,Pencil,Book,Heart,Photo
+R_3QKvOUqQdyXjUZ9,55,Female,Belgium,TRUE,NA,NA,NA,76.2739384103389,NA,NA,NA,2,NA,Dead,Book,Oven,Rain,Holiday,Plane ,Minute,Wool,Shoe,Printer
+R_3JDgAx6ZX6LJFAO,26,Female,Japan,TRUE,NA,NA,NA,75.2522744947956,NA,NA,NA,2,NA,momentum,star,tree,right,handle,happiness,wind,melody,odour,holiday
+R_3GkW5ixTyUoaNxM,55,Female,Germany,TRUE,NA,NA,NA,77.3458766085761,NA,NA,NA,0,NA,chair,book,glasses,telephone,bird,floor,money,wall,sky,moon
+R_3oGDufFdobkQumH,65,Male,Poland,TRUE,NA,NA,NA,75.3896198457196,NA,NA,NA,0,NA,house,plank,book,table,computer,pen,car,hat,plate,knife
+R_1hFONBXEeuKilGm,35,Female,Zimbabwe,FALSE,NA,NA,NA,76.3152089945617,NA,NA,NA,1,NA,Branch,Water,Bed ,Car,Sky,Underground ,Pillow,Rock,Waste ,Recycled materials 
+R_2a99spCIegmGu2P,55,Female,Germany,TRUE,NA,NA,NA,67.2933540883518,NA,NA,NA,2,NA,nose,arm,stove,table,cup,bottle,sink,pot,refrigerator ,drawer
+R_1k1sCrs2m6hvAE2,13,NA,Uruguay,NA,NA,NA,NA,75.6170632938544,NA,NA,NA,0,NA,door,wednesday,loud,strong,rainbow,elton john,ground,year,shoes,paper clip
+R_2qCrXjN3lqs3pS6,13,Female,Iraq,TRUE,NA,NA,NA,71.3389521198613,NA,NA,NA,1,NA,hat,ice tray,shoe ,laptop,phone ,pencil ,pen ,cat,dog ,lizard 
+R_1GDoQjeaPo4UOMU,13,Female,China,TRUE,1.5,1.5,1.5,80.1661340608483,0,0,0,1,1,chair,pencil,cloud,building,cat,rose,pizza,hair,sticker,concrete
+R_1jwcaW8ZX1AbKSR,13,Male,Norway,TRUE,NA,NA,NA,73.2664414104961,NA,NA,NA,0,NA,car,new york,paper,table,grass,shirt,hair,sky,crust,chocolate
+R_1CJgQ0uTo3ZKj1o,13,Female,Venezuela, Bolivarian Republic of...,FALSE,NA,NA,NA,82.1976143378942,NA,NA,NA,1,NA,ice,donut,fence,people,poster,soccer,fungi,chemical,neuron
+R_2tnkbwd3OjDZfTq,9,Male,China,TRUE,NA,NA,NA,78.8646895261038,NA,NA,NA,0,NA,Piano,Apple,Video,Grass,Metal,Stationary,Hair,Glasses,Water,Space
+R_2ygynOJBdFpOY6T,35,Female,Philippines,TRUE,NA,NA,NA,73.973032583793,NA,NA,NA,2,NA,dog,pipe,paper,spoon,handkerchief,peanut,ice,washing powder,pebble,oil
+R_3ESfPVXvWL4XK7M,35,Female,Austria,FALSE,NA,NA,NA,89.3615777404713,NA,NA,NA,2,NA,joyfulness,cloud,girl,train,paint,ladle,profit,university,giraffe,soil
+R_3R30kDsAYWemz5C,70,Female,Czech Republic,FALSE,NA,NA,NA,71.7597598476069,NA,NA,NA,1,NA,Smell,Cupcakes ,Furniture,Shine,Hand,Wall,Picture,Carrot,Foil,Chair
+R_2uKWj17FmaTln8c,70,Male,Germany,TRUE,NA,NA,NA,79.1181060529891,NA,NA,NA,0,NA,politics,fishing,friendliness,honesty,travelling ,languages,relax,homeliness,hairstyling,intelligence
+R_VU1qEdgQlY54A7L,18,Female,Denmark,TRUE,1,0,0.5,87.0695555050458,1,1,1,1,2,Foot cream ,Tea pot,Duvet cover,Cult ,Idea,Circus,Vaccum cleaner ,Bogie ,Poison ,Glare 
+R_3MGucovPIHb8XG6,18,Male,Monaco,TRUE,NA,NA,NA,82.2638749632807,NA,NA,NA,1,NA,Red,Azure,Dirt,Polymer,Protein,Aquamarine,Pillar,Nebula,Hoodie,Literature 
+R_1j9elupIhajCxvA,35,Female,Slovenia,TRUE,NA,NA,NA,75.7704853656746,NA,NA,NA,0,NA,Sun,Bathtub,Cooking pot,Shoe,Toy,Bra,Chalk,Necklace ,Rocket ,Microscope
+R_BFktc8HeOhUBg1H,13,Male,Belgium,FALSE,NA,NA,NA,83.2105261207159,NA,NA,NA,2,NA,Book,Car,Elephant,Tree,Headphones,Jeans,Rubber Band,Intestines,Cheesecake,Cement
+R_3ME89wZLOAEoyVo,65,Male,Kazakhstan,TRUE,NA,NA,NA,85.063815298712,NA,NA,NA,2,NA,Chooks,Door,Carpet,Washing powder,Car,Letterbox,Basket,Shoehorn,Puzzle,Kneecap
+R_3j72k8EcdXSsm0f,55,Male,Denmark,TRUE,NA,NA,NA,74.7273486994562,NA,NA,NA,1,NA,banana,enjoyment,sugar,fire,rust,ice,car,soil,oxygen,moon
+R_3HhNF9kkrlOxxHB,26,Male,Azerbaijan,TRUE,NA,NA,NA,82.6795818905036,NA,NA,NA,0,NA,Universe,Pencil,Trausers,Book,Mashroom,Ant,?ron,Arro w,Grass,Refrigerator
+R_25GBuhTQvMFnZ3L,55,Female,Thailand,TRUE,NA,NA,NA,68.4225462731861,NA,NA,NA,1,NA,Storm,Earth,Sky,Joy,Temple ,Flower ,Travel ,Sparkle ,Unicorn ,Jungle 
+R_7VEJ4Wt4yfmEUEh,35,Female,Papua New Guinea,TRUE,NA,NA,NA,83.9385286816174,NA,NA,NA,2,NA,Dog,Air conditioner,Snorkel,Train,Love,Shoes,Song,Toaster,Ibis clip,Wine
+R_6PhN9jSSzhh11nz,35,Male,Botswana,TRUE,NA,NA,NA,79.8184258242448,NA,NA,NA,0,NA,Cabbage,Swim ,Dancing ,Morbid,Jungle,Death,Attractive ,Muscle,Airplane ,Magic
+R_3HCGPha4vcIe3kO,35,Male,Zambia,FALSE,NA,NA,NA,71.2634568413099,NA,NA,NA,2,NA,Cat,Floor,Park,Cloud,Road,Tunnel,Face,Owl,Cigarette ,Jumper
+R_1hDNfh5dERA3xi0,55,Female,Finland,TRUE,NA,NA,NA,84.4511845459541,NA,NA,NA,1,NA,jellyfish,scissors,powerpoint,dress,fingernail,bathtub,planet,uranium,wind,ovary
+R_etEqVYn4bVSftyF,35,Male,China,TRUE,NA,NA,NA,72.7625751779193,NA,NA,NA,1,NA,phone,conmunication,games,chatting,learning,skills,work,memo,navigtion,music
+R_eCFlXELCkSclAHf,35,Female,Slovenia,TRUE,NA,NA,NA,27.3237759158725,NA,NA,NA,2,NA,Yellow,White,Black,Red,Orange,Pink,Brown,Green,Purple,Blue
+R_1jpMvC3x1YcYIsD,55,Female,Greece,TRUE,NA,NA,NA,77.8023945433753,NA,NA,NA,2,NA,Horse,Peg,Cushion,Tooth,Raincoat,Ladder,Gravel,Drug,Ring,Hair
+R_2cdYyHgwlODHxvB,65,Male,Austria,TRUE,NA,NA,NA,80.7809121762624,NA,NA,NA,1,NA,Car ,Insect,Eye,Humus,Tree,Urine ,Chair ,Sock,Spitituality,Mammal 
+R_3e7YXga7kE3r9kk,35,Female,Philippines,TRUE,NA,NA,NA,80.9261932791699,NA,NA,NA,2,NA,lion,pond,planet,glue,car,sweat,plume,yolk,merchandise,thirst
+R_31NMhQEJKCFlLg3,35,Female,Ukraine,TRUE,NA,NA,NA,75.8631064423493,NA,NA,NA,1,NA,Pot,Plant,Shoe,Toothbrush,Hair ,Nose,Lubricant ,Pipe,Ear,Air
+R_SAxDa7fNT8UUUiB,55,Female,Netherlands,TRUE,NA,NA,NA,71.3517173415139,NA,NA,NA,2,NA,Rock,Feather,Sand,Table,Air,Ice,Leg,Hairband,Car,Rainbow
+R_1pXyJJMpOJ658vO,55,Male,China,TRUE,NA,NA,NA,81.3483629819183,NA,NA,NA,1,NA,Me,Television ,Laser,Rule,Car,Fish,Song,Rain,Kite,Fun
+R_3P4WxvbBTGjHm4z,35,Male,Lebanon,TRUE,NA,NA,NA,84.7824098143194,NA,NA,NA,2,NA,Carpet,Plane,Cigarettes,Sock,Ruler,Law,Teacher,Mountain,House,Cart
+R_3kaXcv2Qd6P4mbB,70,Male,Czech Republic,TRUE,NA,NA,NA,63.4988858586266,NA,NA,NA,1,NA,Night ,Day,Land ,Sea,Heaven ,Hell,Giant ,Dwarf,Boy,Girl
+R_3Huz08O7IiWSOEE,70,Female,Austria,TRUE,1,1.5,1.25,77.1915941011338,1,1,1,2,3,Table,Wardrobe,Dress,Cat,Mountain,Coconut,Fan,Microwave oven,Slate,Paint
+R_2EgAdP0fiwn9qql,65,Male,Zimbabwe,TRUE,NA,NA,NA,89.7625330547314,NA,NA,NA,1,NA,Anathema,Bathtub,Chyrosis ,Dandruff,Effervescence,Firefighter,Gallows,Horsefly,Iguana,Jalopy 
+R_1hZiHi2tHT6qv0p,26,Male,Zimbabwe,FALSE,NA,NA,NA,83.716817466276,NA,NA,NA,1,NA,Ball,Couch,Asteroid,Atom,Emotion,Breath,Spaghetti,Pet,Car,Noise
+R_1loPIO5y4NzImht,35,Female,Zimbabwe,FALSE,NA,NA,NA,86.3378883915998,NA,NA,NA,1,NA,pool,sandwich ,cross trainer,monkey,grand father clock,fire hydrant,paster,megaphone,aeroplane,star
+R_2cBL58CWmACY0Rm,35,Male,Lebanon,TRUE,NA,NA,NA,68.9021150271098,NA,NA,NA,1,NA,Bike ,Chair ,Boat,Sea,Car,Nature,Door,Tree,Mountain ,Flag
+R_2OZpS0R2jCLg9hd,35,Female,Myanmar,TRUE,NA,NA,NA,80.912742142876,NA,NA,NA,2,NA,book, tree,umbrella,television,shoe,sock,ruler,pen,carpet,rose
+R_2COeHtI6CzBUmrc,35,Female,Argentina,TRUE,NA,NA,NA,71.2800533289001,NA,NA,NA,1,NA,Shoe ,Barefoot,Iron ,Rumble drier ,Scarf ,Bikini ,Tongue ,Sand ,Hair ,Pool
+R_ewVzCjXGJGAMuK5,65,Female,Germany,TRUE,NA,NA,NA,76.7813961065951,NA,NA,NA,1,NA,paper,grass,head,shed,child,occupation,window,colour,death,cup
+R_afJF3Xazc2y7qV3,18,Male,Nigeria,TRUE,NA,NA,NA,86.5036204989467,NA,NA,NA,0,NA,Bottle,Kaleidoscope,Refrigerator,Easy-chair,Lintel,Caneo,Hammock,Seesaw,Libido,Zeitgeist
+R_2zLRzkV6aIPQUD6,26,Male,United Republic of Tanzania,TRUE,NA,NA,NA,85.8410340634042,NA,NA,NA,2,NA,Antelope,Barcelona,Cactus,Derivative,Entropy,Fish,Gangrene,Human,Iridium,Job
+R_1gT5dDbSg63zPdX,26,Male,Bangladesh,TRUE,NA,NA,NA,83.050723879465,NA,NA,NA,0,NA,mobile,keyring,nasal drop,shirt,money,tree,hospital,cocolates,tissue ,pen
+R_129lyMsI1iKy67k,35,Male,Viet Nam,FALSE,NA,NA,NA,71.9550029862495,NA,NA,NA,1,NA,Ball,Table,Tree,Sky,Hair,Cage,Clock,Wing,Charcoal,Sign
+R_1C8gTVcqWahZjBt,55,Female,Japan,FALSE,NA,NA,NA,84.4119870924346,NA,NA,NA,1,NA,ball,birds,tv,car,crutches,shampoo,vacuum cleaner,book,needle,chair
+R_Y32kctL4Lx1hmAF,35,Female,Solomon Islands,FALSE,NA,NA,NA,71.5638270690328,NA,NA,NA,1,NA,table,ocean,dog,sky,book,kitchen,tree,ant,pen,box
+R_2uwyOyE3AYLmHqs,35,Female,Turkey,TRUE,NA,NA,NA,79.7387471688645,NA,NA,NA,0,NA,Car,Tree,Shoe,Vacuum,Pool,Hair,Skyscraper,Nail clippers,Brush,Cherry
+R_3qglKAxQkcQjCIB,18,Female,China,TRUE,3,0,1.5,84.5586809229904,0,0,0,2,2,Pen,Vocalno,Phone,Mars,Musicians,Tower,Forest,Dust,Santa,Clown
+R_1QhBZehVQf8rRGZ,26,Female,Malaysia,FALSE,NA,NA,NA,85.7336263305375,NA,NA,NA,1,NA,dog,car,rock,satellite,t-shirt,laptop,paperclip,algae,coal mine,cashmere
+R_r6zHDDYxrpZoHHr,35,Female,Angola,FALSE,NA,NA,NA,83.7228387549874,NA,NA,NA,1,NA,Apple,Wall,Car,Sea,Helium,Chewing gum,Jumper,Notepad,Heart,Imagination
+R_4O2tprP4os253sl,55,Male,Bosnia and Herzegovina,TRUE,1,1,1,73.1566997511046,2,2,2,0,2,fridge,stove,house,boat,floor,celling,flood,drought,sun,rain
+R_3L0Vn02cXiesRfZ,35,Female,Malaysia,FALSE,NA,NA,NA,76.8085264556465,NA,NA,NA,1,NA,Phone,Happy,Potato,Car,Ball,Fish,Hay,House,Person,Lettuce
+R_1DIISs2JNIYwSdb,35,Female,Germany,TRUE,NA,NA,NA,71.5683023844446,NA,NA,NA,1,NA,Nail,Rose,Finger,Bread,Grass,Heaven,Friend,Birth,Cement,Air
+R_xAvTNZ7SqcIgdgd,35,Male,Lebanon,TRUE,NA,NA,NA,67.4801963425818,NA,NA,NA,2,NA,Space,Stars,Earth,Air,Trees,Animals,People,Molecules,Insects,Reptiles 
+R_2OO4V20QM9qPdG3,35,Male,Germany,TRUE,NA,NA,NA,71.9860133670625,NA,NA,NA,2,NA,Cup,Car,Grass,Heaven,Freedom,Man,Country,Exam,Sex,Drugs
+R_3GpJuksPA8Qci8D,35,Female,United Arab Emirates,FALSE,NA,NA,NA,81.7129930392617,NA,NA,NA,1,NA,Bassinet,Orange,Panda,Bath,Chimney ,Dots,Bus stop ,Shorts,Plane,Teapot 
+R_2drIsgPQ6kIH9zZ,65,Male,Germany,TRUE,NA,NA,NA,76.24259335765,NA,NA,NA,0,NA,Sky,Ground,Wet,Dray,Hot,Could,Hart,Soft,Laud,Silence
+R_1i806tBCkWKLOAE,55,Female,Germany,FALSE,NA,NA,NA,80.7923228080784,NA,NA,NA,1,NA,Bowl,Car,Dress,Fruit,Ticket,Elevator,Spaceship,Tree,Dam,Dog
+R_RgeHlwxrVJcjY8V,70,Male,Netherlands,TRUE,NA,NA,NA,82.776261005728,NA,NA,NA,0,NA,Bird,Shaver,Toothpick,Carkeys,Dog,Thighbone,Stirrup,Toenail,Glasses,Radio
+R_3EVZHcXL2o3a1EY,70,Female,Germany,TRUE,NA,NA,NA,71.6290930906931,NA,NA,NA,0,NA,Women,Flower,Car,Train,Moon,World,House,Bowel,Ball,Bat
+R_oY8k6cM4O6gX3Tr,13,Female,Zimbabwe,FALSE,NA,NA,NA,71.3353338695708,NA,NA,NA,2,NA,Dog,Wheel,Back,Pad,Button,Nail,Watch,Stick,Headphones,Arrow
+R_2anpQmBBd0wUqwb,13,Female,Malaysia,TRUE,NA,NA,NA,83.3946319208259,NA,NA,NA,2,NA,Fish,Piano,Booze,Astronaut,Pine nut,Elephant,Wax,Lightning,Friend,Spear
+R_cByUdX8Rhefd2Ap,9,Female,Austria,FALSE,NA,NA,NA,85.2511234315378,NA,NA,NA,1,NA,Pool,Rainforest ,Washing machine ,nail polish,String,Ice cream,Berries ,Shaver,Perfume,Pizza 
+R_YPIAspJsJMBJn3z,35,Female,Japan,TRUE,NA,NA,NA,84.0691252777885,NA,NA,NA,1,NA,Wood,Beer,Lice,Hoe,Snow,String,Note,Fin,Spoon,Mat
+R_oXF1HiWsluiUIIF,18,Male,Bangladesh,TRUE,NA,NA,NA,79.7904263294879,NA,NA,NA,1,NA,fridge,fuck,study,cigarette ,food,shampoo,bike,me,spike,virus
+R_24bHJNWbFzRElEW,18,Male,Viet Nam,TRUE,NA,NA,NA,82.5105904468468,NA,NA,NA,1,NA,definition,gentleman,train,music,toy,necklace,chalk,shoe,heart,job
+R_eS5nf9wpITfjNnj,35,Female,Israel,TRUE,NA,NA,NA,82.5927593523548,NA,NA,NA,1,NA,Shelf ,Ant,Cloud,Knife,Envelope,Sunglasses,Soap,Biscuit,Powerpoint,Sock
+R_szZm58ojXKgkfKx,35,Male,Viet Nam,TRUE,NA,NA,NA,76.7570461545672,NA,NA,NA,1,NA,Blanket ,Chair,Flowers ,Pen ,Laptop ,Watch ,Toothbrush ,Car ,Briefcase ,Key
+R_12FFEGHWcobxd0l,55,Female,Malta,FALSE,NA,NA,NA,83.0810696241401,NA,NA,NA,1,NA,basket,stool,geranium,stereo,internet,fridge,dog,gold fish,insole,bottle
+R_0v2PsAZGrN2uKfT,13,Female,Czech Republic,TRUE,NA,NA,NA,73.6877764619532,NA,NA,NA,0,NA,dog,board,house,river,chair,sky,boot,leg,tree,burger
+R_1f7PEv9i5NJHqqF,35,Female,Czech Republic,TRUE,NA,NA,NA,86.6619513104005,NA,NA,NA,1,NA,Rocket,Juggling balls,Fence,Cloud,Shears,Beanbag,Flask,Mosaic,Sundial,Sloop
+R_3oG98AGktK09dfZ,70,Female,Germany,TRUE,NA,NA,NA,71.1732083133289,NA,NA,NA,1,NA,love,hate,peace,war,plastic,glass,rose,weed,wine,water
+R_Rxa7X0wGjGTEiml,55,Male,Malaysia,TRUE,NA,NA,NA,74.0412019902752,NA,NA,NA,1,NA,car,house,book,cup,hands,coast,sky,rain,horse,atoms
+R_2BnCMENhQxcDrkE,35,Female,Spain,TRUE,NA,NA,NA,77.4373079871848,NA,NA,NA,2,NA,House,Rocket,Swimming pool,Fear,Hunger,Tree,Novel,Smell,Adventure,Death
+R_1rximc6QKAbHrxT,55,Female,Germany,TRUE,NA,NA,NA,82.4035153635556,NA,NA,NA,0,NA,Serendipity,Snow,Bicycle,Frog,Letter,Volcanoe,Brick,Rose,Kettle,Emotion
+R_1FJttyiK03AVdqU,26,Male,Myanmar,TRUE,NA,NA,NA,81.8718910217285,NA,NA,NA,0,NA,cup,spoon,computer,chair,book,projector,ruler,pen,wine,keyboard
+R_C1VOM9krL0B1HBT,35,Female,Sri Lanka,TRUE,NA,NA,NA,52.3418332139651,NA,NA,NA,0,NA,Here,there,no where,close,far,short,tall,long,near,far
+R_STt5fGBevIvWwmJ,35,Male,Angola,TRUE,NA,NA,NA,66.5472761506126,NA,NA,NA,0,NA,Lay,think,grow,Question,exagurate,Discover,work,Prune,Drive,pace
+R_3j23PZveR6x8GIv,55,Female,Spain,TRUE,NA,NA,NA,75.9154890264784,NA,NA,NA,1,NA,Wallet,Park,Builtding ,Chair,Human ,Carpet ,Stone ,Tree,Coin,Soil
+R_3PLDfcDJt12sxhA,26,Female,Russian Federation,TRUE,3,1.5,2.25,83.1467574550992,0,0,0,1,1,car,Russia,spade,computer,card,telephone,stapler,water bottle,toast,finger nail
+R_2c5vgqVtVoQLwdC,26,Male,Papua New Guinea,TRUE,NA,NA,NA,80.8348090520927,NA,NA,NA,0,NA,Road,Planets,Body,Flora,Mathematics ,Play,Emotion,Alphabet ,Space,Size
+R_3DqCHxoRW7HFFKB,35,Male,Turkey,TRUE,NA,NA,NA,82.6501832232766,NA,NA,NA,2,NA,guitar,hair,computer,rain,road,physics,abacus,flower,battery,blueberry
+R_bfKM52DvFwETdnj,55,Female,France,TRUE,NA,NA,NA,79.7934809078773,NA,NA,NA,2,NA,Pantalon,Garden,Bridge,Therapy,Sky,Car,Basin,Dolphin,Iceberg,Nun
+R_BsunvYtaQsTF2Mh,35,Male,Turkey,TRUE,NA,NA,NA,81.6600380554086,NA,NA,NA,1,NA,book,bicycle,sand,table,helium,horse,galaxy,rifle,computer,tree
+R_DC7rA7QXVqIhAtj,26,Male,Poland,TRUE,NA,NA,NA,76.1098567219008,NA,NA,NA,1,NA,back,stone,bed,saliva,autumn,green,key,board,bottle,sheep
+R_3NxGj8gGIYb0Sfl,65,Female,Denmark,TRUE,NA,NA,NA,78.2325931603,NA,NA,NA,1,NA,banana,sky,rocket,eyeball,gate,clock,horse,ornament,pan,certificate
+R_1ozsADeXt96w4Lr,35,Female,Belgium,TRUE,NA,NA,NA,80.7745609149736,NA,NA,NA,0,NA,love,traffic jam,screwdriver,wind,vacation,sock,grass,bottle,flame,roof
+R_1dhKwMRhImeCefa,18,Female,Mexico,TRUE,NA,NA,NA,89.4471723608495,NA,NA,NA,2,NA,Lock,Sweater,Fungi,Wrist-band,Piano,Arab,Atom,Belly,Pencil,Whale
+R_0vnonLH7WBbUU4V,26,Female,France,TRUE,NA,NA,NA,74.9339245969341,NA,NA,NA,0,NA,Table,Book,Car,Bag,Belt,Carpet,Dvd,Spoon,Blanket,Glasse
+R_3psP8BIqnwZ5FS2,55,Female,Switzerland,TRUE,NA,NA,NA,72.6723129195826,NA,NA,NA,2,NA,food,music,water,thought,paint,grass,universe,person,holiday,illness
+R_1Hjk44tByoRrcg5,70,Male,Latvia,TRUE,NA,NA,NA,79.1230581700802,NA,NA,NA,1,NA,table,junk,rat,camel,moon,horse,atom,knife,gutter,wife
+R_3edXmVy0mwez4cZ,55,Female,Germany,TRUE,NA,NA,NA,60.6363680391085,NA,NA,NA,0,NA,No ,Nein ,Yes ,Ja ,Gorgeous ,Beautiful ,Thank ,Goodness ,Next ,Near 
+R_ANHhmaUajrAgLPH,35,Male,Romania,TRUE,NA,NA,NA,76.4220261502834,NA,NA,NA,0,NA,carpet,sleeping bag,beer,car,laptop,book,money,fuel,univers,father
+R_pof1CPpO2qjPfKF,35,Female,Norway,TRUE,NA,NA,NA,79.5274233534223,NA,NA,NA,1,NA,horse,rainbow,dreams,bread,sword,hurricane,puss,hair,forest,machine
+R_3HUBooVmpCVDQkT,26,Male,Russian Federation,TRUE,NA,NA,NA,88.2042792714423,NA,NA,NA,1,NA,Sun,Pencil,Mammoth,Cyborg,Line,Poem,Schizophrenia ,Love,Nothingness,Deviation
+R_21By0mRJPrF9pkp,26,Female,Iran, Islamic Republic of...,TRUE,NA,NA,NA,78.7595949756602,NA,NA,NA,0,NA,Scarf,Poster,Cat,Gelato ,Chair ,Hair,Star,Friend ,Internet 
+R_2ckMHocNGHoPRYK,55,Female,Hungary,TRUE,NA,NA,NA,71.5838656539009,NA,NA,NA,0,NA,cat,flower,window,car,computer,person,sky,water,earth,bone
+R_2b2cUrNtzZJeL43,35,Female,Sweden,TRUE,NA,NA,NA,76.706822819653,NA,NA,NA,1,NA,Cloud,worm,fence,toy,car,ruin,glass,rock,shoe,umbrella
+R_yUSYjcoTRijACGd,35,Male,China,TRUE,NA,NA,NA,78.5528451913879,NA,NA,NA,0,NA,cricket,soccer,chess,bonsai,sky,umbrella,computers,arts,photos,paintings
+R_3hlND69k8ltv4rT,55,Male,Switzerland,TRUE,NA,NA,NA,79.489957044522,NA,NA,NA,0,NA,Land,Moon,Sticky Tape,Mantle piece,Flower,Bed,Chewing gum,Schnitzel,Window,Sill
+R_3L24V66BgKKON1F,35,Female,Zambia,FALSE,NA,NA,NA,77.1023352231298,NA,NA,NA,1,NA,Damper,Spindle,Eyeball,Leaf,Drop,Gearbox,Gas,Pizza,Brush,Girl
+R_aaF3YfEfbg0DMQ1,35,Female,France,TRUE,NA,NA,NA,88.12723466683,NA,NA,NA,1,NA,Rubbish,Manga,Towers,Planet,Door handle,Finger nail,Bag,Salami,Rain,Blood
+R_3JhjJGjEv8bUhzE,35,Female,Viet Nam,TRUE,NA,NA,NA,86.0415263278853,NA,NA,NA,2,NA,Tarragon,Shovel ,Centrifuge ,Pear,Tick,Cherry,Camera,Bicycle ,Rug,Paris
+R_2uWgM2CqbeVS3gZ,65,Male,Denmark,TRUE,NA,NA,NA,69.4136686977886,NA,NA,NA,2,NA,computer,travel,house,field,ocean,mountain,valley,transport,tree,animal
+R_22FATwCaybRPwR5,35,Male,Nigeria,TRUE,NA,NA,NA,82.2332254832699,NA,NA,NA,1,NA,Tie,Horse,Gym,Anus,Kite,Google,Saint,Paris,Sheik,Train
+R_2VlMk7FjmSdym5N,35,Male,Papua New Guinea,TRUE,NA,NA,NA,78.683193679899,NA,NA,NA,2,NA,Dog,Table,Tram,Water,Tree,Current,Shoe,Banana,Sand,Clam
+R_2cd3AJ49TjzkRJl,18,Female,Germany,TRUE,NA,NA,NA,90.7705330434034,NA,NA,NA,2,NA,church,kilogram,bug,sink,rap,midwife,toe,spring,stroke,container
+R_2agFQduXOCAEyPB,35,Female,Argentina,TRUE,NA,NA,NA,74.2294291832617,NA,NA,NA,1,NA,bottle,cat,desk,tree,computer,language,picture,family,bag,house
+R_3kpQO8OWm9RoW3s,35,Male,Hungary,TRUE,NA,NA,NA,74.7402415389106,NA,NA,NA,1,NA,Air,Television,Bed,Road,Shop,Doctor,Tree,See,Leg,Glass
+R_3PYwetBZGAHdhBg,26,Female,Benin,TRUE,NA,NA,NA,81.8593096254127,NA,NA,NA,1,NA,Apple,Ball,Cat,Drone,Eyes,Froth,Garden,Hinge,Iron,Lipstick
+R_3M05YofuKqToGZr,35,Female,Brazil,TRUE,NA,NA,NA,75.7900186237835,NA,NA,NA,1,NA,cup,pen,desk,car,clock,wing,horse,raddish,chlorine,book
+R_2CqO8RbkbmUZl5S,9,Male,Hungary,TRUE,NA,NA,NA,87.6895182522102,NA,NA,NA,0,NA,bread,whiskey,schadenfreude,x-ray,Pluto,spasm,philosophy,ant,boom,Zemeckis
+R_cYBvvphVI51O7bX,18,Female,Georgia,TRUE,NA,NA,NA,81.0458451154686,NA,NA,NA,1,NA,Potato,Ocean,Compassion,Overall,Oxygen,Voice,Confusion,Human,light,hallucination 

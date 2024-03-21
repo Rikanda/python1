@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="result v.1">
-      <change afterPath="$PROJECT_DIR$/cleardata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/export_scatterplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="organize files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigresearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigresearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigscatterplot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scatterplots/bigscatterplot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleardata.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleardata.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/export_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/export_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/import_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/import_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/model.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/model1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.py" beforeDir="false" afterPath="$PROJECT_DIR$/research.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resultdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/resultdata.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resultdata1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/resultdata1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatterplot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scatterplots/scatterplot.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scatterplot1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/scatterplots/scatterplot1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study21.сsv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study21.сsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study23.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study23.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study24.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/testdata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +42,7 @@
     "Python.cleardata.executor": "Run",
     "Python.main.executor": "Run",
     "Python.research.executor": "Run",
+    "Python.util.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -135,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710588135034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="organize files">
+      <option name="closed" value="true" />
+      <created>1711042682644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711042682644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +145,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="result v.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="result v.1" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="organize files" />
+    <option name="LAST_COMMIT_MESSAGE" value="organize files" />
   </component>
 </project>

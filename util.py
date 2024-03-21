@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error
 import export_scatterplot
 import import_csv
+import export_csv
 
 
 # вывод на печать графика - передать датафрейм, атрибут, порядковый номер файла с графиком
@@ -23,6 +24,16 @@ def declare_dataframe(path, separ):
     #    print(df.head())
     return df
 
+
 def import_data(d):
     datalist = import_csv.parseCSV(d)
     return datalist
+
+
+def export_data(d, filepath, title):
+    if isinstance(title, str):
+        csvfile = export_csv.column(d, filepath, title)
+    else:
+        s = ','
+        csvfile = export_csv.transform(d, filepath, title, s)
+    return csvfile
