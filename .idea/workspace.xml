@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="result v.1">
-      <change afterPath="$PROJECT_DIR$/bigresearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/export_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/export_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/import_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/import_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.csv" beforeDir="false" afterPath="$PROJECT_DIR$/model.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/research.py" beforeDir="false" afterPath="$PROJECT_DIR$/research.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +40,7 @@
     "Python.research.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/test"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -118,23 +112,7 @@
       <option name="project" value="LOCAL" />
       <updated>1710588135034</updated>
     </task>
-    <task id="LOCAL-00004" summary="result v.1">
-      <option name="closed" value="true" />
-      <created>1710965630386</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1710965630386</updated>
-    </task>
-    <task id="LOCAL-00005" summary="result v.1">
-      <option name="closed" value="true" />
-      <created>1710967407239</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1710967407239</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
