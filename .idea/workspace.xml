@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="organize files">
+    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="separate data">
+      <change afterPath="$PROJECT_DIR$/source/foreigners.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/natives.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigresearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigresearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cleardata.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleardata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/export_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/export_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/foreigners.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/foreigners.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/study21.сsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/study24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study24.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +50,14 @@
     "Python.util.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/test/python1/source"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\test\python1\source" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\test\python1\scatterpots" />
       <recent name="F:\test\python1\results" />
@@ -128,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711042682644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="separate data">
+      <option name="closed" value="true" />
+      <created>1711049962521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711049962521</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +164,7 @@
     <MESSAGE value="result v.1" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="organize files" />
-    <option name="LAST_COMMIT_MESSAGE" value="organize files" />
+    <MESSAGE value="separate data" />
+    <option name="LAST_COMMIT_MESSAGE" value="separate data" />
   </component>
 </project>

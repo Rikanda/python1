@@ -1,0 +1,318 @@
+id,age,gender,country,multilingual,aut.originality.1,aut.originality.2,aut.originality,dat,problems.questions.1,problems.questions.2,problems.questions,problems.cra,problems.combined,word.1,word.2,word.3,word.4,word.5,word.6,word.7,word.8,word.9,word.10
+R_bEHztu6LDU2uL0R,35,Female,Australia,FALSE,0.5,0.5,0.5,75.0832128915049,0,1,0,1,1,sponge,elephant,balloon,sandpaper,orange,air,hair,sandal,tablecloth,freckle
+R_3F4huoEdiULkgUH,35,Male,Australia,FALSE,0.5,0,0.25,78.9673868744146,2,2,2,2,4,Tree,Car,Iceberg,Pilot,Sound,Planet,Elephant,Hat,Slide,Love
+R_3FUOc2nN3NdPuO5,55,Male,Australia,FALSE,0.5,0,0.25,69.7281073246683,0,0,0,1,1,tree,car,rock,lake,fish,frige,broom,house,fig,rope
+R_2Pp27PaBjJSn7BH,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,69.7913931239219,1,1,1,2,3,golf club,ant,rock,jelly,concrete,lake,mountain,tree,insect,dinosaur
+R_2waGiVCvb13AkOa,35,Female,Australia,FALSE,0.5,0,0.25,82.8005595664893,1,1,1,1,2,floor,game,amber,hair,road,bark,skyscraper,iguana,bottle,chasm
+R_25XgDEWMQM3SwlR,35,Male,Australia,FALSE,1,1.5,1.25,81.8145940745516,1,1,1,2,3,Bones,Plastic,Waves,Stardust,Digestive ,Alacraty,Fuel,Trees,Wheel,Carrot
+R_2upkvUlDy5X9kCg,26,Female,Australia,FALSE,0.5,1,0.75,73.5885985550426,1,1,1,2,3,Dark,Shallow,Iridescent,Fuzzy,Stale,Boiling,Torn,Stolen,Solid,Soiled
+R_ugMJmI8xGU9C001,65,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,1.5,0.75,73.6719056963921,2,2,2,2,4,knife,brick,staff,shield,coat,block,armour,gun,bomb,sheath
+R_vdkMKHanLa2I6PL,55,Female,Australia,FALSE,0,0.5,0.25,75.486557283217,1,1,1,1,2,chair,paint,mirror,tube,avocado,ice,sun,jade,salt,smoke
+R_r6cp32Ud8GLPd2p,35,Male,Australia,FALSE,3,1.5,2.25,87.6959232347352,2,2,2,1,3,speach,cup,pencil,surfboard,anteater,moon,bottle opener,door,memory,number
+R_WumEuvKjmcBZQUp,65,Female,Australia,FALSE,0,0.5,0.25,71.1271129903339,0,0,0,1,1,stress,relaxation,swimming,coffee,shopping,sleeping,television,gardening,music,volunteering
+R_1BPh2IsodJNCYEQ,26,Male,Australia,TRUE,3,3,3,74.1077507003432,1,1,1,1,2,Cat,Tyre,Sky,Shirt,Picture,Finger,Cake,Coral,Net,Sheet
+R_3O7aoqODlTiDUH8,35,Male,Australia,FALSE,3,1.5,2.25,87.0760521541039,1,1,1,1,2,rabbit,shoehorn,blancmange,fart,forest,tunnel,nailfile,tarmac,thermometer,rangehood
+R_2wyLlcZRrWvsciQ,55,Female,Australia,FALSE,0.5,0,0.25,80.008630223927,0,0,0,1,1,Lemon,Honey,Gravel,Swimsuit ,Elephant,Gnat,Slippers,Evening gown,Eucalyptus,Peony
+R_31NJ9a1CpJgf9SS,55,Male,Australia,FALSE,3,3,3,82.1911380848005,0,0,0,1,1,portcullis,ballista,cyclops,elephant,cartwright,lizard,pencil,dice,apple,ring
+R_upNvb2G2k3WiQRb,70,Female,Australia,FALSE,1.5,2,1.75,79.9329365603626,1,1,1,2,3,heat,digger,wrench,carpet,envelope,fingernail,brake,roof tile,blood,deodorant
+R_1IhG47SbhJPU1FI,55,Female,Australia,FALSE,0,0,0,77.5663439361822,1,1,1,2,3,snow,sand,chocolate,air,keyboard,jumper,hair,dog,rock,airconditioner
+R_vDoWcxLBn7FiozD,55,Female,Australia,FALSE,0,0,0,74.2779466013114,2,2,2,2,4,Science,Bible,Gardening,Sewing,Travel,Water,Toilet,Car,Horse,Moon
+R_1PT5LZ9ru5FxA4l,35,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,82.906978932165,1,1,1,2,3,Snow,Dog,Planet,Lint,Beetle,Coal,X-ray,Rum,Baby,Ghost
+R_2qjGz3CCOyBrh9O,18,Female,Australia,FALSE,1,1,1,76.2956499698616,2,2,2,2,4,Nail,Wood,Letter,Table,Fire,Rock,Tomato,Phone,Nose,Sunflower
+R_2c1MsaET9U41G6m,55,Male,Australia,FALSE,3,1.5,2.25,67.6013049625215,0,0,0,1,1,water,fire,vacuum,stone,dust,time,death,carpet,fish,leather
+R_qCnyGc17z5KUael,26,Male,Australia,FALSE,1.5,1.5,1.5,73.1246775814465,1,1,1,1,2,cup,ice,tree,bee,cat,bat,shoe,string,paper,phone
+R_1lufMEMuuXOBoyQ,26,Male,Australia,FALSE,0.5,0.5,0.5,77.7267187124207,1,1,1,2,3,tree,mineral,building,star,ocean,thought,institution,pressure,dexterity,music
+R_3O1B3C3HIyQrxDp,35,Male,Australia,FALSE,1,1,1,76.7651299635569,0,0,0,1,1,Book,Dog,Boat,Rock,Tree,Cloud,Ball,Shoe,Plank,Tile
+R_1NkvfjE6Vqcmtyg,55,Male,Australia,FALSE,0.5,1.5,1,81.8185248766981,2,1,1,2,3,Eye,Cow,CPU,Car,Wombat,Ocean,Ruler,Tv,Grass,Oxygen 
+R_22z4Hm0o21m01fM,35,Male,Australia,FALSE,2,1.5,1.75,80.270056599485,1,1,1,2,3,Road,Dungarees,Sweat,Train,Bloke,Stick,Rice,Washer,Kiln,Board
+R_2xxVVNwQjrFatkS,55,Male,Australia,FALSE,1.5,0.5,1,77.2288677947862,0,0,0,0,0,Book,Cat,Ball,Chair,Computer,Fork,Car,Tree,Wave,Mountain
+R_1l0PYJgHdMgCcSB,70,Female,Australia,FALSE,0,0,0,74.7134244867733,1,1,1,1,2,Dog,Volcano,Cold,Indian,Chair,Baby,Saw,Frost,Smoke,Ship
+R_Djh7OZXwgBVwGs1,55,Male,Australia,FALSE,0.5,1,0.75,83.8063266948752,2,2,2,1,3,Rabbit ,Car,Chocolate ,Turnip,River ,Ring ,Microbe,Sky,Rain,Person
+R_2sR6VonW4bADmpB,65,Female,Australia,FALSE,1,1,1,76.9349694451583,1,2,1,2,3,Cow,Building,Sky,Dwarf,Luggage,Paint,Ocean,Baby,Moonscape,Fashion
+R_z2tOB7TojaXAwAp,55,Male,Australia,FALSE,0,0,0,79.2670368128234,0,0,0,2,2,City,Town,Desert,Office,Iceberg,Cloud,Microbe,Planet,Brick,Tomato
+R_12hd0C69vDrhult,35,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,73.7970661194552,0,0,0,1,1,Book ,Orange,Road,Shoe,House,Holiday,Number,Badge,Pencil,Medicine
+R_2B2rVKW20VJvp7i,9,Female,Australia,TRUE,1.5,1.5,1.5,78.0059601047209,2,2,2,2,4,Sign,Fence,Book,Car,Cow,Jacket,Fog,Onion,Tree,Human
+R_1ocLT7EZMx1YsVz,55,Male,Australia,FALSE,1.5,0,0.75,71.8978440477734,1,1,1,2,3,Dog,Brick,Sea,Horizon,Planet,Grain,Water,Larvae,Oil,Diamonds
+R_1osPvpBWdpAtzxg,70,Female,Australia,FALSE,0,0.5,0.25,74.3260702561765,1,0,0,1,1,Cat,Door,Rubber,Watch,Foot,Seed,Thought,Gift,Air,Base
+R_T5hiFNaoZYWFBMl,35,Female,Australia,FALSE,1.5,1,1.25,84.1161749351332,0,0,0,1,1,friend,plate,air,pineapple,delinquent,cardboard,painting,foot,future,hair tie
+R_2QFlFbyufrpsvbK,26,Male,Australia,FALSE,1.5,2,1.75,74.7917183807918,2,2,2,1,3,Phone,Car,Building,Plane,Plain,Grass,Plant,Rose,Grandmother ,Fur
+R_2bHTPUdBUne52T5,70,Female,Australia,FALSE,1.5,1,1.25,84.1587536214363,0,0,0,2,2,vegetable,road,school,sword,printer,cup,magazine,lawnmower,incense,football
+R_vB2twEkxxfrFJux,13,Female,Australia,TRUE,1.5,0,0.75,82.7774296603387,0,0,0,0,0,table ,dog ,dagger,cloak,bus,diary ,brick ,dentist chair ,mircoscope ,laptop 
+R_3EyzmJHh3QhikEI,65,Female,India,FALSE,0,0,0,82.0618290232406,2,2,2,0,2,Bicyle,Wind,Bus ,Textbook,Restaurant ,Pillow,Food,Network,Roadworks,Slug
+R_3smPEYKrs2X8NSC,55,Male,Australia,FALSE,1.5,1.5,1.5,75.1010582560585,0,0,0,1,1,dog,Pencil,Mat,Shower,Car,Flower,Toast,Candle,Wheel,Undies
+R_3dMHGjgKPqSoIjb,55,Female,Australia,FALSE,2,1,1.5,76.4956912114507,1,1,1,2,3,ocean,brain,vegetation,envelope,aeroplane ,sand,animal,balloon,clouds,luggage
+R_1f14YMDarWzO09T,70,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,84.887064195105,1,1,1,2,3,Hose,Collander,Bucket,Bullet,Star,Microscope ,Hall,Lettuce ,Stone,Fridge
+R_28XOUd8nrG2cmpd,35,Female,Australia,FALSE,0,0,0,69.1435045784428,1,1,1,2,3,running,jumping,drinking,licking,talking,blinking,tasting,throwing,swimming,balancing
+R_23efKnUKxMDBThb,55,Male,Australia,FALSE,0.5,0,0.25,75.9966728587945,1,1,1,0,1,think,static,brood,complete,proof,evolve,find,create,task,finish
+R_2wj1jMypWozKDV0,26,Female,Australia,TRUE,1.5,0,0.75,75.8575127593109,1,1,1,2,3,Dog,Kite,Chair,Book,Carpet,Stairs,Sky,Flower,Swing,Runners
+R_Y537FCjlnj67qAV,70,Female,Australia,FALSE,0.5,1,0.75,78.7179085309617,NA,NA,NA,1,NA,dog,kettle,tree,magnifier,sock,hedgetrimmer,scarf,table,yacht,blouse
+R_2Es3er8O4rHu7PY,35,Male,Australia,FALSE,1.5,1.5,1.5,62.8472440299534,0,0,0,1,1,go ,stop,fast ,slow,white,black,tall ,short,wet ,dry
+R_1eqJX7j6CiwlEPR,70,Male,United Kingdom of Great Britain and Northern Ireland,TRUE,3,3,3,79.7183797295604,0,0,0,1,1,spade,heart,banana,pleasure,fire,truth,skyscraper,dwarf,herring,fantasy
+R_z6fJGQqdnWC3P5n,35,Male,Australia,FALSE,0.5,0.5,0.5,75.2900818983714,0,0,0,1,1,wheelbarrow,sun,tree,ice,beer,bank,bird,girl,tennis,woodpecker
+R_3m1MdNbhuy8YfXr,35,Male,Australia,FALSE,1,1,1,86.5033284184479,2,2,2,2,4,love,percentage,wolf,capsicum,fart,nation,syndrome,goth,melonoma,sandal
+R_3qxqcum5TR5cifZ,35,Female,Australia,FALSE,2,1.5,1.75,87.4017206951976,0,0,0,2,2,Book ,Fork ,Pansy ,Tinsel,Shell,Door mat,Toy car,Computer,Shoe,Piano
+R_2txUqpy6GsSUbXB,65,Female,Australia,FALSE,1.5,0,0.75,81.7846104325283,1,1,1,2,3,chair,floor,cloud,iceberg,bear,automobile,grapefruit,cylinder,shoe,ticket
+R_3sgfMCd9ms8sVVv,35,Female,Australia,TRUE,1,0,0.5,82.9339297443983,1,1,1,2,3,car,ant,wood,board,custard,ball,magazine,tin,water,peg
+R_AmtLwl0QfQW1qWl,35,Female,Australia,TRUE,1,1.5,1.25,77.6154726034119,0,0,0,1,1,Snow,Tempel ,Mat ,Horse ,Computer ,Leg ,Card ,Telephone ,Desk ,Carrot 
+R_2pJBxdZJg0cAcPd,35,Male,New Zealand,TRUE,1,1,1,82.038091229541,2,2,2,2,4,Basket ,Flower,Tiger,Screwdriver ,Ant,Gravity,Video,Restaurant ,Thermos,Walking stick
+R_1MLT9FhIQd25lUB,55,Female,Australia,FALSE,2,1,1.5,81.7316793703607,0,0,0,2,2,House,Car,Hats,Soap,Kettle,Television,Nightie , Book,Pram,Door
+R_3Gjo0YgJ5oyxOcm,35,Female,Australia,TRUE,0,2,1,86.7459399736531,2,2,2,1,3,Cockroach ,Parcel,Poo,Fear,Orange,Dildo,Cardboard box,Osteoporosis ,Gormet buffet tray,Earwax
+R_1itzYGLhUayIJle,55,Female,Australia,FALSE,0.5,0,0.25,91.5426591311448,1,1,1,2,3,Algorithm,Cavern,Kohlrabi,Armadillo,Concept,Drill,Palette,Glacier,Tulip,Jacket
+R_cv7G8Kk5GtbXqUN,55,Female,Australia,FALSE,0.5,0,0.25,77.519061877614,1,1,1,2,3,Apple,Steering wheel,Dog,Beach,Art gallery,Computer,Hibiscus flower,Fence,Cloud,Volcano
+R_1nYYMH2d8mDaPca,55,Female,Australia,FALSE,0,0,0,74.3755410824503,1,1,1,0,1,Bed,Moon,Window,Bird,Job,Feelings,Wind,Surgery ,Life,Energy
+R_2YeTH6w2QxL2VwO,35,Female,Australia,FALSE,0,0,0,84.8125599407857,1,2,1,0,1,Bough,Sole,Spatula,Bobby pin ,Terrazzo ,Mint,Pebble,Tyre,Petal,Face
+R_1IbDhcbfokfM7JQ,35,Male,Australia,FALSE,2,0,1,76.7790086922191,1,1,1,1,2,Car,Fish,Wind,Tree,Wire,Needle,Tar,Boat,Seat,Shadow
+R_1HqtWxaQb9Lt94k,70,Female,Australia,FALSE,2.5,2.5,2.5,84.3454593293635,0,0,0,2,2,Dog,Lightbulb,Hoe,Generator,Roof,Pen,Index card,Footpath,Idea,Heart
+R_24N2NJ0dB9EnG3m,65,Female,New Zealand,FALSE,0,0.5,0.25,80.7254813256718,2,2,2,2,4,Cup,Feather,Stone,Car,Cloud,River,Book,Happiness,Sandwich,Chair
+R_4O3VP8FBucO0YfL,35,Female,Australia,FALSE,1,1,1,75.5964462068819,1,1,1,0,1,dog,cat,fish,television,carport,bucket,fire,lawn,bandage,felt
+R_sEWTZElpqRQJboJ,55,Female,Australia,FALSE,0,0,0,74.3172476689021,2,2,2,2,4,Cat,Shoe,Cloud,Chair,Bird,Computer,Towel,Window,Forest,Song
+R_1Fg3MP1comBjJSg,35,Male,Australia,FALSE,3,3,3,87.2124964637416,1,1,1,1,2,Mathematics,Astrology,Football,Dogs,Mountian,Space Station,Politician,Chandelier,Holiday,Crown
+R_3pi0KFl9bHcytHv,55,Male,Australia,FALSE,0,0,0,85.4806915635154,1,1,1,1,2,rabbit,planet,speck,logic,homeopathy,twenty-four,easy,song,dream,button
+R_2qkEmwOxiuDxYxW,35,Female,Australia,TRUE,2,1,1.5,75.1003527570338,2,2,2,2,4,Cup,Dog,Wind,Beach,Car,Pen,Farm,Planet,Grass,Hair
+R_2VgLrd1SFV6XpkB,65,Male,Australia,FALSE,1.5,1.5,1.5,85.8273122991834,2,2,2,0,2,truth,swing,apple,rocket,dungeon,alphabet,film,dog,calamity,ridge
+R_yDuYJYfazlr0oG5,55,Female,Australia,FALSE,2,1.5,1.75,83.8406074082568,1,1,1,0,1,Spoon, rock, aeroplane, jelly, earwig, ball, jump,Rock,Aeorplane,Jelly
+R_3lKar4jV5sU6r8K,70,Male,United States of America,FALSE,1,1,1,68.4018184386548,2,2,2,0,2,chalk,cheese,night,day,peace,posability,might,right,good,bad
+R_1cXJFgu3Vn8Ah7u,35,Female,New Zealand,FALSE,0,0,0,78.5464828213056,1,1,1,1,2,ball,aeroplane,mince,mountain,fish,water,brain,stereo,car,people
+R_1mCRSc5X4gyosGG,35,Female,Australia,FALSE,0,0.5,0.25,70.2771772231374,2,2,2,2,4,mountain,valley,snow,beach,surf,drought,candle,solar,moon,cake
+R_0illkd0Ttscu2WZ,55,Male,Australia,FALSE,1.5,1,1.25,90.7944558368486,2,2,2,1,3,Joy,Thumb,Hovel,Fossick,Lava,Germinate,Electricity,Meaning,Blue,Council
+R_1rOlpxItkHqjNMH,65,Male,Australia,FALSE,1,0,0.5,70.0758775075277,0,0,0,1,1,person,tree,rock,hill,sea,flower,food,tool,car,grass
+R_9YTXsz3I9gIn3Bn,65,Female,Australia,TRUE,0.5,0,0.25,82.3243914022377,2,2,2,1,3,Flight,Sunlight,Awareness,Seam,Tooth,Horizon,Radio ,Shadow,Photosynthesis,Mousetrap
+R_1EhSLJjywpKdFKr,55,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1.5,1.25,87.3850971393819,1,2,1,1,2,transaction,pencil,buggy,skirt,paperweight,mirror,tradition,bully,trapeze,bulldozer
+R_ufvewz3pY5WGV5n,55,Male,Australia,FALSE,3,1.5,2.25,79.8442801638019,2,2,2,0,2,fork,television,grass,ocean,moon,car,poison,dog,jumper,steps
+R_1F5pEC0qiFZafkd,55,Male,Australia,FALSE,0.5,1,0.75,88.4135084767227,1,1,1,2,3,Zero,Infinity,Flavour,Serendipity,Ashphalt,the Moon,Insect,Funerals,Newspaper,Light
+R_2yjaVenk8HWsGuV,70,Male,Australia,FALSE,1,1,1,71.7034141222636,2,2,2,0,2,House,Aeroplane,Bridge,Mountain,Air,Water,Vacuum,Shoe,Coin,Ghost
+R_2Ec7FuU2C5JUBeG,55,Male,Australia,FALSE,1.5,1.5,1.5,87.4944994048703,2,2,2,2,4,caravan,fish,bitumen,solar,arctic,spanner,ligament,toothpaste,sprint,dart
+R_22KQdJKYaZA0h3J,35,Male,Australia,TRUE,1,1,1,79.7662999658358,1,1,1,1,2,cat,brick,rain,cable,tree,flag,tooth paste,key,photograph,atom
+R_2Bm8XmByqLoYTmt,26,Male,New Zealand,TRUE,0,0,0,81.9439125202951,0,0,0,1,1,water,atom,moon,pants,tech,chair,live,motorbike,poly,blind
+R_2QmOrwVHtLBRJTg,65,Female,Australia,FALSE,0,0,0,78.3001656333605,1,1,1,0,1,Ant,Paperplane,Grass,River,Cloud,Love,Wine,Biscuit,Zebra,Egg
+R_3qg0ce3dBovO21D,55,Female,Australia,FALSE,1,1.5,1.25,80.3662623234448,0,0,0,0,0,People,Capitalism,Apple,Fairy,TV,Magic,Sandcastles,Mountain,Card,Sleep
+R_SBKb8NaxaPWQ4I9,35,Male,Australia,FALSE,1.5,1.5,1.5,83.1222153446149,1,1,1,2,3,Peanut,Compass,Syringe,Gun,Telescope,Computer,Kangaroo,Trampoline,Ice skates,Book
+R_2fqtrZCYu6BsnhC,35,Female,Australia,FALSE,0,0.5,0.25,80.2666458877779,2,2,2,1,3,Floorboard,Cotton wool,Apple,Monkey,Car keys,Bath,Umbrella,Paper bag,Fence,Light
+R_9HpfhbRXm6szwwV,55,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,71.3858513605027,1,1,1,1,2,dog,mountain,planet,ocean,person,food,sperm,whale,fog,heart
+R_1LwcNk50yHd3s6R,55,Male,United States of America,FALSE,2,1.5,1.75,78.5224636750562,2,2,2,1,3,refrigerator,candle,rock,fish,shoe,nose,photo,modem,pot,love
+R_1P7rYuSTAESCD87,55,Female,Hong Kong (S.A.R.),TRUE,2,2.5,2.25,89.0164004550094,1,1,1,1,2,fur,bowl,mango,joint,paper,doona,bus,tripod,deer,crystal
+R_z2PGb0Bo9B7rsA1,65,Female,Australia,FALSE,2,1.5,1.75,84.1947676347835,2,1,1,0,1,bucket,trombone,spectacles,shoe,clock,duster,frypan,blender,hairbrush,pen
+R_1n8U011tgjXLfLb,35,Male,Australia,FALSE,1.5,1.5,1.5,71.9326337178548,1,1,1,1,2,spoon,tree,dog,child,car,plane,bike,road,bus,sky
+R_2CvMMEbyBbSnG2I,26,Male,Australia,TRUE,1.5,1.5,1.5,69.1195375152997,0,0,0,0,0,toast,foot,chair,table,bread,hand,mouse,screen,speaker,key
+R_2fg2WQfzQpgYihj,65,Female,Australia,FALSE,4,1.5,2.75,81.9624388146968,1,1,1,2,3,water,house,shoes,golf bag,carpet,tissue,mountain,paperclip,chicken,roller coaster
+R_5AvGHFoMxdJzlE5,13,Female,Australia,FALSE,1.5,3,2.25,93.1284225495931,1,1,1,2,3,Laminate,Crumpet,Hoon,Porcelain,Azerbaijan,Laptop,Romance,Squiggle,Racing,Pink
+R_08SQvJ1ijkSrxS1,26,Male,Australia,FALSE,1.5,1.5,1.5,83.1838617866327,1,2,1,2,3,Truck,Computer,Tenderness,Belief,Creation,Blue,Magnet,Marble,Characteristic,Population
+R_30wLRst0Ra5awqR,35,Female,Australia,FALSE,0.5,0,0.25,80.9195608432804,2,2,2,2,4,Rainbow,Eagle,Plank,Soil,Hair,Beetle,Newspaper,Foil,Technology,Gumshoe
+R_2AZ6sb0Sg6WgziA,70,Male,Australia,FALSE,0,0,0,88.8748797809794,0,0,0,1,1,room,silo,wombat,telescope,pencil,bandana,dictionary,zootrope,callus,halfpenny
+R_xrZvKnvBXqB1Tdn,26,Male,Australia,FALSE,3,1.5,2.25,77.8291299052182,2,2,2,2,4,Toothbrush ,Boat,Sun,Microscope ,The aurora,Salt,Fog,Pebble,Bench,Lightning
+R_3RwmRZmduj9bEMr,65,Male,Australia,TRUE,3,3,3,81.8163182054247,1,0,0,1,1,milk,dog,air,planet,stove,rock,singlet,capsicum,crab,grass
+R_Pth7ERVeIE7qy9b,13,Female,Australia,FALSE,1,1,1,58.7109956003371,0,0,0,1,1,water,fire,dark,light,dead,alive,burnt,frozen,cold,hot
+R_ysSuu44DqA8JBxT,55,Female,Australia,FALSE,1.5,1.5,1.5,60.5353690329052,1,1,1,2,3,Floor,Ceiling,Gutter,Roof,Garden,Concrete,Bread,Water,Tu-tu,Jeans
+R_w0HecOF29Tc3dh7,55,Female,Australia,TRUE,1,1,1,77.235423063948,1,1,1,2,3,House,Cat,Raincoat,Car,Apple,Rose,Container,Orange juice,Ticket,Hair
+R_2TH2V8OEca6m4bG,55,Male,Australia,FALSE,2.5,1,1.75,84.8271151627636,1,1,1,2,3,sausage,surgeon,pathway,sky,ostrich,pebble,house,seaside,pencil,car
+R_2eQMRmnWxqoDZpq,35,Female,Australia,FALSE,1.5,2,1.75,76.1157542467117,0,0,0,1,1,apple,ice,television,carpet,grass,dog,trampoline,car,eagle,sausage
+R_5hyztSyRV1xz6rD,35,Female,Australia,FALSE,2,1.5,1.75,83.4565331893308,2,1,1,0,1,Car,Staple,Cloud,Wheat,Sock,Flame,Arrow,Mountain ,Rip,Pupil
+R_3fCQUHaXyhhMC8y,35,Male,Australia,FALSE,1,1,1,81.0586117740188,0,1,0,1,1,Poem,Vase,Aeroplane,Orange,Volcano,Ape,Desert,Coffee,Star,Omeba
+R_2OW2zmPCaNRTPua,65,Female,Australia,TRUE,0,0,0,78.9873472991444,2,2,2,0,2,Train,Fish,Camera,Sox,Language ,Basketball ,Stick ,Robot,Restaurant ,Fence
+R_1mKJ8Dw557vR4ZA,9,Male,Australia,FALSE,1,1,1,70.8391235697837,1,1,1,2,3,couch,rock,tree,sun,human,fell,feel,note ,food,dust
+R_39shPpOUYPu3WW5,65,NA,Australia,TRUE,1.5,1.5,1.5,56.7807811356726,1,1,1,0,1,grass,desert,ocean,sky,moon,sun,brick,mouse,teacup,book
+R_1ONQjHyjJSBu9dd,55,Female,Australia,FALSE,1,1.5,1.25,81.7037926809419,2,1,1,1,2,clock,bicicle,frog,computer,soup,garden,planet,quilling,window,radio
+R_3iDBfI557efPT17,55,Female,Hong Kong (S.A.R.),TRUE,0,0,0,74.937704205513,2,2,2,1,3,paper,table,book,dishes,mirror,medicine,ball,tissue,manequin,plant
+R_27szhju0DKs25Ux,55,Female,Australia,FALSE,3,1.5,2.25,71.3633773937112,1,1,1,2,3,concrete,tree,house,cloud,dress,sea,lake,snow,river,monument
+R_bCoFuCEYin3x7TH,65,Female,Australia,FALSE,2,1.5,1.75,89.5684414022114,2,2,2,0,2,spagetti,basket ball,shoe lace,submarine,dog,cushion,tyre,acrobat,spanner,crumb
+R_32XeBdLv2TjjL8O,70,Male,Australia,FALSE,1.5,2.5,2,51.1093964888936,1,0,0,0,0,back ,forward,up,down,forward,back,around,down,fat,light
+R_zd3zJIWOuD7eTRf,26,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,2.5,2.5,2.5,83.4220920112871,1,1,1,2,3,Elephant,Spoon,Motorbike,Tree,Microscope,Burger,Playstation,Air,Toenail,Magnetism
+R_b1NTAGa6TPA87IZ,55,Female,Australia,FALSE,1.5,1,1.25,82.28647329268,0,0,0,0,0,cat,lemontree,Tyre,carpet,clouds,artery,toilet,pencil,hamburger,coin
+R_2BzDOuixCg7tuOD,65,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1,1,83.1280929879064,1,1,1,2,3,cup,sky,worm,monolith,brain,rainbow,newspaper,waterfall,aeroplane,baby
+R_2TNTph4QjF2T4J3,70,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,1.5,1.5,1.5,77.696402903114,1,1,1,0,1,Soil,ICecream,Book,Hat,Carpet,Car,Tree,Sea,Shop,Line
+R_3FXnwgvW4eDkMZg,70,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,0.5,2.5,1.5,70.6780158338093,0,0,0,1,1,Garden,Street,Dog,Car,Painting,Radio,Bed,Refrigerator ,Bird ,Human
+R_1eWtAbu0PosgNPc,70,Female,Australia,FALSE,0.5,0,0.25,73.5643854098661,0,0,0,2,2,Lampshade,Pillow,Suitcase,Pullover,Icepack,Cardigan,Paperweight,Whistle,Footstool,Paperbag
+R_2q3iJttjA9Hi7ey,55,Male,Australia,FALSE,0,0,0,78.832495957613,1,1,1,2,3,cat,bus,green,rifle,spring,vacuum,ocean,computer,soldier,cave
+R_WAP2ClLIEAaNA53,55,Male,United States of America,TRUE,1.5,1.5,1.5,86.8829646613449,0,0,0,1,1,Crustacean ,Dandelion ,Star,Water droplet,Vent,Tire,Mirror,Drum,Mountain,Jacks
+R_3R8H1yrCuLtggrC,35,Female,Australia,FALSE,1.5,1,1.25,77.8198699156443,1,1,1,2,3,frog,ruler,house,plane,mat,bed,fork,house,dog,elephant
+R_25XwwQCXXy3FpZV,35,Male,Australia,TRUE,1.5,1.5,1.5,86.2043165269175,2,2,2,1,3,thumb,antelope,razor,hairspray,virus,weevil,pin,leaf,breeze,resistor
+R_2YLlzgH8pKxYBf2,55,Female,Australia,FALSE,0.5,0,0.25,77.2042639198757,2,2,2,0,2,Gate,Dog,Paper,Building,Water,Capsule,Rice,Bike,Space,Farm
+R_2PjbtC8CZkeDlia,35,Female,Canada,FALSE,0,0.5,0.25,68.3508411759422,0,1,0,1,1,man,woman,dog,cat,sky,gold,rocket,didgeridoo,tent,painting
+R_3IcXbC1idcpgtNx,26,Female,Australia,FALSE,2,0,1,78.3532231159154,1,1,1,1,2,Dog,Mountain,Meteor,Perfume,Truck,Garbage can,Snake,Moss,Strawberry,Bacteria
+R_1lfXeLK85X1XKlj,35,Male,Australia,FALSE,1,1.5,1.25,74.8197888511987,2,2,2,1,3,Computer,Space,Microscope,Television,Music,Painting,Animal,Atoms,Sailboat,Electricity
+R_3q9iFrV45Md5UUc,55,Male,Australia,FALSE,0,1,0.5,73.2789370275679,1,1,0,2,2,Wood,Metal,Fire,Trees,Sex,Computer ,Plane,Desert,Moon,Fish
+R_332SHmdaxqIw318,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1.5,1.25,86.7203218729368,1,1,1,1,2,foot,wind,radio,teacup,magpie,piano,carpet,refrigerator,cloud,kitten
+R_018IS84O8SYhClX,55,Female,Australia,FALSE,2.5,2.5,2.5,81.9044159015729,1,1,1,1,2,rainbow,ruler,hole,radio,flower,carbon,beauty,wheel,fish,train
+R_DIX8z4TPWAbhNoB,55,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,0,0,0,76.2952372431755,0,0,0,2,2,Ski,Shell,Bread,Trousers,Stone,Dog,Rain,Television,Brain,House
+R_A5JwFRH1kPuxfxL,55,Female,Australia,FALSE,0,0,0,75.4166699945927,NA,NA,NA,1,NA,dog,cat,vase,umbrella,rock,cloud,apple,crown,car,ruler
+R_Og8HwJx87cHXoZz,35,Male,Australia,TRUE,1.5,1.5,1.5,78.146019817463,2,1,1,1,2,Mountain,Bicycle,water,Gold,Lathe,Dog,Window,Calendar,Paper,Suitcase
+R_ThdGc2iQWXc7ja1,55,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,0,0,0,84.4621956082327,0,0,0,1,1,Porridge,Kilt,Mountain,Foot,Aeroplane,Toadstool,Toaster,Gun,Rose,Slingshot
+R_2xK5EBRR93nXMNW,35,Female,Australia,FALSE,2.5,2.5,2.5,72.2950633083071,1,1,1,1,2,sun,table,time,colour,cat,love,Science,saw,catapult,row
+R_2xz4I6TdjRynOrH,35,Female,Australia,FALSE,0,0.5,0.25,84.3601743735018,0,0,0,2,2,Spoon,Withdrawn,Dog,Coward,Sunset,Blanket,Mucus,Peas,Movie,Bike
+R_2saKPap5ilJ7sL6,35,Male,Australia,FALSE,2.5,2.5,2.5,77.5886431691192,2,2,2,1,3,paper,rock,scissors,car,light,phone,band,rope,fork,bag
+R_xm9wTtHFus6ry3n,35,Female,Australia,FALSE,0,0,0,78.6690202142511,2,2,2,2,4,Fireplace ,Pumpkin ,Rope,Bicycle ,Tarantula ,Cupboard ,Garden gnome ,Cricket bat,Knife,Bottle
+R_22rcmc22cm0kuzs,35,Female,Australia,TRUE,1,1,1,79.0642272647736,2,2,2,1,3,Dog,Produce,Sky,Illumination,Dance,Hill,Birthday card,Opera,Escalator,Tumor
+R_2aKtx8TZloshTXJ,26,Female,Australia,FALSE,0,1,0.5,76.177262266477,1,2,1,2,3,dog,skin,acid,box,button,planet,wallet,volcano,blood clot,atom
+R_21n8WlXBI6yTC0V,35,Female,Australia,FALSE,1.5,1.5,1.5,80.2998320066503,0,0,0,1,1,snow,concrete,splash,fibre, sunset,seagull,church,lead,number,secret
+R_UJzHsaMOnexoxiN,18,Female,Australia,FALSE,2.5,3,2.75,85.9103509978879,2,2,2,0,2,Car,Bonsai,Computer,Supermarket,Surgery,Modem,Blanket,Curry,Scythe ,Hut
+R_yPYbPfB0SFDpjcB,18,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1,1,90.1029062457383,1,1,1,1,2,Sky,Toast,Workbook,Torch,Poster,Meerkat,Atom,Scarf,Emotion,Friend
+R_1EcBQORxrgFkpMM,18,Female,Australia,TRUE,0,0,0,81.9311207692538,1,1,1,2,3,brick,goose,ice,humidity,sun,daughter,honesty,continent,granite,eucalypt
+R_3lJLSfK0XpV3VJ6,7,Male,Australia,FALSE,1.5,1.5,1.5,78.5870906142961,1,1,1,1,2,rock,time,container,rose,dog,iron(metal),cupboard,fireplace,sneakers,doorknob
+R_Wugrl4dFaQ7DAJP,26,Male,Australia,FALSE,2,3,2.5,78.4867411390657,1,2,1,1,2,River,Desert,Dessert,Tyres,Fire,Helicopter,Courthouse,Bakery,Home,Forest
+R_1g6piC9jlGyeuTM,9,Male,Australia,TRUE,1.5,1.5,1.5,76.2846172210716,2,2,2,1,3,bike ,chocolate ,aeroplane,time ,money ,burgar,dog,doughnut,future,chicken
+R_3P5nb5Q4UdFjEID,35,Male,Australia,TRUE,0,0.5,0.25,79.3333207744928,1,1,1,1,2,Wolf,Glass,Battery,Tyre,Shell,Drum,Chair,Lighter,Book,Pillow
+R_10GJG0gYqLOzbve,35,Female,Australia,FALSE,1.5,1.5,1.5,76.5378549695015,1,1,1,1,2,pig,gate,grass,rock,pen,watch,bottle,nail,stapler,paper
+R_a62bvdVmzimMMlH,35,Male,Australia,FALSE,1.5,1.5,1.5,79.3919469629015,NA,NA,NA,2,NA,cup,lion, window, fog ,ship, planet,hanger, eye,clock, file
+R_2zGASFx44Ndrgnt,26,Female,Australia,FALSE,0,0.5,0.25,78.7661221765336,1,1,1,1,2,Cup,Broom,Head,Ball baring ,Rain,Microphone ,Planet,Dress,Pen,Orchard 
+R_78uO2cffSGoPPVv,55,Female,Australia,FALSE,0.5,0,0.25,82.4119812675885,1,1,1,2,3,book,bike,shovel,clip,tennis raquet,cup,piano,calculator,moon,flower
+R_21uimYiw7LMdxQq,70,Male,Australia,FALSE,0.5,1,0.75,80.4578269521395,2,2,2,0,2,rat,table,milk,socket,number,jelly,car,noodle,mountain,carpet
+R_2YJKcrvI16bnxro,35,Female,Australia,FALSE,1.5,1.5,1.5,77.1727179487546,1,1,1,1,2,Arrow,Bell,Ouch,Feeling,Proper,Ant,Boy,Hum,Gang,Baked 
+R_1jdYfq69A8MjZ1x,35,Male,Australia,FALSE,0.5,0.5,0.5,80.5700125084037,0,1,0,2,2,cup,ship,grass,kite,cat,marathon,tower,peel,medicine,pen
+R_1prJvzcfJIzfc0z,35,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,0,0,0,84.1197410797966,2,2,2,2,4,tank,pencil,jumper,walkway,parrot,screwdriver,cough,bedspread,love,tension
+R_1lobIaGEanGJNnt,70,Female,Australia,FALSE,1,1,1,75.6022654473782,0,0,0,2,2,Rabit,Bolt,silverbeet,computer,wall,Orange,Toe,Car,Moon,Fish
+R_3R8SrNd8bCIAVhB,55,Female,Australia,FALSE,3,3,3,82.9005600973254,1,1,1,0,1,Vomit ,Tomato,Ashtray,Vehicle,Toast,Barrier,Blanket,Sausage,Expedition ,Dust
+R_3Pw7EtF4TnCcmG0,35,Female,Australia,TRUE,1,0,0.5,79.8593828388091,1,1,1,0,1,Cat,Brick,Ladle,Water,Soap,Car,School,Football,Country,Iceberg
+R_2xEvnHsSLS2yGSc,55,Male,Australia,FALSE,0,0,0,76.5218472196942,2,2,2,1,3,egg,roof,tyre,beer,mirror,tree,tractor,pencil,sock,ocean
+R_2QPWjw27BFk0M5a,13,Male,New Zealand,TRUE,1,1.5,1.25,80.1818622076618,2,2,2,0,2,people,animals,rope,fish,lollipop,mat,crowbar,limousine ,crepe,cane
+R_vi6rpqiiUWTSJSp,35,Female,South Africa,FALSE,0.5,0,0.25,75.950070115782,2,2,2,0,2,Dog,Bicycle,Telephone ,Tree,Desk,Circus,Restaurant ,Ship,Lawn mower,Chair
+R_svbHihGLSvlFu37,70,Male,New Zealand,FALSE,1.5,0,0.75,86.6295960950776,2,2,2,1,3,person,country,lava,hoof,pistil,bike,shark,white,terror,building
+R_2PmVnWOSQUh1zSE,35,Male,Australia,FALSE,3,3,3,81.1213193824404,1,1,1,0,1,Car,toilet,atom,whale,Cosmos,Thought,Regret,Nothing,Vanilla,Number
+R_1QlOhfQAqGfxqFo,26,Female,United States of America,FALSE,0.5,0,0.25,86.2903750368527,0,0,0,1,1,phone,paper clip,mug,elephant,mango,shoe,hospital,hockey,elbow,logo
+R_25XBi3q93Iuacus,55,Female,Australia,FALSE,0,0,0,74.2378246926126,0,0,0,1,1,Paper,Dog,Happy,Park,Truck,Bread,Dress,Banana,Floor,Tree
+R_8cTe5B2hibiWtB7,35,Female,Australia,FALSE,0,0,0,80.5058109463148,1,1,1,2,3,Table,Grass,Pen,Lolly,Shoe,Iron,Tv,Car,Cloud,House
+R_2xV7MZUAYrzCkX1,26,Male,Australia,FALSE,0,0.5,0.25,66.9710587887537,1,1,1,0,1,Rock,Water,Air,Fire,Life,Death,Growth,Computer,Energy,Cold
+R_es7f0lBINiPrv2h,55,Male,Australia,FALSE,2,1,1.5,73.9838872991857,1,1,1,1,2,Ball,Caravan ,Pillow ,Cat,Dressed,Walk,Air,Smell,Backyard ,Holiday 
+R_3F3xrLZkw1DbDrl,35,Female,Australia,FALSE,1.5,1.5,1.5,79.4628907172453,2,2,2,1,3,book,dog,cloud,hair,tomato,rock,car,telephone,person,paper
+R_1eLV1708GviwoYE,65,Female,South Africa,TRUE,0,0,0,80.376747485605,1,1,1,0,1,rain,depression,salivate,fly,dogs,walking,ball point pen,tour,hairstyle,coffee
+R_3peThUEpI1cdvCd,55,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,75.5648273797262,1,1,1,0,1,Name,Diary,Dog,Number,Street,Shoe,Book,Plane,House,Car
+R_3Hzcbw7a87iGUR0,35,Female,Australia,FALSE,0,0,0,79.6543904358432,1,1,1,1,2,bird,telephone,knife,hat,river,train,sewer,newsagency,pencil,cigar
+R_3dWiks8rJyzH6QX,55,Male,Australia,FALSE,1.5,0,0.75,71.2189870221274,2,2,2,2,4,sport,art,love,mother,alcohol,food,exercise,films,plumbing,vehicle
+R_vTc3ejMtVIQdwUV,55,Female,Australia,FALSE,1.5,1,1.25,83.0214356693129,0,0,0,0,0,friends,apples,dogs,lorikeets,bees,lawnmowers,ladder,carpet,cannabis,chocolate
+R_2VduwlyHlZkxXxq,35,Male,Australia,FALSE,3,1.5,2.25,79.0356522869496,1,1,1,0,1,shoe,screwdriver,torch,tree,oxygen,moon,concrete,forest,cigarette,credit card
+R_1d53qIqQ8uH3Bbt,55,Male,Australia,FALSE,1,1,1,75.937235532772,2,2,2,1,3,Bird,Car,Cloud ,Sun,Planet,Atom,Meter,Coil ,String,Sign
+R_cCsTIZzDNrnAhqx,65,Female,Australia,FALSE,0,0,0,71.3870922014827,0,0,0,0,0,bricks,balloons,candles,cactus,fruit,steak,beads,icycles,boxes,berets
+R_2OOMZPXKhMF4OZm,70,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,1,0,0.5,78.7061728182293,2,2,2,1,3,People,Paper,Shoes,Son,Bicycle,Shovel,Grass,Bed,Computer,Cat
+R_1GJiPelBzxtvKyC,55,Female,Australia,FALSE,2,1,1.5,78.7688853130454,2,1,1,1,2,Garden,Stars,Shoes,Hairclips,Butter,Dog,Car,Elderly man,Church,Warranty
+R_1eRfVrsEifJNT2b,70,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,88.9671449349927,1,1,1,0,1,Tree,Handbag,Automobile,Hammer,Book,Dishcloth,Verandah,Table,Fireplace,Star
+R_3j0vYNhTfm5Y8zA,35,Male,Australia,TRUE,1,1,1,86.5897129112411,1,1,1,1,2,spade,lighbulb,pencil,mobilephone,glasses,computer mouse,headphones,watch band,tree,salt shaker
+R_1KcHChLZLyldVI1,70,Male,Australia,FALSE,1.5,0,0.75,65.5671332563673,1,1,1,1,2,Human,Rock,Tree,Sky,Water,Iron ore,Wind,Fire,Paper,Bitumen
+R_2cuus42xtClEa6A,35,Male,Australia,FALSE,0,1,0.5,86.8305348103777,1,1,1,0,1,leg,heaven,cloud,scrub,pallet,graphite,taught,synthesiser ,spell,collage
+R_1GZbXftPz7IdwiY,70,Male,Australia,FALSE,0,0,0,78.6091318620103,2,2,2,1,3,Water,Brick,Tree,Pie,Surfboard,Computer,Love,Son,Climate,Architect
+R_3Kq01AZEzeaIgjW,55,Female,Australia,TRUE,0,1,0.5,72.1485865967614,0,0,0,0,0,Hat,Banana,Kind,Medical,Drink,Walk,Beach,Read,Green,Street
+R_2nx7dKeFo6EZUlj,35,Female,Australia,FALSE,0,0,0,63.3546280009406,2,2,2,1,3,black,white,love,hate,day,night,sorrow,chocolate,wine,kayak
+R_DCWoE82aRFSYgTL,70,Male,United Kingdom of Great Britain and Northern Ireland,TRUE,0,0,0,77.2904931434563,2,2,2,1,3,whale,planet,windmill,goose,snow,star,galaxy,helicopter,hair,furrow
+R_pbD6wMlmWFvi5Hz,70,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,64.1167361821447,2,2,2,0,2,Mountains,desert,Sea,plants,insects,food,floods,stars,body,air
+R_1f1vgvoEvtupjVa,65,Male,Australia,FALSE,1.5,1,1.25,78.2027638295577,2,2,2,0,2,bird,ruler,glasses,picture,curtain,plant,car,house,lamp,rock
+R_1FJoCodV0lWXCgH,55,Female,Australia,FALSE,1.5,1.5,1.5,71.06886527368,0,0,0,1,1,fish,coal,dirt,snow,bucket,soap,mat,cactus,art,grass
+R_2ZHVHnCgJexlbXv,55,Male,Australia,FALSE,2,1,1.5,72.8208885306404,1,1,1,0,1,tree,dog,cloud,car,man,rock,computer,table,brain,wind
+R_3rZknf2Gl8eqNWH,65,Female,Australia,FALSE,1,0,0.5,74.685159041768,1,1,1,0,1,fridge,cactus,dog,sky,rock,noise,water,floor,paper,textile
+R_3mh2xhZ9bq5LJ9m,13,Female,Australia,FALSE,0.5,0,0.25,74.0324437618256,2,1,1,1,2,flower ,house ,table ,phone ,water ,bridge ,friend,bottle ,dirt ,blutooth 
+R_2rYC1Iz3oMahQpn,55,Female,Australia,FALSE,2,1.5,1.75,88.9388039708138,2,2,2,2,4,train,teardrop,psoriasis,frame,game,hallway,hiccup,philospohy,marble,leaf
+R_1GNcA8u16oRrbdD,55,Male,Australia,FALSE,3,1.5,2.25,78.7909842318013,1,1,1,1,2,Tent,Drawing charcoal,Phone,Car,Pillow,Surf,Beer,Binoculars,Shoes,Lift
+R_21gErEjZspEMlci,18,Female,Australia,FALSE,1.5,0,0.75,76.3530531454654,0,1,0,1,1,yesterday,traffic,moon,hungry,desert,fish,bucket,knowledge,toenail,memory
+R_1GJF1IT20JF4ztH,65,Female,Canada,FALSE,1.5,1,1.25,79.4592937188489,2,2,2,2,4,Buckle,Car,Sandwich,Ears,Grass,Cloud,Paint,Button,Chocolate bar,Bug
+R_e5QSjdbQ2V6TAMF,55,Female,Australia,TRUE,0,0.5,0.25,79.1975635680414,1,0,0,2,2,eye,tree,star,proton,oxygen,house,corpse,bacteria,art,sperm
+R_UEEUwKwg3hCIYfL,9,Female,Australia,FALSE,0.5,0.5,0.5,75.8033981635457,0,0,0,1,1,tissue,timber,plastic,glass,pasta,blanket,cloud,leaf,metal,magnet
+R_2SoVu6oh18npm0V,55,Female,Australia,TRUE,0,0.5,0.25,76.467246171974,1,1,1,2,3,Sand,Steel,Bank,Sky,Crab,Whip,Sheet,Bell,Toe,Stapler
+R_3EM4W6AFbrNIJMK,55,Female,Australia,FALSE,1,0,0.5,65.4228262071099,1,1,1,1,2,Plant,Leaf,Dirt,Soil,Branch,Stone,Dust,Bunch,Water,Stand
+R_10IsOQXMNONtLuz,13,Male,Australia,FALSE,2,1.5,1.75,75.7426170366151,2,2,2,0,2,house,elephant,mug,tree,calculator,chair,shoe,net,cage,plane
+R_1loZ6dJgY2W9p8h,55,Male,Australia,FALSE,0.5,1,0.75,66.3920854528745,2,2,2,1,3,space,atmosphere,water,earth,planet,meteor,proton,quark,singularity,sex
+R_1llQswjv7GUubTs,18,Female,Australia,FALSE,1.5,1,1.25,73.8076497756299,0,0,0,0,0,Toilet,Rain,Tree,Bike,Train,Computer,Elephant,Tractor,Drink Bottle,Pen
+R_2Emi85PlimdXkMb,55,Female,Australia,FALSE,3,0,1.5,63.1811904765311,1,1,1,2,3,chalk,cheese,water,sand,plant,wood,grass,air,gas,hair
+R_1rr9YxTOLRdCveM,65,Male,Australia,FALSE,0,0,0,83.2570531117242,1,1,1,1,2,Cat,Door,Tractor,Shirt,Hoe,Test tube,Exercise bike,Computer,Flag,Helicopter
+R_XS0tDH77jJgVJEB,55,Female,Australia,FALSE,1.5,0,0.75,79.9322482021082,0,0,0,1,1,animal,brick,steel,mountain,car,plastic bag,wool,hairspray,apple,boot
+R_337kOj0fOIYOjoc,35,Male,Australia,FALSE,1.5,2,1.75,73.2935006419818,2,2,2,1,3,Plate,Leaf,Candle,Frog,Rope,Food,Car,Bin,Arm,Thong
+R_1oBgXcf031c49yM,55,Female,Australia,FALSE,1.5,1.5,1.5,82.71726074052,2,2,2,0,2,Possum,Wine,Delight,Key,Spectacles,Shoe,Table,Plant,Window,Carer
+R_2OPEm9UdqlUHJV8,70,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,77.0031980105809,1,1,0,1,1,scream,whisper,ripple,raging ,zephyr,icicle,liquid,stalk,bulbous,military
+R_1oHd3ZH7gh2LCBg,35,Female,Australia,FALSE,0,0,0,79.3274734701429,2,2,2,2,4,Teapot,Turtle,Tree,Castle,Screwdriver,Soap,Saddle,Lettuce,Shirt,Upholstery
+R_3QLUar1thVUXhDZ,26,Female,Australia,FALSE,0,0,0,80.1037810521112,1,1,1,2,3,Dinosaur,Umbrella,Tea cup,Rope,Snake,Tyre,Light,Jumper,Fridge,Sink
+R_2qjvP8gjg4OC5Or,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,0,0.75,86.582254576275,2,2,2,1,3,crater,speed,red,theatre,manufacture,compete,unseen,macabre,rhyme,with
+R_2WvbTlVNpYnVZs2,55,Male,United States of America,FALSE,2.5,1,1.75,79.2109266987869,0,0,0,2,2,moon,dirt,pencil,computer,foot,ocean,uranium,pope,asphalt,carpet
+R_2rDsY8WsxYXhBU6,26,Male,Australia,FALSE,1.5,1.5,1.5,82.1615405380726,2,2,2,0,2,Window,Grass,Ladder,Ocean,Sewing machine,Trumpet,Shampoo,Alcohol,Light globe,Tyre
+R_AgrNPJiQVsok8HT,65,Male,United Kingdom of Great Britain and Northern Ireland,TRUE,0.5,0.5,0.5,74.420382295336,2,2,2,2,4,Red,Arrow,Train,Umbrella ,Peach,Moon,Cheese,Seashell,Cow,Aeroplane 
+R_3dJJMvgnKjPNICU,35,Female,Australia,TRUE,0,0,0,81.5296507662251,1,0,0,2,2,Pen,Cake,Fire,Soap,Lawn mower,Piano,Fork,Chicken,Camera,Bobbin
+R_3ekq00a9CL9gO3C,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,0,0.75,82.9234813739147,0,0,0,0,0,Mountain,Jelly,Teapot,Fish,Silence,Nappy,Hope,Book,Jumper,Sand
+R_3fAzmAligtj4czF,13,Male,Australia,TRUE,1.5,0,0.75,88.8890592824845,2,2,2,1,3,word,fences,ships,potatoes,beakers,chess,cards,accordian,rocket,statue
+R_3PNXurNGR1QudPb,55,Female,Australia,TRUE,0,0,0,82.5012403939452,1,1,1,2,3,Shoe,Ticket,Fridge,Moon,Book,Hospital,Ice-cream,Turtle,Birthday,Hope
+R_3R1Rxp0No2pslZo,35,Male,Australia,FALSE,1,1.5,1.25,78.4794002771378,1,1,1,2,3,loop,unindentifiable,responsible,platten,common,bubble,health,local,runner,open
+R_sSYhyg4YncXLVct,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,72.6182324545724,1,1,1,1,2,Moon,Sea,brick,leaf,water,caterpillar,painting,glass,chair,pen
+R_28Bu22zJSMycME3,65,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1,1,86.816487698594,1,1,1,2,3,coffee,house,ruler,dress,spectrometer,dictionary,spoon,car,wineglass,fitbit
+R_a3RzWwJUpJ4K0Vz,55,Female,New Zealand,TRUE,0,0,0,78.0199275307712,1,1,1,1,2,Leaf,Metal bar,Coconut,Salt,Spider,Electricity,Cloud,School,Sofa,Snow
+R_11YiHAKf1gf8A95,35,Male,New Zealand,TRUE,1.5,1.5,1.5,84.4372773543,2,2,2,1,3,corn,asteroid,witch,licence,pine tree,laser,whale,island,snow flake,rubiks cube
+R_VU6rSgjPJeSyAPD,26,Male,Australia,FALSE,1.5,1.5,1.5,84.3722187647862,2,2,2,1,3,dog,ruler,planet,motor,water,donut,abstraction,talisman,torch,alphabet
+R_3MujfESVmfqoL43,55,Male,New Zealand,FALSE,3,3,3,74.1311385518029,1,0,0,0,0,fish,spoon,tree,money,knives,carpet,grass,trees,flour,seeds
+R_3L7ip31ZSYT26yf,55,Female,Australia,FALSE,1.5,1,1.25,76.346107235267,0,0,0,0,0,animal,country,weather,clothes,workplace,parliament,occupation,library,car,friend
+R_2wEVCOjIDDO1WbR,35,Female,Australia,FALSE,1,1.5,1.25,78.1736723369076,1,1,1,1,2,Pencil,Car,Spaghetti,Soup,Donut,Dog,Road,Frisbee,Punk,Ladle
+R_2Tv3YDQcwUNJV9m,70,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,3,4.5,3.75,84.793678453813,2,2,2,1,3,Octopus ,Star,Mica,Toe,Nugget,Mustard,Nitrogen,Posterior ,Film,Vacuum 
+R_0OkLVAHlCWGwKCl,65,Female,Australia,TRUE,3.5,1.5,2.5,75.80726622116,2,1,1,1,2,Book,Bed,Dress,Clock,Fan,Window,Switch,Garden,Cup,Scissors 
+R_2ruT2JJ0Mjdcvxs,26,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,76.8310129997276,1,1,1,2,3,Dog,Bed,Spoon,Television,Carpet,Cereal,Clock ,Cigarettes ,Bag,Door
+R_1mW1eUnUgRgsNgM,55,Male,Australia,FALSE,0,1.5,0.75,76.1731865150588,2,2,2,0,2,Bike,Concrete,Jelly,Flame,Clog,Ice,Banana,Starlight,Bug,Diode
+R_2Vt1hKKTZjY9d4u,35,Male,Australia,FALSE,0,0.5,0.25,69.5015703638395,2,2,2,1,3,Ice,Fire,Dirt,Sky,Sea,Chair,Dog,House,Car,Man
+R_23VpZ9gn25GVW7m,35,Female,Australia,TRUE,0.5,0,0.25,78.56289137687,0,0,0,2,2,Tree,Coal,Snow,Flame,Diamond,Turnip,Scissors,Racecar,Sunlight,Echidna
+R_bCTa1DJiwKpgYFP,55,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,0.5,0,0.25,74.4345515434231,NA,NA,NA,1,NA,Golf ball,Bat,Helmet,Rope,Flashlight,Battery,Charger,Dyke,Boat,Wave
+R_3eqo8T68m5XT6Xq,70,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1.5,1.25,80.7497629541017,1,1,1,0,1,Town,Baby,Gorilla,Lawn,Building,Hovel,Shoe,Bag,Eye,Picture 
+R_1pLqy4dvIR4I7SW,26,Female,Australia,TRUE,1,1,1,84.8035248794726,1,1,1,1,2,house,quarry,raspberry,computer,lace,fingerprint,sticker,llama,script,rain
+R_OqeCVIn5rwYWF6p,55,Female,Australia,FALSE,0.5,0,0.25,74.2746723727101,1,1,0,1,1,jar,car,microwave,pool,ocean,fish,seaweed,rock,necklace,mirror
+R_1fafdosv4tFnbqA,55,Female,Australia,TRUE,0,1.5,0.75,84.2408984023634,2,2,2,1,3,table,sandwich,poppy,swing,paw paw,mouse,pencil,toaster,aunt,keys
+R_2EHuEIBpcUUtP8c,55,Female,Australia,FALSE,0,0,0,83.8403935943331,1,1,1,1,2,Zoo,Table,Microscope,Ash tree,Combie van,Moon,Ice cream,Scarf,Violin,Volcano
+R_2rAhdwTnD5iZhxF,35,Female,Australia,FALSE,1.5,0,0.75,76.2854626136167,1,1,0,2,2,Finger,Road,Chicken ,Star,River,Sky,Ambulance ,School,Tree,Church
+R_1f8yNot0mhiQqbE,65,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,0,0,0,74.2518460821538,1,1,1,1,2,thought,pink,forest,ground,plane,compass,toy,pansy,material,thing
+R_2eaFvdCU41H41dB,26,Male,India,TRUE,2.5,2.5,2.5,82.2877465525553,0,0,0,1,1,Pencil,Truck,Ball,Ballet,Temple,Sushi,Wicked,Flag,Freight,Animation
+R_3fCUheN9gedvldN,55,Female,Australia,FALSE,0,0,0,76.6941613207261,0,0,0,1,1,Floor coverings ,Dog bed ,Coffee table ,Underwear,Suitcase,Glass ,Garden,Sun,Wood ,Button
+R_p46lScarzaBp2o1,18,Male,Australia,FALSE,0,0.5,0.25,76.0962705881823,1,1,1,0,1,Ball,Leaves,Asphalt ,Water,Pants,Pencil,Dice,Bear,Photo,Jars
+R_2ZKMMZSLDoprpFq,55,Female,Australia,FALSE,1,1,1,70.6412803204287,1,1,1,2,3,Frog,Pillow,Rug,Tree,Garage,Street,Grass,Saucepan ,Moisturiser,Bird
+R_WrJMdxXuMuoh4Wd,35,Male,Australia,FALSE,0,0,0,78.1186499765941,0,0,0,2,2,Guitar,Door,Ball,Tyre,Apple,Cork,Mirror,Rake,Gong,Plane
+R_29nx29B8mhiHYy0,35,Female,Australia,FALSE,2,2,2,57.955487711089,2,1,1,1,2,Pond,Grass,Tree,Concrete,Water,Sand,Potato ,Leaf,Clock,Tap
+R_1ihrXafi5qTotdi,70,Female,Australia,FALSE,0,0,0,80.2625319964829,2,2,2,0,2,Cat,ladder,star, volcano,diamond ring,cells,shadow,campervan,clouds,glowstick
+R_6leofobmQgjpISR,26,Female,Australia,FALSE,1,1,1,74.3620300222011,2,2,2,0,2,watermelon ,hat,cloud,grass,bed,cat,ocean,chips,microwave,laugh
+R_Wch375Z7WTpAPct,35,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1,1,1,72.1043825859115,1,1,1,0,1,Horse,Board,Church,Tree,Mountain,Wind,Car,Ruler,Pliers,Trowel
+R_2cCqeSV33QiHKRc,70,Male,Australia,FALSE,1.5,0.5,1,83.7227208362449,1,1,1,1,2,moon,sea shell,toe,steering wheel,page,grass,turbine,bird,bomb,lemon
+R_cT6rc4m9ETMCV0d,13,Female,United States of America,TRUE,0,0,0,71.2385522467749,0,0,0,2,2,chair,balloon,ball,door,basket,air,star,computer,boat,shoe
+R_1DOu3tbApWeSHLm,55,Male,Australia,FALSE,1.5,1.5,1.5,73.6515382925669,1,1,1,2,3,Bird ,Rock, Nail,Cup,Roof,Sky,Cheese,Wine,Sea,Planet
+R_3ndQcVlo2c0VgYy,26,Female,Australia,FALSE,0,0,0,77.2089909296483,0,0,0,0,0,house,car,lettuce,toaster,tea,computer,telephone,light,bookshelf,chair
+R_3LccWP3c56bkeSJ,65,Male,Australia,FALSE,1,0,0.5,76.4379774175939,1,1,1,1,2,sheep,planet,ruler,chemical,mountain,atom,universe,pickle,nail,chair
+R_26mcctXA8bGWIu0,70,Female,Australia,FALSE,0,0,0,82.1452428719827,2,2,2,2,4,ocean,chook,tree,sleep,speed,cloth,broom,computer,quizz,lover
+R_2rjTzmlYqVbac74,55,Male,Australia,FALSE,0.5,0.5,0.5,77.7004692526091,1,1,1,2,3,Brick,Pillow,Car,Cat,Table,TV,Fork,Place mat,Cloud,Tree
+R_1FIzq4HWPmHnyG2,70,Male,United Kingdom of Great Britain and Northern Ireland,TRUE,1,1,1,66.3306982389518,1,1,1,0,1,laugh,cry,wine,complain,ache,itch,scratch,tap,dance,rain
+R_AdKQt2mNAHTSf9n,70,Female,Australia,FALSE,0,0,0,81.2519646116665,0,0,0,1,1,Fish,Boot,Umbrella,Thimble,Wrench,Sausage,Knee,Book,Leaf,Frame
+R_2vYaDuP3i6iNxio,55,Male,Australia,TRUE,1.5,1.5,1.5,61.1517676285335,0,0,0,0,0,mountain,lake,valley,beach,house,window,wall,lawn,road,desk
+R_2vZZMN3HrGcROyD,55,Male,Australia,FALSE,1.5,1,1.25,78.8858762454419,2,1,1,1,2,Chair,Water,Rock,Shirt,Envelope,Fridge,Train,Broom,Book,Hair roller
+R_2Pu2BmCNnQ21hSA,26,Female,Australia,FALSE,1.5,2.5,2,76.7995296134835,2,2,2,1,3,House,Work ,Meducation,Carpet,Dog,Supermarket,Walking stick ,Vitamins,Fan,Window
+R_C2nfgMwSULnH9Jv,55,Male,Australia,TRUE,0,0.5,0.25,73.2625366676421,0,0,0,2,2,Banana ,Screw,Cup,Tree,Head,Car,Mountain,Shirt,River,Forward
+R_ac07oKtD8l4zOPT,65,Male,Australia,FALSE,0,0.5,0.25,75.3135835485799,2,2,2,2,4,but,love,ennui,loath,hubris,terror,happenstance,cordiality,death,listen
+R_1PdRsjAKHffE6tG,70,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0.5,1.5,1,84.3010125149574,1,1,1,2,3,Hay,Water,Skyscraper,Oar,Computer,Knife,Car,Tree,Tea,Tent
+R_3fT21rL4CpCzy8j,26,Male,Australia,FALSE,1,1,1,80.1196961175828,0,0,0,0,0,Frog,Table,Town,Ocean,Star,Faeces,Tree,Computer,Guitar,Grass
+R_2yjyxt0LcP9ltQL,70,Male,United States of America,FALSE,0.5,0,0.25,82.2953134143193,2,2,2,2,4,rock,feather,neutron,love,gravity,decision,vacuum,red,ocean,time
+R_2uKjZUIIM1hraMW,18,Male,Australia,FALSE,0,0.5,0.25,79.5220512896776,1,1,1,1,2,Dog,Straw,Angel,Pedestal,Fan,Water bottle,Corn,Ceiling tile,Alcohol,Computer
+R_2Ebr5kh4wUvK1xs,13,Female,South Africa,TRUE,1.5,1.5,1.5,84.8613396043047,2,2,2,1,3,idiosyncratic,vellichor,psycho,extraordinary,philanthropy,rainbow,plasma,horizon,absorb,technicality
+R_1jPmOxvwqzuO7dK,70,Female,Australia,FALSE,1.5,0,0.75,70.532256684133,2,2,2,1,3,house,grass,water,insect,dress,brick,feather,shell,tree,bomb
+R_3GAPBCnbl4K9qBl,35,Female,Australia,FALSE,1,1,1,72.3621946005594,2,2,2,1,3,Orange,Bike,Sand,Ice,Star,Diamond,China,Silverware,Finger,Ant
+R_6xI81z8nIRdFkI1,26,Female,Australia,FALSE,1,0,0.5,78.3411361986683,0,0,0,2,2,cup,paper,lettuce,fridge,laptop,bed,kite,hammock,airplane,road
+R_32JBHeeDVkZMHNF,65,Male,Australia,TRUE,0.5,0,0.25,77.6288445506777,1,1,1,1,2,trees,biscuits,rocks,refrigerator ,Clouds,Steel,Car,crockery,welder,plastic
+R_uaYPmzElOMnf81b,35,Female,Australia,TRUE,0,0,0,81.9018440941969,2,2,2,0,2,cat,ruler,dominoes,balloon,hat,building,trampoline,grass,carpet,clouds
+R_1fiU8UrPqKKk031,26,Female,Australia,FALSE,0.5,0.5,0.5,70.3735679033257,2,2,2,1,3,Bed,Tree,Cat,Sky,Eye,Stone,Computer,Building,Cousin,Water
+R_3PB00wL2huesmSl,35,Male,Australia,FALSE,0,0,0,72.2176954859779,2,2,2,1,3,Animal,Rock,Gas,Water,Plasma,Bone,Flesh,House,Dinosaur ,Space
+R_pN7CSobzsd25XQ5,70,Female,Australia,FALSE,1,1,1,61.6979793423698,0,0,0,1,1,Black,White,Roof,Water,Plant,Wood,Concrete,Air,Clothing,Stars
+R_2tfWdtQc5hGKkXf,70,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,80.2046358407963,1,1,1,1,2,Cat,Tree,Fox,Soil,Aeroplane,Submarine,Funnel,Screw,Mortise,Goldfish
+R_1jN91nU1WnEFl8a,55,Male,Australia,FALSE,0,0.5,0.25,73.7551710435322,0,0,0,1,1,Up,Black,Cat,Engine,Steam,Soot,Rust,Vinyl,Wood,Phone
+R_zVDgAQxm4vlrbrj,35,Female,Australia,FALSE,1,1.5,1.25,79.118804784403,1,2,1,2,3,Cat,Chair,Car,Tree,Book,Saucepan,Door,Spider,Cheese,Lock
+R_2Yrd4SOEvJa4w4a,35,Female,Australia,FALSE,1.5,2.5,2,85.3181329666681,0,0,0,2,2,Cat,Bustier,Handle,Ladle,Rocket,Magnet,Photo,Cell,Icecream,Chalk
+R_yU4lVnZ5B5aGevT,9,Male,Australia,TRUE,1.5,1.5,1.5,74.707079607816,2,2,2,1,3,calculator,business card,globe ,pin,white board,pen,wood,magnet,jewelry,shirt
+R_tRQYRjtNo5fqo8h,18,Male,Australia,FALSE,1.5,0,0.75,79.3050738938507,0,0,0,0,0,Rat,Headphone,Microphone,Keyboard,Tafe,Train ,White ,School ,Headphone ,Carpet
+R_232V8xU93kfcKlS,55,Female,United Kingdom of Great Britain and Northern Ireland,FALSE,0,0,0,78.2587918852057,0,0,0,1,1,Cup,Car,Travellor,Flower,Wine,Pen,Trousers,Loaf,Desk,Hotel
+R_2RRoxlpgkcFyBjS,65,Female,Australia,TRUE,1,1,1,90.6122344501671,1,1,1,2,3,Shoe ,Aeroplane,Noise,Card,Kiwifruit,Wedding,Billion,Saucer,Complications,Seed
+R_1d7aCKEV2w2kVBr,55,Female,Australia,FALSE,0.5,0.5,0.5,80.2326553634235,NA,NA,NA,2,NA,foot,chair,lightbulb,meat,fridge,lawn mower,shower curtain,dust bin,fence,cat
+R_239bsT7dHzYiuD7,55,Male,Ireland,TRUE,1,1.5,1.25,78.085167901147,2,2,2,2,4,House,Spanner,Bird,Grass,Angle,Book,Sky,Atom,Wave,Wax
+R_2YghWifq6GSAFIZ,35,Male,Australia,FALSE,2.5,2.5,2.5,73.2180655712173,2,2,2,1,3,Rainbow,Dirt,Table,Computer,Tree,Idea,Plane,Chip,Shirt,Hair
+R_3MLrOAKsuKm38ai,35,Female,India,TRUE,1.5,0,0.75,75.0006361908856,0,0,0,1,1,Table,Plant ,Seed,Dungeon,Chair,Tray,Plate,Glass,Nail,Hammer
+R_2cvyYMnsP3dt914,35,Male,Australia,FALSE,0,0.5,0.25,74.945215738955,1,1,1,2,3,Ditch,Tree,ball,car,plate,snake,computer,orange,fence,rain
+R_1ond6hHsvSXhZyc,55,Male,Australia,TRUE,1.5,1.5,1.5,88.0819206059511,1,1,1,2,3,Dog,Saucepan ,Turnip,Genome,Comet,Index,Sea,Emotion,Salt,Chess
+R_3rGvYqGrarfP4AV,65,Female,Australia,FALSE,0,0,0,77.7920601800794,0,0,0,2,2,Rocket,cucumber,meringue,donut,jar,knife,planet,ocean,baby,pen
+R_3qNzT4DzDecUYQX,55,Male,Australia,FALSE,2.5,1,1.75,82.603072073488,2,2,2,2,4,Fire,Crystal ,Zoo,Prophecy ,Dynamo,Mountain ,Love ,Sloth ,Monarchy,Foam 
+R_3LYBQdxkueBMGHS,35,Female,Australia,FALSE,0,0,0,73.052226539169,0,0,0,1,1,Ocean,Park,School,Car,Blanket,House,Pencil,Cup,Tree,Potatoe
+R_3Gk2Nbv2wHs7ZMZ,55,Female,Australia,FALSE,0,0,0,74.7816712373779,1,1,1,2,3,Table,Dirt,Blood,Cat,Shoe,Purse,Fridge,Lipstick ,Toenail ,Apple
+R_1mxxgJgXw7FmA9C,26,Female,United Kingdom of Great Britain and Northern Ireland,TRUE,1.5,1.5,1.5,86.7946411438641,2,1,1,1,2,Cat,Barometer,Towel,Keyfob,Plutonium,Art,Handle,Daisy,Lightning,Friend
+R_bJhTMC1LtZjsfnz,55,Female,Australia,FALSE,1.5,1.5,1.5,83.4112187675644,1,1,1,1,2,Duck,Love,Tree,Mineral,Nano particle ,Space,Pole,Car,Rubbish,Sleep
+R_2QJqwBhxBUWBIXG,35,Male,Australia,TRUE,1.5,0.5,1,72.3452890203113,2,2,2,1,3,Wind,Sand,Fire,Woman,Mouse,Tree,Sad,Evil,Germany,Seashore 
+R_1Lj9jRQA8N0XfNh,35,Male,United Kingdom of Great Britain and Northern Ireland,FALSE,1.5,1.5,1.5,77.1951663706984,1,1,1,0,1,car,lion,house,cloud,grass,computer,oxygen,beer,intelligence,innovation
+R_VUMliM0Hjsbt7A5,7,Male,Australia,FALSE,0.5,2.5,1.5,76.2836827586094,0,0,0,0,0,steel,plastic,animals,people,trampoline,sea,coffee,milo,home,plants
+R_2wGOCNLKAp3hFI4,55,Male,Australia,FALSE,1.5,3,2.25,80.5771453749566,1,1,1,1,2,Kangaroo,Cricket atump,Coffee,Star,House,Rifle,Dart,Road paint,Pencil,Bathers
+R_RmJa7d0Ly5rFEFb,55,Male,Australia,FALSE,0.5,0.5,0.5,84.1130781297882,2,2,2,1,3,Dog,Brick,Cloud,Proton,Galaxy,Idea,Noose,Cartoon,Feeling,Breeze
+R_z0gbUDSEEARsqoV,55,Male,Australia,FALSE,0,0,0,76.9388060129824,1,1,1,2,3,ice,brick,clock,dirt ,pig,arrow,log,whisk,pillow,plastic
+R_ZeGZaKS3Ct6H9bH,35,Male,Australia,TRUE,2.5,3,2.75,80.9676861124379,1,2,1,2,3,clock,paper,universe,blue,bottle,event,clown,hotrod,rat,chair
+R_3kFewB8MqBHNL5f,55,Male,Australia,FALSE,3,1.5,2.25,75.8649511706261,1,1,1,1,2,dog,chair,tree,cloud,music,dirt,ocean,iris,elephant,bridge
+R_3PLcM39iavHWoIu,13,Male,Australia,FALSE,3,3,3,76.8728207264628,2,2,2,0,2,Apple,Rock,book,bag,dog,computer,lamp,Drawer,sticker,bridge
+R_27EA8gtAU1oNd7q,65,Male,Australia,TRUE,1.5,1.5,1.5,64.4771429754439,1,2,1,1,2,place,round,right,left,glass,sheet,slip,bag,draw,finish
+R_21vKXS6NFqM9tbv,18,Female,Australia,FALSE,0,0.5,0.25,76.3839884705487,1,1,1,2,3,cat,pencil,love,noun,potato,brick,leaf,computer,stone,door
+R_1M0Y66IrQ3xxLzz,55,Female,Australia,FALSE,1.5,1.5,1.5,80.0858324482327,2,1,1,1,2,Sky,Book,Scales,Kangaroo,Painting,Scarf,Blossom ,Crane,Bee,Knife 
+R_3MfCEuBZ640216t,55,Female,Australia,TRUE,0,0.5,0.25,70.196246391251,2,2,2,2,4,idea,bird,home,trip,plain,sheep,tree,road,jumper,pot

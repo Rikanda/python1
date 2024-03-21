@@ -882,7 +882,7 @@ R_2rvVArNY4j8IaMe	55	Male	Australia	FALSE	NA	NA	NA	75.440749384108	NA	NA	NA	1	NA
 R_1CK4tFM8hS70aVb	26	Female	Australia	FALSE	NA	NA	NA	80.7149718559924	NA	NA	NA	2	NA	arrow	giant	lemur	window	habitat	diamond	apple	flower	tile	piano																		
 R_2BtjxwDM6ogvJPg	55	Male	Australia	FALSE	NA	NA	NA	89.5577944061231	NA	NA	NA	2	NA	page	column	finger 	pencil	cauliflower	helicopter	barricade	film	placement	reed																		
 R_aY3ev8SXQ6XpQ3L	26	Male	Australia	FALSE	NA	NA	NA	80.4558908167694	NA	NA	NA	1	NA	Stop	Go	Saxophone	Lentil	Magic	Special	Fan	Vomit	Money	Lounge																		
-R_2R8EQE3dWVLXocs	55	Male	Venezuela	 Bolivarian Republic of...	FALSE	NA	NA	NA	94.096301746599	NA	NA	NA	2	NA	Towtruck	Bakedbeans	Chainsaw	Flour	Satellite	Seaweed	Grumpiness	Torture	Elegance	Miniature 																	
+R_2R8EQE3dWVLXocs	55	Male	Venezuela	FALSE	NA	NA	NA	94.096301746599	NA	NA	NA	2	NA	Miniature 	Towtruck	Bakedbeans	Chainsaw	Flour	Satellite	Seaweed	Grumpiness	Torture	Elegance																		
 R_3HzFbPE78Qs8W4c	55	Male	Australia	FALSE	NA	NA	NA	82.8295621982155	NA	NA	NA	1	NA	rock	lettuce	music	cloud	pig	doorway	needle	reign	unicorn	football																		
 R_beH5jv6QG4kzmRb	55	Female	NA	FALSE	NA	NA	NA	87.4902902326236	NA	NA	NA	2	NA	Pianist	Flower	Whale	Stars	Banana	Gymnasium	Library	Soil	Koala	Home																		
 R_1eCSNGRXGooAj0b	55	Female	Australia	FALSE	NA	NA	NA	76.7438748762721	NA	NA	NA	1	NA	ship	plate	bird	island	desk	tomato	wind	nose	cushion	hat																		
@@ -1599,7 +1599,7 @@ R_211DuiCgUFg54WB	70	NA	NA	NA	NA	NA	NA	77.4369653846536	NA	NA	NA	2	NA	Curtain	St
 R_3lX0YN8JAYp9SQw	35	Female	Australia	FALSE	NA	NA	NA	93.6371945778817	NA	NA	NA	2	NA	mouse	eggbeater	limerick	galaxy	condominium	grain	pimp	eyesore	element	company																		
 R_2EuWl35qeIYNJtw	35	Male	Australia	FALSE	NA	NA	NA	81.0726120003632	NA	NA	NA	2	NA	caterpillar	mango	pin	tree	flute	sock	hairbrush	crane	elephant	tornado																		
 R_3EaKS7uTxxlMYfo	35	Female	New Zealand	FALSE	NA	NA	NA	82.3988765311827	NA	NA	NA	2	NA	apple	dirt	sky	concrete	pond	textbook	monocle 	wedding dress	skyscraper	ant																		
-R_DIb3MASVfkqCgZH	35	Male	Iran	 Islamic Republic of...	TRUE	1.5	0	0.75	77.3934768424148	1	1	1	1	2	Pen	Carpet	Television 	Watch	Hat	Balcony 	Socks 	Car	Street	Star																	
+R_DIb3MASVfkqCgZH	35	Male	Iran	TRUE	1.5	0	0.75	77.3934768424148	1	1	1	1		Star	Pen	Carpet	Television 	Watch	Hat	Balcony 	Socks 	Car	Street																		
 R_1Ov2or9uFj0iPPU	55	Female	Australia	FALSE	NA	NA	NA	85.7302661741241	NA	NA	NA	1	NA	Omelette	Bra	Wooden bench	Clock	Eye	Leopard	Volcano	Tick	Pamplet	Aquarium 																		
 R_8JosmGY0FcdrAWd	55	Male	United Kingdom of Great Britain and Northern Ireland	TRUE	NA	NA	NA	91.5787583006368	NA	NA	NA	2	NA	Trifle 	Plough	Altimeter 	Pool	Pavement 	Sap	Thread	Ink	Tee	Knuckle 																		
 R_2Xgm2k1xUGLnKEW	70	Female	Australia	FALSE	NA	NA	NA	77.4206167885235	NA	NA	NA	1	NA	Pin	House	Road	Watch	Cheese	Peach	Shoe	Nail	Flower	Aeroplane 																		
@@ -4500,7 +4500,7 @@ R_068FPpvGJ5L5seB	55	Male	Australia	FALSE	NA	NA	NA	75.1840133042563	NA	NA	NA	2	N
 R_2OOU8xIrrweZMJr	55	NA	NA	NA	NA	NA	NA	90.2266063968584	NA	NA	NA	0	NA	Cat 	Beetroot	Algorithm	Tablecloth	Peninsula 	Husband	Bottle	Synopsis	Sculpture	String 																		
 R_WcAlrCYW5VnPRHH	35	Female	Australia	TRUE	NA	NA	NA	86.5771041296068	NA	NA	NA	1	NA	dog	mountain	paperclip	motor	textbook	jumping rope	insect	ball	umbrella	planet																		
 R_cOWZVOBpSHenZYt	65	Female	Australia	FALSE	NA	NA	NA	76.5555238085134	NA	NA	NA	0	NA	Cat	Snail	Nail	Toothbrush	Gate	Shoe	Stone	Book	Food	Elastic																		
-R_3e32KP5Rp2skynm	55	Male	Iran	 Islamic Republic of...	TRUE	NA	NA	NA	80.8172839560679	NA	NA	NA	1	NA	Heaven	Disco	Children	Chemistry	Fame	Pants	Bicycle	Teeth	Book	Fashion																	
+R_3e32KP5Rp2skynm	55	Male	Iran	TRUE	NA	NA	NA	80.8172839560679	NA	NA	NA	1	NA	Fashion	Heaven	Disco	Children	Chemistry	Fame	Pants	Bicycle	Teeth	Book																		
 R_OlBR6KsdMLexLOh	70	Female	Australia	FALSE	NA	NA	NA	76.5563091351872	NA	NA	NA	1	NA	bike	stool	window	water	cloud	carpet	computer	paper	pencil	phone																		
 R_eqVqO1VPXZ5gd33	35	NA	NA	NA	NA	NA	NA	86.3709265632289	NA	NA	NA	NA	NA	Umbrella	Potato peeler	Netball	Chair	Hammer	Christmas decoration	Bottle	Car	Hair tie	Stepping stone																		
 R_3m3FiUqVGyg0OFE	55	Female	Australia	FALSE	NA	NA	NA	75.5912198640761	NA	NA	NA	2	NA	Surprise	Dog	Flower	Bread	Desk	Horsevacuum	Horoscope 	Food	Slime	Computer 																		
@@ -5457,7 +5457,7 @@ R_2wREX2R6aZzbYbX	55	Male	Australia	FALSE	NA	NA	NA	73.6429957052072	NA	NA	NA	1	N
 R_2YDJ1R2NFSxv0Ew	35	Male	Australia	FALSE	NA	NA	NA	81.8643070136507	NA	NA	NA	1	NA	Japan	Cooking	Mathematics	Bicycle	Depth sounder	Carpet	Child	Mushroom	Plateau	Supernova																		
 R_1239ZsNnNWmLQIF	26	Female	Pakistan	TRUE	NA	NA	NA	72.0403153981481	NA	NA	NA	0	NA	Room	Child	Comb	Shampoo	Finger	Bed	Ache	Sex	Suitcase	Rain																		
 R_2atxzs0YgyOtEI3	65	Male	United Kingdom of Great Britain and Northern Ireland	FALSE	NA	NA	NA	79.6104091330476	NA	NA	NA	1	NA	dog	lettuce	car	fire	cloud	star	computer	window	tyre	glasses																		
-R_ub1vBje0KgPvNwB	35	Male	Iran	 Islamic Republic of...	TRUE	NA	NA	NA	71.9486318883442	NA	NA	NA	2	NA	Book	Computer	Phone	Bag	Pen	Money	Mouse	Vase	Plate	Cup																	
+R_ub1vBje0KgPvNwB	35	Male	Iran	TRUE	NA	NA	NA	71.9486318883442	NA	NA	NA	2	NA	Cup	Book	Computer	Phone	Bag	Pen	Money	Mouse	Vase	Plate																		
 R_2vZZMN3HrGcROyD	55	Male	Australia	FALSE	1.5	1	1.25	78.8858762454419	2	1	1	1	2	Chair	Water	Rock	Shirt	Envelope	Fridge	Train	Broom	Book	Hair roller																		
 R_1LewmMu84TcEhbN	35	Female	Australia	FALSE	NA	NA	NA	82.6089215065752	NA	NA	NA	0	NA	Bridge	Jelly	Mouse	Cushion	Soap	Love	Atom	Hat	Green	School																		
 R_1floSCBNRiGC6vJ	55	Female	South Africa	FALSE	NA	NA	NA	77.1137724320094	NA	NA	NA	1	NA	bed	 floor 	book 	rag 	hat 	match	animal	gemstone	toe	doof																		
@@ -6135,7 +6135,7 @@ R_3NHRzCpcwe48ARx	13	Female	Australia	FALSE	NA	NA	NA	74.9098599666641	NA	NA	NA	0
 R_3kiXCxPqj5ByLx0	18	Female	Australia	FALSE	NA	NA	NA	71.2796329032807	NA	NA	NA	0	NA	chair	table	shoe	laptop	car	phone	walking	bottle	glass	plate																		
 R_wNTR4pnahnqYVKV	18	Female	Australia	FALSE	NA	NA	NA	90.4670831969097	NA	NA	NA	1	NA	baseball	table	can opener	folder	tree	bomb	eyelash	freezer	bridge	backpack																		
 R_2YV7Z7LzY1zQcw8	55	NA	NA	NA	NA	NA	NA	73.2394357877118	NA	NA	NA	NA	NA	Surprise	Drink	Horse	Bed	Flowers	Book	sunshine	dumpling	computer	love																		
-R_1CJgQ0uTo3ZKj1o	13	Female	Venezuela	 Bolivarian Republic of...	FALSE	NA	NA	NA	82.1976143378942	NA	NA	NA	1	NA	ice	donut	fence	people	poster	soccer	fungi	chemical	neuron	circuitboard																	
+R_1CJgQ0uTo3ZKj1o	13	Female	Venezuela	FALSE	NA	NA	NA	82.1976143378942	NA	NA	NA	1	NA	circuitboard	ice	donut	fence	people	poster	soccer	fungi	chemical	neuron																		
 R_2anoijKbvigRzPT	13	NA	NA	NA	NA	NA	NA	78.0291650976453	NA	NA	NA	0	NA	donuts 	trees	school 	love 	brain	keyboard	apple	toes	number	art																		
 R_1FD7DagMPiK0xMP	13	NA	NA	NA	NA	NA	NA	73.6834879609801	NA	NA	NA	1	NA	people 	cupckes	oranges	chips	chocolate	foot	hair	broccoli	carrot	mouse																		
 R_3n287278R66ErDw	13	Female	Australia	FALSE	NA	NA	NA	71.4840508642651	NA	NA	NA	2	NA	shoe 	pot 	dog	ran 	happy 	table 	kitchen 	homework 	toothbrush 	ice-cream 																		
@@ -7886,7 +7886,7 @@ R_3spH3iBH70DYrxh	35	NA	NA	NA	NA	NA	NA	88.3914308312038	NA	NA	NA	1	NA	Haystack	S
 R_2qlqNzOaiU2s7P5	55	NA	NA	NA	NA	NA	NA	80.375564985332	NA	NA	NA	2	NA	zebra	balloon	car	crane	battery	folder	flower	desktop	dachshund	sheep																		
 R_3PLcM39iavHWoIu	13	Male	Australia	FALSE	3	3	3	76.8728207264628	2	2	2	0	2	Apple	Rock	book	bag	dog	computer	lamp	Drawer	sticker	bridge																		
 R_27EA8gtAU1oNd7q	65	Male	Australia	TRUE	1.5	1.5	1.5	64.4771429754439	1	2	1	1	2	place	round	right	left	glass	sheet	slip	bag	draw	finish																		
-R_21By0mRJPrF9pkp	26	Female	Iran	 Islamic Republic of...	TRUE	NA	NA	NA	78.7595949756602	NA	NA	NA	0	NA	Scarf	Poster	Cat	Gelato 	Chair 	Hair	Star	Friend 	Internet 	Math 																	
+R_21By0mRJPrF9pkp	26	Female	Iran	TRUE	NA	NA	NA	78.7595949756602	NA	NA	NA	0	NA	Math 	Scarf	Poster	Cat	Gelato 	Chair 	Hair	Star	Friend 	Internet 																		
 R_NXf67tbXuTcEbeN	55	Female	Australia	FALSE	NA	NA	NA	82.5621735814604	NA	NA	NA	1	NA	dog	kettle	thought	win	Valve	wheel	eraser	dance	story	Bomb																		
 R_3rHifqQVwWf9z4p	18	NA	NA	NA	NA	NA	NA	77.5245830239285	NA	NA	NA	NA	NA	Cat	Dog	Potato	Tomato	Galaxy	Pen	Tennis ball	Building	Cannon	Tree																		
 R_Rxdf36iTwtjkPcZ	70	Female	United Kingdom of Great Britain and Northern Ireland	FALSE	NA	NA	NA	80.7329317820924	NA	NA	NA	2	NA	Hat	Toe	Chrysantemum	Church	Actor	Game	Horse	Pillow	Country	Podcast																		

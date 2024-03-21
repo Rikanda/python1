@@ -21,7 +21,7 @@ def print_scatter(df, attrib, count):
 def declare_dataframe(path, separ):
     MY_DATASET = path
     df = pd.read_csv(MY_DATASET, sep=separ)
-    #    print(df.head())
+    print(df.head())
     return df
 
 

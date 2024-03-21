@@ -1,0 +1,26 @@
+id,age,gender,country,multilingual,aut.originality.1,aut.originality.2,aut.originality,dat,problems.questions.1,problems.questions.2,problems.questions,problems.cra,problems.combined,word.1,word.2,word.3,word.4,word.5,word.6,word.7,word.8,word.9,word.10
+R_PLHxNfAogK50xyh,26,Male,Papua New Guinea,FALSE,1,1,1,71.5785238714445,1,1,1,1,2,Chair,Hat,Scissors,Hook,Door,Iron,Clock,paint,weights,desk
+R_3ESRQy8EiQN8tkv,7,Female,Chile,TRUE,1.5,1.5,1.5,75.7875552134854,1,1,1,0,1,cake,person,beetle,paper,chicken,blood,hair,flute,elephant,underpants
+R_1DYJmUMM6277WwY,35,Male,Austria,TRUE,1.5,2,1.75,84.477014879563,2,2,2,1,3,bean,rocket,crystal,note,cable,book,lava,concept,protron,whisp
+R_3JqHYUlNw8srlVs,55,Male,Zambia,FALSE,1,1,1,74.1027376126675,1,1,1,1,2,Car,Horse,House,Flower,Donut,Hair,Tool,Rain,Chair,Windows 
+R_DIb3MASVfkqCgZH,35,Male,Iran,TRUE,1.5,0,0.75,77.3934768424148,1,1,1,1,,Star,Pen,Carpet,Television ,Watch,Hat,Balcony ,Socks ,Car,Street
+R_2EE6ZEaMJCjcZDO,65,Female,Netherlands,TRUE,0,0,0,68.1159596358027,1,1,1,2,3,chair,ceiling,tree,fire,water,air,rock,organism,heat,cold
+R_vdicjE0xSXpqp2x,65,Female,Netherlands,FALSE,0,0,0,74.5348405270349,1,1,1,1,2,shovel,pan,sand,water,crayon,computer,car,aeroplane,book,wool
+R_ZeHpn94Hh9tqk5X,70,Male,Netherlands,TRUE,1.5,1.5,1.5,62.672364286014,0,0,0,1,1,Apple,Rock,Tree,Sand,Grass,Fence,Brick,Pole,Football,Rubbish bin
+R_x9mDhHhAD2D9O81,70,Female,Hungary,TRUE,0,0.5,0.25,78.1208502306115,0,0,0,2,2,word,summer,music,book,cloud,sand,asphalt,tree,painting,sailboat
+R_2TAvroaNmOsrGoH,13,Male,Iraq,TRUE,0,0,0,78.5071915459065,1,1,1,1,2,laptop,car,song,fart,shoe,tshirt,word,book,paper ,table
+R_1DpQnvpi68l68sL,9,Male,Brazil,TRUE,0,0,0,71.5967408957936,0,1,0,0,0,Laptop,Car,Phone,T-shirt,Case,table ,Paper,Mouse ,Seat,Television
+R_VVGpBF8MmOXtU1X,13,Female,Malaysia,TRUE,1.5,0.5,1,72.8800229373432,1,1,1,2,3,book,paper,pen,animals,school,park,car,phone,country,ball
+R_tJMlgZtXbAC9XUd,70,Female,Belgium,TRUE,0,0.5,0.25,83.2587206070977,0,0,0,0,0,Nightie,paint,sweets,doorbell,carpet,pencils,trees,clouds,apple,telephone
+R_8kMf8Fybw73BQg9,55,Female,Greece,TRUE,1.5,1.5,1.5,79.490170947143,1,1,1,2,3,Gorilla ,Ocean,Flower,Ladder,Bike ,Coin,Planet,Radio,Eggshell ,Concert 
+R_1eK9M10m9V7WgOL,35,Male,Finland,TRUE,1.5,0.5,1,79.0318795790275,1,1,1,1,2,car,toothbrush,mountain,hair,atom,thing,ache,equation,orgasm,scuffle
+R_2w65qIofqaB6tsU,55,Male,Poland,TRUE,0.5,0,0.25,74.4008953372637,1,2,1,1,2,cat,brick,oxygen,sun,fish,tree,bicycle,mobile phone,lightning,comet
+R_3I3coYRwDXdkEhj,70,Male,Germany,TRUE,0,0,0,69.9287160610159,0,0,0,2,2,Water,Sand,Air,Cornflakes,Bricks,Grease,Steel,Trees,Salt,Wasps
+R_1rewTamQQubNVhz,70,Male,France,FALSE,1.5,0,0.75,78.7482620704742,1,1,1,2,3,pencil,shed,bird feeder,trees,bark,path,knob,paper bag,cable,wine
+R_3lAcC1BOmkgNwCf,35,Male,Philippines,TRUE,1.5,0.5,1,73.8931494809332,1,1,1,1,2,Cat,Shark ,Snake ,Dinosaur ,Tablecloth ,Mop ,Car,Bicycle ,Pencil ,Shirt 
+R_1GDoQjeaPo4UOMU,13,Female,China,TRUE,1.5,1.5,1.5,80.1661340608483,0,0,0,1,1,chair,pencil,cloud,building,cat,rose,pizza,hair,sticker,concrete
+R_VU1qEdgQlY54A7L,18,Female,Denmark,TRUE,1,0,0.5,87.0695555050458,1,1,1,1,2,Foot cream ,Tea pot,Duvet cover,Cult ,Idea,Circus,Vaccum cleaner ,Bogie ,Poison ,Glare 
+R_3Huz08O7IiWSOEE,70,Female,Austria,TRUE,1,1.5,1.25,77.1915941011338,1,1,1,2,3,Table,Wardrobe,Dress,Cat,Mountain,Coconut,Fan,Microwave oven,Slate,Paint
+R_3qglKAxQkcQjCIB,18,Female,China,TRUE,3,0,1.5,84.5586809229904,0,0,0,2,2,Pen,Vocalno,Phone,Mars,Musicians,Tower,Forest,Dust,Santa,Clown
+R_4O2tprP4os253sl,55,Male,Bosnia and Herzegovina,TRUE,1,1,1,73.1566997511046,2,2,2,0,2,fridge,stove,house,boat,floor,celling,flood,drought,sun,rain
+R_3PLDfcDJt12sxhA,26,Female,Russian Federation,TRUE,3,1.5,2.25,83.1467574550992,0,0,0,1,1,car,Russia,spade,computer,card,telephone,stapler,water bottle,toast,finger nail
