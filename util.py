@@ -24,7 +24,21 @@ def declare_dataframe(path, separ):
     print(df.head())
     return df
 
+#ыгрузка для обработки в семидис
+def semidis_export(dataset, path):
+    csvfile = export_csv.create(dataset, path)
+    return csvfile
 
+# выгрузка для lse
+def lse_export(dataset, path):
+    csvfile = export_csv.create(dataset, path)
+    return csvfile
+
+def any_export(d,f,t,s):
+    csvfile = export_csv.transform(d,f,t,s)
+    return csvfile
+
+# d - путь и файл для парсинга
 def import_data(d):
     datalist = import_csv.parseCSV(d)
     return datalist
