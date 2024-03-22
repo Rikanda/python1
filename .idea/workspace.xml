@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="separate data">
-      <change afterPath="$PROJECT_DIR$/source/foreigners.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/natives.csv" afterDir="false" />
+    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="prepare data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigresearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigresearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleardata.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleardata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/foreigners.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/foreigners.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/study21.сsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/study24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study24.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.py" beforeDir="false" afterPath="$PROJECT_DIR$/research.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/.~lock.all_creativ.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/.~lock.foreigners.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/.~lock.nat_creativ.csv#" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711049962521</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="prepare data">
+      <option name="closed" value="true" />
+      <created>1711060747653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060747653</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +169,7 @@
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="organize files" />
     <MESSAGE value="separate data" />
-    <option name="LAST_COMMIT_MESSAGE" value="separate data" />
+    <MESSAGE value="prepare data" />
+    <option name="LAST_COMMIT_MESSAGE" value="prepare data" />
   </component>
 </project>

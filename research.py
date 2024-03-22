@@ -12,14 +12,16 @@ import export_scatterplot
 MY_DATASET = 'source/model.csv'
 df = pd.read_csv(MY_DATASET)
 # print(df.head())
-x = df[['ukwac', 'subtitle', 'baroni', 'glove', "tasa", 'lse', 'dat']]
+x = df[['baroni','ukwac', 'subtitle', 'glove', "tasa", 'lse', 'dat']]
 y = df['originality']
 lr = LinearRegression()
 lr.fit(x, y)
 pred = lr.predict(x)
 print(mean_absolute_error(y, pred), np.mean(y))
 
+print('Coefficients: ', lr.coef_)
 
+print('Variance score: {}'.format(lr.score(x, y)))
 def print_scatter():
     v = df['dat']
     pf = str(2)
