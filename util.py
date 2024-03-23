@@ -31,7 +31,7 @@ def semidis_export(dataset, path):
 
 # выгрузка для lse
 def lse_export(dataset, path):
-    csvfile = export_csv.create(dataset, path)
+    csvfile = export_csv.lse_export(dataset, path)
     return csvfile
 
 def any_export(d,f,t,s):
