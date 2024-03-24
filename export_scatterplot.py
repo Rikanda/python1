@@ -7,3 +7,5 @@ def export_scpl(values, postfix):
     sns.histplot(data = values, kde = True)
     filename = "scatterplots/scatterplot" + postfix +".jpg"
     plt.savefig(filename)
+
+
