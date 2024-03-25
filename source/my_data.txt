@@ -1,0 +1,39 @@
+книга
+аист
+нож
+планета
+дорога
+справедливость
+море
+монета
+смерть
+баскетбол
+
+book
+stork
+knife
+planet
+road
+justice/fairness
+sea
+coin
+death
+basketball
+
+Forward Flow: 0.929
+DSI_ukwac = 0,8866
+DSI_subtitle = 0,9462
+DSI_baroni = 0,9319
+DSI_glove = 0,9152
+DSI_TASA = 0,9958
+LSE = 0,946
+dat = 85,85
+===
+DSI_ukwac = 0,8685
+DSI_subtitle = 0,9439
+DSI_baroni = 0,9235
+DSI_glove = 0,9012
+DSI_TASA = 0,997
+LSE = 0,945
+dat = 82,3
+Forward Flow: 0.932

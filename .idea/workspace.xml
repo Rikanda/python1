@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="separate data">
-      <change afterPath="$PROJECT_DIR$/source/foreigners.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/natives.csv" afterDir="false" />
+    <list default="true" id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="add second dataset">
+      <change afterPath="$PROJECT_DIR$/source/my_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigresearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigresearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleardata.py" beforeDir="false" afterPath="$PROJECT_DIR$/cleardata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/foreigners.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/foreigners.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/study21.сsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/study24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/study24.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newresearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/newresearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/koef3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/koef3.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Natalya &lt;soltk7@yandex.ru&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -41,19 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bigresearch.executor": "Run",
-    "Python.cleardata.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.research.executor": "Run",
-    "Python.util.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/test/python1/source"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bigresearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cleardata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newresearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.research.executor&quot;: &quot;Run&quot;,
+    &quot;Python.util.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/test/python1/source&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\test\python1\source" />
@@ -97,6 +100,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\soltk\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="960c26e8-7d11-423b-83c1-4eebc9dbdf49" name="Changes" comment="" />
@@ -145,7 +151,39 @@
       <option name="project" value="LOCAL" />
       <updated>1711049962521</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="prepare data">
+      <option name="closed" value="true" />
+      <created>1711060747653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060747653</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add second dataset">
+      <option name="closed" value="true" />
+      <created>1711147063567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711147063567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add second dataset">
+      <option name="closed" value="true" />
+      <created>1711147101388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711147101388</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add second dataset">
+      <option name="closed" value="true" />
+      <created>1711215275901</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711215275901</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +203,19 @@
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="organize files" />
     <MESSAGE value="separate data" />
-    <option name="LAST_COMMIT_MESSAGE" value="separate data" />
+    <MESSAGE value="prepare data" />
+    <MESSAGE value="add second dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second dataset" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/research.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

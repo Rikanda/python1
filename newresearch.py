@@ -116,6 +116,7 @@ df = util.declare_dataframe('source/dataset140.csv',',')
 
 y1 = 'aut_originality'
 
+
 x1 = 'dat'
 x2 = 'ukwac'
 x3 = 'subtitle'
@@ -143,8 +144,7 @@ x33 = 'valids'
 x34 = 'Flow'
 x35 = 'lse'
 
-
-x = df[[x1,x2,x3,x4,x5,x6,x34]]
+x = df[[x2,x3,x4,x5,x6,x34,x35]]
 y = df[y1]
 
 #print(df.info())
@@ -152,8 +152,8 @@ y = df[y1]
 lr = LinearRegression()
 lr.fit(x, y)
 
-print('Coefficients: ', lr.coef_)
-print('Variance score: {}'.format(lr.score(x, y)))
+# print('Coefficients: ', lr.coef_)
+# print('Variance score: {}'.format(lr.score(x, y)))
 
 from sklearn.preprocessing import PolynomialFeatures
 
@@ -172,7 +172,7 @@ lin_reg_3.fit(X_poly3, y)
 
 koef = lin_reg_3.coef_
 
-print('Coefficients: ', koef)
+#print('Coefficients: ', koef)
 print('Variance score: {}'.format(lin_reg_3.score(X_poly3, y)))
 
 from sklearn.linear_model import LassoLars
@@ -180,25 +180,52 @@ from sklearn.metrics import r2_score
 from sklearn.model_selection import train_test_split
 
 # Loading dataset
+Flow0 = 0.929
 
-ko =[]
-for k in koef:
-    ko.append(str(k))
+DSI_ukwac1 = 0.8866
+DSI_subtitle1 = 0.9462
+DSI_baroni1 = 0.9319
+DSI_glove1 = 0.9152
+DSI_TASA1 = 0.9958
+LSE1 = 0.946
+dat1 = 85.85
 
-pprint.pprint(ko)
+xtlist = []
+xtlist.append([0.8866, 0.9462, 0.9319, 0.9152, 0.9958, 0.923, 0.946])
 
-util.export_data(ko, 'results/koef3.csv', 'Коэффициенты')
+DSI_ukwac2 = 0.8685
+DSI_subtitle2 = 0.9439
+DSI_baroni2 = 0.9235
+DSI_glove2 = 0.9012
+DSI_TASA2 = 0.997
+LSE2 = 0.945
+dat2 = 82.3
 
+xtlist.append([0.8685, 0.9439, 0.9235, 0.9012, 0.997, 0.929, 0.945])
+# ko =[]
+# for k in koef:
+#     ko.append(str(k))
+#
+# pprint.pprint(ko)
+#
+# util.export_data(ko, 'results/koef3.csv', 'Коэффициенты')
 
+xdf = pd.DataFrame(xtlist)
+print(xdf)
 
+xt1 = xdf[[0,1,2,3,4,5,6]]
+xt1_poly3 = poly_reg3.fit_transform(xt1)
+DT_predict = lin_reg_3.predict(xt1_poly3) #Predictions on Testing data
+print(DT_predict)
+print(round(100 - (len(df[df[y1]>DT_predict[0]])/141)*100))
+print(round(100 - (len(df[df[y1]>DT_predict[1]])/141)*100))
 
-#ko1 = [i for i in (0, len(ko)-5) ]
-# print(koef.ndim)
-# print(koef.shape)
-# print(koef.size)
+def print_scatter():
+    v = df['dat']
+    pf = str('dat')
+    export_scatterplot.export_scpl(v, pf)
 
-
-
+#print_scatter()
 
 # Splitting training and testing data
 # X_train, X_test, y_train, y_test = train_test_split(x, y,
@@ -217,3 +244,4 @@ util.export_data(ko, 'results/koef3.csv', 'Коэффициенты')
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
+#print(df['dat'].corr(df[y1]))
