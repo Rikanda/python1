@@ -36,4 +36,8 @@ DSI_glove = 0,9012
 DSI_TASA = 0,997
 LSE = 0,945
 dat = 82,3
-Forward Flow: 0.932
+Forward Flow: 0.923
+
+[1.48046875 1.92773438]
+89
+94 с юстицией
